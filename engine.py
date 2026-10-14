@@ -282,6 +282,8 @@ def next_best_action(intent: str, order: dict | None, customer: dict | None, pro
 
     if intent == "cancel_order":
         if status == "Processing":
+            if order["payment_method"] == "Cash on Delivery":
+                return "Cancel order", "Not shipped yet — free cancellation. Cash on Delivery, so no refund needed.", False
             return "Cancel order", "Not shipped yet — free cancellation, refund per POL-06.", False
         if status in ("Shipped", "Out for Delivery", "Delayed"):
             return "Offer refuse-delivery / return", "Already shipped; cancellation not possible (POL-07).", False
@@ -475,16 +477,22 @@ class SupportPilot:
         elif a.intent == "refund_status":
             if a.action == "Share refund timeline":
                 days = a.action_detail.split("takes ")[-1].split(" business")[0]
+                dest = ("NovaMart Wallet (or your bank account, if you prefer)" if o["payment_method"] == "Cash on Delivery"
+                        else o["payment_method"])
                 body = (f"Your refund of ₹{o['amount']:,} for order {oid} has been initiated to your "
-                        f"{o['payment_method']}. It usually reflects within {days} business days. If it hasn't "
+                        f"{dest}. It usually reflects within {days} business days. If it hasn't "
                         "arrived after that, reply here and I'll trace it with the bank.")
             else:
                 body = (f"Order {oid} is currently '{o.get('status')}', so a refund hasn't been initiated yet. Once "
                         "the return/cancellation is completed, the refund is processed within 48 hours.")
         elif a.intent == "cancel_order":
             if a.action == "Cancel order":
-                body = (f"I've cancelled order {oid} ({prod}). Your refund of ₹{o['amount']:,} will be processed to "
-                        f"your {o['payment_method']} as per our refund timelines.")
+                if o["payment_method"] == "Cash on Delivery":
+                    body = (f"I've cancelled order {oid} ({prod}). Since this was a Cash on Delivery order, no payment "
+                            "was taken, so there is nothing to refund and nothing more you need to do.")
+                else:
+                    body = (f"I've cancelled order {oid} ({prod}). Your refund of ₹{o['amount']:,} will be processed to "
+                            f"your {o['payment_method']} as per our refund timelines.")
             else:
                 body = (f"Order {oid} has already been shipped, so it can't be cancelled now. You can simply refuse "
                         "the delivery, or raise a return once it's delivered, and we'll refund you.")
