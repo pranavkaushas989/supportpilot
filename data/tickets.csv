@@ -1,0 +1,1201 @@
+ticket_id,created_at,channel,customer_id,order_id,message,intent,baseline_handle_min
+TCK-80000,2026-10-13,Email,C1097,ORD-50450,Is my Running Shoes Air out for delivery yet? ORD-50450 Regards.,where_is_my_order,6.5
+TCK-80001,2026-09-26,WhatsApp,C1174,,cricket bat kashmir willow not working out of the box. order ord-50404,damaged_item,7.9
+TCK-80002,2026-10-09,Email,C1027,ORD-50196,"Hi, I was charged Rs 11997 but order ORD-50196 shows payment pending.",payment_issue,6.7
+TCK-80003,2026-09-28,App,C1002,,"dear novamart, still waiting for refund of rs 3999 for ord-50267. please check. waiting for your reply.",refund_status,6.2
+TCK-80004,2026-09-23,WhatsApp,C1161,ORD-50461,"Namaste, My UPI payment for ORD-50461 went through but no order confirmation. Thanks.",payment_issue,11.7
+TCK-80005,2026-09-30,Email,C1037,ORD-50190,"Hi, Tracking for ORD-50190 is not updating. Where is my package? Waiting for your reply.",where_is_my_order,8.0
+TCK-80006,2026-09-21,App,C1233,ORD-50519,Kindly cancel ORD-50519 and refund the amount,cancel_order,3.9
+TCK-80007,2026-10-08,Chat,C1247,ORD-50115,"I want to cancel ORD-50115, ordered Cricket Bat Kashmir Willow by mistake. Regards.",cancel_order,4.4
+TCK-80008,2026-10-03,WhatsApp,C1070,ORD-50576,"Hey, Has my order ORD-50576 been shipped yet?",where_is_my_order,5.6
+TCK-80009,2026-10-01,Chat,C1012,,My account got blocked,account_issue,4.6
+TCK-80010,2026-10-08,WhatsApp,C1097,,"Hi, How long is the warranty on Mechanical Keyboard?",product_question,4.8
+TCK-80011,2026-10-10,Email,C1135,ORD-50554,"Dear NovaMart, You delivered another model, not Dumbbell Set 10kg. Order ORD-50554 Waiting for your reply.",wrong_item,11.1
+TCK-80012,2026-09-18,WhatsApp,C1002,ORD-50567,Ceramic Dinner Set not working out of the box. Order ORD-50567 Waiting for your reply.,damaged_item,10.8
+TCK-80013,2026-09-29,Chat,C1184,ORD-50520,"Cancel ordr ORD-50520 immediately, found it cheaper elsewhere. Regards.",cancel_order,5.0
+TCK-80014,2026-10-03,WhatsApp,C1148,ORD-50367,"Namaste, Where is my parcel? Order ORD-50367",where_is_my_order,6.0
+TCK-80015,2026-09-26,Email,C1191,ORD-50410,"Hello team, I returned order ORD-50410 but haven't got my refund yet. Waiting for your reply.",refund_status,7.9
+TCK-80016,2026-10-03,App,C1050,ORD-50298,Money not received after return of ORD-50298,refund_status,7.3
+TCK-80017,2026-09-22,Chat,C1166,ORD-50164,"I want to cancel ORD-50164, ordered Perfume Oud 100ml by mistake. This is the second time I'm writing!",cancel_order,3.5
+TCK-80018,2026-09-28,WhatsApp,C1037,,"hello team, product quality defect - denim jacket leaking/broken. ord-50050",damaged_item,6.5
+TCK-80019,2026-09-16,Chat,C1218,,Is LED Desk Lamp available in other colours? Thanks.,product_question,4.5
+TCK-80020,2026-10-05,App,C1170,ORD-50438,"Namaste, What is the expected delivery date for ORD-50438?",where_is_my_order,7.5
+TCK-80021,2026-09-28,Chat,C1000,,"hi, different product shipped instead of leather wallet. ord-50465",wrong_item,9.7
+TCK-80022,2026-10-10,Chat,C1244,ORD-50281,"Namaste, Return request for ORD-50281, quality of Noise Cancelling Headphones is not as expected. Pls revert asap.",return_request,8.4
+TCK-80023,2026-09-22,Chat,C1002,ORD-50045,"Dear NovaMart, Smartwatch Active 2 not working out of the box. Order ORD-50045 Please help.",damaged_item,9.9
+TCK-80024,2026-10-06,Chat,C1209,,"hi, is my bedsheet double king out for delivery yet? ord-50537",where_is_my_order,5.6
+TCK-80025,2026-10-14,WhatsApp,C1201,ORD-50345,"Namaste, Why is it taking so long? ORD-50345 was due 7 days ago Pls revert asap.",delivery_delay,8.8
+TCK-80026,2026-09-24,Chat,C1016,ORD-50449,Can I still cancel order ORD-50449? I no longer need the Running Shoes Air.,cancel_order,4.0
+TCK-80027,2026-10-10,App,C1197,,"Namaste, Can you tell me if Building Blocks 500pcs supports fast charging? Regards.",product_question,5.2
+TCK-80028,2026-09-26,Chat,C1027,,"namaste, expected delivery date has passed for ord-50074 no update from your side at all regards",delivery_delay,10.7
+TCK-80029,2026-10-13,Chat,C1034,ORD-50546,"Hey, Can I get the tracking details for my Mechanical Keyboard? Order ORD-50546 Thanks.",where_is_my_order,5.5
+TCK-80030,2026-09-30,Email,C1149,,"hey, the mechanical keyboard arrived broken, box was crushed. order ord-50377. i want a replacement. regards.",damaged_item,11.5
+TCK-80031,2026-09-25,Chat,C1094,,Please update my phone number on my account. Waiting for your reply.,account_issue,5.1
+TCK-80032,2026-10-01,App,C1164,,the courier keeps postponing delivery of ord-50136. i needed it urgently for a gift. waiting for your reply.,delivery_delay,8.1
+TCK-80033,2026-09-29,WhatsApp,C1041,ORD-50035,"Namaste, please share delivery update for ORD-50035",where_is_my_order,3.6
+TCK-80034,2026-09-24,Chat,C1156,ORD-50383,"Hello team, Delivery date missed for ORD-50383, still waiting Please help.",delivery_delay,6.7
+TCK-80035,2026-09-26,App,C1235,ORD-50041,"Hello team, Money not received after return of ORD-50041 This is the second time I'm writing!",refund_status,9.2
+TCK-80036,2026-09-26,Chat,C1076,ORD-50365,"Dear NovaMart, Got someone else's item in my package for ORD-50365 Where is my Cotton Kurta Set Pls revert asap",wrong_item,8.6
+TCK-80037,2026-10-05,Email,C1134,ORD-50203,"Dear NovaMart, Any update on my shipment ORD-50203? Waiting for your reply.",where_is_my_order,8.8
+TCK-80038,2026-09-23,Chat,C1185,ORD-50223,"Return request for ORD-50223, quality of Smartwatch Active 2 is not as expected.",return_request,6.8
+TCK-80039,2026-10-04,Email,C1010,ORD-50170,Tracking for ORD-50170 is not updating. Where is my package?,where_is_my_order,3.9
+TCK-80040,2026-09-15,WhatsApp,C1179,ORD-50361,Mera order ORD-50361 kahan hai Waiting for your reply,where_is_my_order,4.7
+TCK-80041,2026-09-22,Chat,C1221,ORD-50455,"Hello team, I ordered Perfume Oud 100ml last week, order ORD-50455, when will it be delivered",where_is_my_order,7.9
+TCK-80042,2026-10-13,Email,C1112,,"hey, why is it taking so long? ord-50137 was due 3 days ago",delivery_delay,9.7
+TCK-80043,2026-09-15,Chat,C1161,ORD-50473,Where is my order ORD-50473? It still hasn't arrived. Please help.,where_is_my_order,4.3
+TCK-80044,2026-09-26,Chat,C1206,ORD-50404,"PLEASE TAKE BACK THE CRICKET BAT KASHMIR WILLOW, SIZE DOES NOT FIT. ORD-50404",return_request,9.3
+TCK-80045,2026-10-09,Email,C1151,ORD-50374,Kindly cancel ORD-50374 and refund the amount.,cancel_order,6.2
+TCK-80046,2026-10-03,WhatsApp,C1145,,"Dear NovaMart, Forgot password, reset not working",account_issue,5.2
+TCK-80047,2026-09-27,Email,C1019,ORD-50441,"DON'T SHIP ORDER ORD-50441, PLEASE CANCEL PLS REVERT ASAP.",cancel_order,4.9
+TCK-80048,2026-09-30,App,C1171,ORD-50565,"Hello team, What is the expected delivery date for ORD-50565? This is the second time I'm writing!",where_is_my_order,2.4
+TCK-80049,2026-10-02,App,C1019,,"dear novamart, received wrong colour of led desk lamp, i ordered another one. ord-50514",wrong_item,15.4
+TCK-80050,2026-10-03,Chat,C1246,ORD-50297,"Hey, When will refund for ORD-50297 reflect in my account?",refund_status,9.2
+TCK-80051,2026-10-03,App,C1209,ORD-50084,"Hello team, The Perfume Oud 100ml arrived broken, box was crushed. Order ORD-50084. I want a replacement. Please help.",damaged_item,17.5
+TCK-80052,2026-09-24,Email,C1237,,my account is locked after too many attempts. this is the second time i'm writing!,account_issue,6.7
+TCK-80053,2026-09-23,WhatsApp,C1206,ORD-50404,"Dear NovaMart, Please take back the Cricket Bat Kashmir Willow, size does not fit. ORD-50404",return_request,4.2
+TCK-80054,2026-09-27,Email,C1010,ORD-50309,"Namaste, Please cancel my order ORD-50309. Pls revert asap.",cancel_order,7.6
+TCK-80055,2026-09-20,Chat,C1153,,"namaste, i ordered smart fitness band last week, order ord-50589, when will it be delivered? this is the second time i'm writing!",where_is_my_order,5.8
+TCK-80056,2026-09-29,Chat,C1020,ORD-50513,"You sent me the wrong size/colour for Perfume Oud 100ml, order ORD-50513. This is the second time I'm writing!",wrong_item,8.3
+TCK-80057,2026-10-03,App,C1102,,"hello team, i'd like to exchange the building blocks 500pcs in order ord-50490 for a different size. regards.",return_request,7.9
+TCK-80058,2026-09-23,Chat,C1171,ORD-50565,"I want to cancel ORD-50565, ordered Perfume Oud 100ml by mistake. Waiting for your reply.",cancel_order,5.1
+TCK-80059,2026-09-23,App,C1186,ORD-50117,"WHEN WILL MY PACKAGE BE DELIVERED, ORDER ORD-50117 REGARDS.",where_is_my_order,7.3
+TCK-80060,2026-09-26,WhatsApp,C1032,ORD-50181,"Namaste, Exchange Noise Cancelling Headphones for bigger size, order ORD-50181",return_request,10.4
+TCK-80061,2026-09-17,App,C1185,ORD-50126,The Mechanical Keyboard stopped working after 2 days. Order ORD-50126. Need replacement asap. Please help.,damaged_item,14.6
+TCK-80062,2026-09-26,App,C1048,ORD-50078,"Hey, Any update on my shipment ORD-50078? Thanks.",where_is_my_order,5.7
+TCK-80063,2026-10-01,App,C1207,ORD-50037,"Dear NovaMart, Payment failed but amount was debited via Wallet. Order ORD-50037",payment_issue,10.8
+TCK-80064,2026-09-17,App,C1119,ORD-50429,"Namaste, My delivery is late by 6 days Order ORD-50429 Very disappointed Pls revert asap",delivery_delay,5.7
+TCK-80065,2026-10-10,Chat,C1236,ORD-50503,"Hey, I was charged Rs 5598 but order ORD-50503 shows payment pending.",payment_issue,10.0
+TCK-80066,2026-09-23,Chat,C1055,ORD-50369,"Hi, Money got deducted twice for order ORD-50369. Please refund the extra amount. Waiting for your reply.",payment_issue,9.0
+TCK-80067,2026-10-08,Chat,C1040,ORD-50009,"Namaste, Hi, can you tell me the status of order ORD-50009? Pls revert asap.",where_is_my_order,6.4
+TCK-80068,2026-10-04,Chat,C1035,ORD-50394,Where is my order ORD-50394 It still hasn't arrived This is the second time I'm writing!,where_is_my_order,8.2
+TCK-80069,2026-10-11,App,C1035,ORD-50316,"Hey, The Non-stick Cookware Set stopped working after 2 days. Order ORD-50316. Need replacement asap.",damaged_item,7.2
+TCK-80070,2026-10-04,WhatsApp,C1123,,"Namaste, What is the size/material of the Face Serum Vitamin C",product_question,5.0
+TCK-80071,2026-09-29,Chat,C1178,ORD-50472,"Hi, Received wrong colour of Smartwatch Active 2, I ordered another one. ORD-50472 Please help.",wrong_item,9.0
+TCK-80072,2026-10-03,Chat,C1027,ORD-50196,"Namaste, I returned order ORD-50196 but haven't got my refund yet. Thanks.",refund_status,8.2
+TCK-80073,2026-10-03,Email,C1169,,"Hi, OTP not received while signing in Please help.",account_issue,6.7
+TCK-80074,2026-09-15,Chat,C1191,ORD-50290,I was charged Rs 3299 but order ORD-50290 shows payment pending. Waiting for your reply.,payment_issue,11.3
+TCK-80075,2026-09-29,WhatsApp,C1078,,Will Air Fryer 4L fit in a small kitchen? Dimensions? Please help.,product_question,7.5
+TCK-80076,2026-09-18,Chat,C1227,ORD-50321,Payment failed but amount was debited via Net Banking. Order ORD-50321 Please help.,payment_issue,9.4
+TCK-80077,2026-10-12,Chat,C1144,ORD-50248,Order ORD-50248 - shipping status?,where_is_my_order,6.1
+TCK-80078,2026-10-09,App,C1187,ORD-50476,"Hey, It's been 4 days past the promised date for ORD-50476. Fix this now. Regards.",delivery_delay,10.9
+TCK-80079,2026-10-14,App,C1102,ORD-50042,"Hey, Tracking for ORD-50042 is not updating. Where is my package? Waiting for your reply.",where_is_my_order,3.6
+TCK-80080,2026-10-01,Chat,C1083,ORD-50504,"Hi, Refund still not credited to my bank for ORD-50504 Please help.",refund_status,11.0
+TCK-80081,2026-10-08,Chat,C1148,ORD-50367,"Hey, What is the expected delivery date for ORD-50367? This is the second time I'm writing!",where_is_my_order,9.0
+TCK-80082,2026-09-23,WhatsApp,C1187,ORD-50476,"Hey, My delivery is late by 4 days. Order ORD-50476. Very disappointed. Thanks.",delivery_delay,10.7
+TCK-80083,2026-09-29,Chat,C1238,ORD-50139,"Hi, Mera ordr ORD-50139 kahan hai? Regards.",where_is_my_order,8.4
+TCK-80084,2026-10-13,Chat,C1088,,"Hey, Unable to reset password, link expired. Waiting for your reply.",account_issue,7.4
+TCK-80085,2026-09-23,Chat,C1135,,"Unable to reset password, link expired. Please help.",account_issue,10.8
+TCK-80086,2026-10-12,App,C1163,ORD-50518,"Please take back the Bluetooth Speaker Mini, size does not fit. ORD-50518 Pls revert asap.",return_request,6.6
+TCK-80087,2026-09-20,App,C1123,ORD-50044,"Dear NovaMart, Why is my Dumbbell Set 10kg delayed?? It was promised by 2026-10-12. Order ORD-50044 Waiting for your reply.",delivery_delay,9.7
+TCK-80088,2026-09-30,Chat,C1181,ORD-50019,"Namaste, Why is it taking so long? ORD-50019 was due 7 days ago",delivery_delay,10.0
+TCK-80089,2026-10-03,App,C1136,ORD-50395,"Hey, Order ORD-50395 - shipping status?",where_is_my_order,6.9
+TCK-80090,2026-10-09,App,C1205,,"want to return perfume oud 100ml, not happy with it. ord-50513 regards.",return_request,7.4
+TCK-80091,2026-10-04,Chat,C1128,ORD-50284,"Hey, Air Fryer 4L is too small, I want to send it back. Order ORD-50284",return_request,12.2
+TCK-80092,2026-09-18,WhatsApp,C1211,ORD-50308,"Dear NovaMart, Refund still not credited to my bank for ORD-50308",refund_status,3.2
+TCK-80093,2026-09-19,Chat,C1246,ORD-50050,"Namaste, I want to return the Denim Jacket from order ORD-50050. It doesn't fit well. Regards.",return_request,9.4
+TCK-80094,2026-10-06,Chat,C1106,ORD-50259,"Hi, can you tell me the status of ordr ORD-50259?",where_is_my_order,8.9
+TCK-80095,2026-10-11,WhatsApp,C1021,ORD-50013,"Hey, Need the delivery ETA for my order ORD-50013 Waiting for your reply.",where_is_my_order,5.3
+TCK-80096,2026-09-16,WhatsApp,C1241,ORD-50064,"Dear NovaMart, Payment debited but showing failed in app. ORD-50064",payment_issue,9.6
+TCK-80097,2026-09-23,Chat,C1219,,"hey, tracking for ord-50024 is not updating. where is my package? waiting for your reply.",where_is_my_order,8.0
+TCK-80098,2026-10-10,Chat,C1087,ORD-50239,"Hello team, Return request for ORD-50239, quality of Cotton Kurta Set is not as expected. This is the second time I'm writing!",return_request,9.3
+TCK-80099,2026-09-23,App,C1150,,the courier keeps postponing delivery of ord-50345. i needed it urgently for a gift. pls revert asap.,delivery_delay,6.7
+TCK-80100,2026-09-18,Email,C1083,ORD-50100,Expected delivery date has passed for ORD-50100. No update from your side at all.,delivery_delay,13.0
+TCK-80101,2026-10-09,App,C1241,ORD-50064,"Hello team, Why is my Cotton Kurta Set delayed?? It was promised by 2026-10-13. Order ORD-50064 Regards.",delivery_delay,11.3
+TCK-80102,2026-09-30,WhatsApp,C1215,ORD-50407,Late delivery again for ORD-50407! It should have come on 2026-10-12,delivery_delay,13.0
+TCK-80103,2026-09-18,Chat,C1086,,"hey, where is my money for the returned kids story book set ord-50102 please help",refund_status,4.2
+TCK-80104,2026-09-29,Email,C1146,ORD-50561,"Hey, Is my Noise Cancelling Headphones out for delivery yet? ORD-50561 Pls revert asap.",where_is_my_order,8.4
+TCK-80105,2026-09-18,Email,C1046,ORD-50523,Can I still cancel order ORD-50523? I no longer need the Cricket Bat Kashmir Willow. This is the second time I'm writing!,cancel_order,6.8
+TCK-80106,2026-10-05,WhatsApp,C1119,ORD-50038,"Hey, The Face Serum Vitamin C stopped working after 2 days. Order ORD-50038. Need replacement asap. This is the second time I'm writing!",damaged_item,9.1
+TCK-80107,2026-10-06,WhatsApp,C1179,,can i still cancel order ord-50376? i no longer need the power bank 20000mah. pls revert asap.,cancel_order,5.9
+TCK-80108,2026-09-30,App,C1201,ORD-50349,"HEY, WRONG PRODUCT DELIVERED FOR ORDER ORD-50349. THIS IS NOT WHAT I ORDERED.",wrong_item,12.1
+TCK-80109,2026-09-23,Chat,C1234,ORD-50549,The Face Serum Vitamin C stopped working after 2 days. Order ORD-50549. Need replacement asap. Please help.,damaged_item,18.5
+TCK-80110,2026-09-25,Email,C1152,ORD-50327,"Hello team, I placed ORD-50327 by mistake, cancel it",cancel_order,5.8
+TCK-80111,2026-09-18,Email,C1070,ORD-50576,Initiate return pickup for ORD-50576 Regards.,return_request,3.4
+TCK-80112,2026-09-19,Email,C1010,ORD-50170,"Hi, Payment failed but amount was debited via Debit Card. Order ORD-50170",payment_issue,10.4
+TCK-80113,2026-10-11,App,C1120,,Is the Dumbbell Set 10kg original? Want to know before buying. This is the second time I'm writing!,product_question,3.4
+TCK-80114,2026-10-09,Chat,C1236,ORD-50380,My Net Banking payment for ORD-50380 went through but no order confirmation.,payment_issue,8.9
+TCK-80115,2026-10-01,Chat,C1136,ORD-50465,"Dear NovaMart, Want to return Leather Wallet, not happy with it ORD-50465 Regards",return_request,4.7
+TCK-80116,2026-09-24,Chat,C1173,ORD-50138,Money got deducted twice for order ORD-50138. Please refund the extra amount.,payment_issue,12.4
+TCK-80117,2026-09-23,Email,C1056,ORD-50296,"Hey, This is not my order, item mismatch for ORD-50296 Waiting for your reply.",wrong_item,14.8
+TCK-80118,2026-10-13,Email,C1185,ORD-50077,Different product shipped instead of Non-stick Cookware Set. ORD-50077 Regards.,wrong_item,8.9
+TCK-80119,2026-09-21,Chat,C1032,,"Hey, Can you tell me if LED Desk Lamp supports fast charging? Waiting for your reply.",product_question,3.5
+TCK-80120,2026-09-25,WhatsApp,C1167,ORD-50129,"Hey, Product quality defect - Face Serum Vitamin C leaking/broken. ORD-50129 This is the second time I'm writing!",damaged_item,10.0
+TCK-80121,2026-09-16,App,C1171,ORD-50565,"Cancel the Perfume Oud 100ml I ordered today, ORD-50565",cancel_order,2.5
+TCK-80122,2026-09-16,App,C1006,,"Hello team, Forgot password, reset not working Pls revert asap.",account_issue,7.2
+TCK-80123,2026-09-24,WhatsApp,C1161,ORD-50382,"Dear NovaMart, Don't ship ordr ORD-50382, pls cancel Please help.",cancel_order,7.2
+TCK-80124,2026-09-16,App,C1000,ORD-50330,"Dear NovaMart, Delivery date missed for ORD-50330, still waiting Thanks.",delivery_delay,9.9
+TCK-80125,2026-10-08,WhatsApp,C1181,ORD-50019,"Hey, Expected delivery date has passed for ORD-50019 No update from your side at all Pls revert asap",delivery_delay,7.6
+TCK-80126,2026-09-30,Chat,C1100,,"my steel water bottle 1l has not reached yet, order id ord-50429. kab tak aayega?",where_is_my_order,4.0
+TCK-80127,2026-10-01,Chat,C1002,ORD-50567,"Hey, Exchange Ceramic Dinner Set for bigger size, order ORD-50567 This is the second time I'm writing!",return_request,7.6
+TCK-80128,2026-09-27,Email,C1185,ORD-50126,"Please arrange a pickup for return of Mechanical Keyboard, order ORD-50126 Thanks",return_request,6.4
+TCK-80129,2026-09-29,Chat,C1022,ORD-50207,"Hi, can you tell me the status of order ORD-50207?",where_is_my_order,5.1
+TCK-80130,2026-10-11,Chat,C1016,ORD-50449,"Hello team, My Running Shoes Air has not reached yet, order id ORD-50449. Kab tak aayega? Please help.",where_is_my_order,6.4
+TCK-80131,2026-09-20,App,C1076,ORD-50525,"Dear NovaMart, I'd like to exchange the Dumbbell Set 10kg in order ORD-50525 for a different size. Waiting for your reply.",return_request,8.2
+TCK-80132,2026-10-02,WhatsApp,C1208,,refund for cancelled order ord-50370 not credited to my account. regards.,refund_status,3.1
+TCK-80133,2026-09-27,Email,C1249,,What material is Dumbbell Set 10kg made of?,product_question,4.2
+TCK-80134,2026-09-27,Email,C1138,ORD-50489,"Hi, I'd like to exchange the Hair Dryer Compact in order ORD-50489 for a different size This is the second time I'm writing!",return_request,7.8
+TCK-80135,2026-09-17,Chat,C1056,ORD-50296,Double charge on my card for ORD-50296! Need this fixed today. Pls revert asap.,payment_issue,11.7
+TCK-80136,2026-10-05,Chat,C1154,,"hey, different product shipped instead of denim jacket. ord-50069 please help.",wrong_item,11.2
+TCK-80137,2026-10-04,WhatsApp,C1115,,"dear novamart, how to change email id in my profile",account_issue,6.0
+TCK-80138,2026-09-20,WhatsApp,C1176,ORD-50179,"Hi, The Non-stick Cookware Set is faulty, it does not switch on. ORD-50179 Thanks.",damaged_item,14.3
+TCK-80139,2026-10-06,App,C1079,ORD-50063,"Namaste, My delivery is late by 3 days. Order ORD-50063. Very disappointed.",delivery_delay,8.4
+TCK-80140,2026-09-19,Chat,C1221,ORD-50251,"Hello team, My money for ORD-50251 has not come back. Where is my refund?? Waiting for your reply.",refund_status,6.8
+TCK-80141,2026-09-24,Email,C1152,ORD-50143,My delivery is late by 9 days. Order ORD-50143. Very disappointed.,delivery_delay,8.7
+TCK-80142,2026-09-18,Chat,C1037,ORD-50099,"Hello team, Has my order ORD-50099 been shipped yet? Waiting for your reply.",where_is_my_order,8.4
+TCK-80143,2026-10-08,App,C1002,ORD-50205,"Want to return Ceramic Dinner Set, not happy with it. ORD-50205",return_request,8.9
+TCK-80144,2026-10-08,App,C1088,,"Hello team, Unable to reset password, link expired. This is the second time I'm writing!",account_issue,9.7
+TCK-80145,2026-09-22,WhatsApp,C1093,ORD-50031,Refund status please for order ORD-50031. Paid via Credit Card.,refund_status,8.3
+TCK-80146,2026-09-18,Chat,C1103,ORD-50220,"Return request for ORD-50220, quality of Non-stick Cookware Set is not as expected. This is the second time I'm writing!",return_request,5.1
+TCK-80147,2026-10-06,Chat,C1009,ORD-50279,"Dear NovaMart, Charged two times on my Wallet for ORD-50279 Thanks.",payment_issue,13.1
+TCK-80148,2026-09-22,App,C1037,ORD-50099,"Hi, Hi, can you tell me the status of order ORD-50099 This is the second time I'm writing!",where_is_my_order,6.3
+TCK-80149,2026-09-23,App,C1058,ORD-50250,"Namaste, Charged two times on my Wallet for ORD-50250",payment_issue,11.6
+TCK-80150,2026-09-21,Chat,C1030,ORD-50593,Is my Leather Wallet out for delivery yet? ORD-50593 Please help.,where_is_my_order,6.2
+TCK-80151,2026-10-13,WhatsApp,C1145,,"Namaste, My account is locked after too many attempts.",account_issue,6.7
+TCK-80152,2026-10-13,WhatsApp,C1160,,"Namaste, Unable to login to my NovaMart account Regards",account_issue,6.8
+TCK-80153,2026-10-12,Email,C1167,ORD-50484,"Hey, Where is my parcel? Order ORD-50484",where_is_my_order,6.0
+TCK-80154,2026-10-13,App,C1017,,"hello team, where is my parcel? order ord-50272 thanks.",where_is_my_order,6.0
+TCK-80155,2026-09-16,Email,C1150,ORD-50332,"Want to return Bluetooth Speaker Mini, not happy with it. ORD-50332",return_request,8.8
+TCK-80156,2026-10-05,WhatsApp,C1214,,"hello team, can i still cancel order ord-50303? i no longer need the cotton kurta set. waiting for your reply.",cancel_order,4.0
+TCK-80157,2026-10-11,Email,C1085,ORD-50071,"Namaste, Double charge on my card for ORD-50071! Need this fixed today. Waiting for your reply.",payment_issue,8.3
+TCK-80158,2026-10-08,Chat,C1161,ORD-50473,"You delivered another model, not Building Blocks 500pcs Order ORD-50473",wrong_item,9.6
+TCK-80159,2026-10-01,Chat,C1145,ORD-50116,"Hi, Got someone else's item in my package for ORD-50116 Where is my Yoga Mat 6mm",wrong_item,9.4
+TCK-80160,2026-10-14,App,C1120,ORD-50521,The courier keeps postponing delivery of ORD-50521. I needed it urgently for a gift. This is the second time I'm writing!,delivery_delay,8.3
+TCK-80161,2026-09-19,Chat,C1165,ORD-50043,"Hey, The courier keeps postponing delivery of ORD-50043. I needed it urgently for a gift. Regards.",delivery_delay,7.9
+TCK-80162,2026-09-19,WhatsApp,C1227,ORD-50321,"Dear NovaMart, Can I get the tracking details for my Power Bank 20000mAh? Order ORD-50321 Please help.",where_is_my_order,6.0
+TCK-80163,2026-09-21,Chat,C1003,ORD-50275,"Hi, Why is my LED Desk Lamp delayed?? It was promised by 2026-10-12. Order ORD-50275 This is the second time I'm writing!",delivery_delay,9.2
+TCK-80164,2026-09-30,App,C1161,ORD-50287,Face Serum Vitamin C not working out of the box. Order ORD-50287,damaged_item,14.4
+TCK-80165,2026-09-27,Chat,C1125,,"Forgot password, reset not working Thanks.",account_issue,6.1
+TCK-80166,2026-09-15,Chat,C1224,ORD-50443,Where is my order ORD-50443? It still hasn't arrived.,where_is_my_order,4.6
+TCK-80167,2026-10-08,WhatsApp,C1138,ORD-50489,MY HAIR DRYER COMPACT CAME WITH SCRATCHES AND A CRACKED PART. ORDER ORD-50489,damaged_item,12.8
+TCK-80168,2026-10-05,Chat,C1177,ORD-50334,"Hi, Refund status please for order ORD-50334. Paid via UPI.",refund_status,8.1
+TCK-80169,2026-10-09,WhatsApp,C1201,ORD-50074,"Hi, The courier keeps postponing delivery of ORD-50074. I needed it urgently for a gift.",delivery_delay,12.2
+TCK-80170,2026-09-22,WhatsApp,C1075,ORD-50132,"Namaste, Kindly cancel ORD-50132 and refund the amount. Pls revert asap.",cancel_order,3.4
+TCK-80171,2026-10-08,WhatsApp,C1019,ORD-50192,"Hi, Refund status please for order ORD-50192. Paid via UPI. Thanks.",refund_status,8.4
+TCK-80172,2026-09-28,Chat,C1012,,"hello team, how long is the warranty on mechanical keyboard? pls revert asap.",product_question,6.4
+TCK-80173,2026-10-09,Chat,C1044,ORD-50424,"Hey, Product in order ORD-50424 is defective, Noise Cancelling Headphones is not turning on. Regards.",damaged_item,12.9
+TCK-80174,2026-09-15,Email,C1120,ORD-50521,"Hello team, Order ORD-50521 was supposed to arrive on 2026-10-11 and it's still not here. This is ridiculous! Pls revert asap.",delivery_delay,10.6
+TCK-80175,2026-10-08,App,C1060,ORD-50379,"Hello team, Initiate return pickup for ORD-50379 Please help.",return_request,9.3
+TCK-80176,2026-10-02,Email,C1149,,I want to delete my account and data. Please help.,account_issue,4.0
+TCK-80177,2026-09-20,WhatsApp,C1185,,"Hi, I can't log in to my account, OTP is not coming. Thanks.",account_issue,2.7
+TCK-80178,2026-10-10,Chat,C1075,ORD-50132,"Hey, Cancel the Cotton Kurta Set I ordred today, ORD-50132 Thanks.",cancel_order,4.3
+TCK-80179,2026-09-22,Chat,C1106,ORD-50490,"Hi, I want to return the Building Blocks 500pcs from order ORD-50490. It doesn't fit well. Waiting for your reply.",return_request,11.1
+TCK-80180,2026-09-19,App,C1002,ORD-50205,"Received a damaged Ceramic Dinner Set, really upset. Please help, order ORD-50205",damaged_item,9.3
+TCK-80181,2026-09-24,Email,C1234,ORD-50408,"Hey, The Smart Fitness Band arrived broken, box was crushed. Order ORD-50408. I want a replacement. Thanks.",damaged_item,10.7
+TCK-80182,2026-10-05,Chat,C1172,ORD-50157,"Namaste, Order ORD-50157 - shipping status",where_is_my_order,5.5
+TCK-80183,2026-10-11,App,C1062,ORD-50011,Order ORD-50011: item received does not match the listing of Denim Jacket. Regards.,wrong_item,14.2
+TCK-80184,2026-09-23,Chat,C1185,ORD-50077,"Hi, The Non-stick Cookware Set is faulty, it does not switch on. ORD-50077",damaged_item,6.4
+TCK-80185,2026-10-02,Chat,C1052,,"hello team, return request for ord-50150, quality of hair dryer compact is not as expected thanks",return_request,5.1
+TCK-80186,2026-09-30,Chat,C1222,ORD-50150,"Namaste, Product in order ORD-50150 is defective, Hair Dryer Compact is not turning on.",damaged_item,7.7
+TCK-80187,2026-10-11,Email,C1050,ORD-50090,"Hey, Extra money debited from account for ORD-50090 This is the second time I'm writing!",payment_issue,12.9
+TCK-80188,2026-09-29,App,C1072,ORD-50295,"Hello team, Why is it taking so long? ORD-50295 was due 6 days ago",delivery_delay,10.6
+TCK-80189,2026-10-12,WhatsApp,C1019,ORD-50441,"Namaste, I want to cancel ORD-50441, ordered Ceramic Dinner Set by mistake.",cancel_order,5.8
+TCK-80190,2026-10-04,WhatsApp,C1115,,"hey, the bluetooth speaker mini arrived broken, box was crushed order ord-50508 i want a replacement",damaged_item,10.8
+TCK-80191,2026-10-11,Chat,C1122,ORD-50204,"Namaste, Refund for cancelled ordr ORD-50204 not credited to my account. Please help.",refund_status,8.2
+TCK-80192,2026-10-08,Email,C1189,ORD-50517,please share delivery update for ORD-50517,where_is_my_order,7.4
+TCK-80193,2026-10-02,Chat,C1085,ORD-50414,"Hey, Order ORD-50414: item received does not match the listing of Face Serum Vitamin C. Please help.",wrong_item,8.9
+TCK-80194,2026-09-23,Email,C1190,,my ceramic dinner set is dead on arrival ord-50054 waiting for your reply,damaged_item,13.3
+TCK-80195,2026-09-24,App,C1160,ORD-50070,"Amount deducted but order not placed, ORD-50070 Waiting for your reply.",payment_issue,9.7
+TCK-80196,2026-10-02,Chat,C1116,ORD-50331,please share delivery update for ORD-50331 Thanks.,where_is_my_order,7.0
+TCK-80197,2026-09-29,App,C1081,ORD-50460,"Order ORD-50460 is very late, no delivery yet",delivery_delay,9.1
+TCK-80198,2026-09-20,Chat,C1247,ORD-50115,"I placed ORD-50115 by mistake, cancel it Regards.",cancel_order,4.1
+TCK-80199,2026-09-28,Chat,C1109,,can you tell me if cricket bat kashmir willow supports fast charging? regards.,product_question,6.5
+TCK-80200,2026-10-12,Chat,C1044,ORD-50424,Initiate return pickup for ORD-50424 Please help.,return_request,6.8
+TCK-80201,2026-10-13,WhatsApp,C1052,ORD-50017,"NAMASTE, ANY UPDATE ON MY SHIPMENT ORD-50017? REGARDS.",where_is_my_order,6.9
+TCK-80202,2026-09-23,Chat,C1193,ORD-50020,"Dear NovaMart, Money not received after return of ORD-50020 Regards.",refund_status,6.5
+TCK-80203,2026-10-10,Chat,C1034,,the office backpack 30l stopped working after 2 days. order ord-50517. need replacement asap. this is the second time i'm writing!,damaged_item,10.2
+TCK-80204,2026-10-07,Chat,C1076,ORD-50255,Need the delivery ETA for my order ORD-50255 Waiting for your reply.,where_is_my_order,5.0
+TCK-80205,2026-09-29,WhatsApp,C1183,ORD-50167,"Namaste, Initiate return pickup for ORD-50167",return_request,7.0
+TCK-80206,2026-09-15,App,C1212,ORD-50002,"Namaste, How do I return ordr ORD-50002? I don't like the Cotton Kurta Set.",return_request,5.5
+TCK-80207,2026-10-10,WhatsApp,C1243,ORD-50169,"Namaste, Can I get the tracking details for my Mechanical Keyboard? Order ORD-50169 Please help.",where_is_my_order,5.6
+TCK-80208,2026-10-01,Chat,C1050,ORD-50294,Need the delivery ETA for my order ORD-50294 Pls revert asap.,where_is_my_order,5.0
+TCK-80209,2026-10-06,Chat,C1183,,"I can't log in to my account, OTP is not coming. Waiting for your reply.",account_issue,8.0
+TCK-80210,2026-09-18,Email,C1123,ORD-50010,"Hey, I returned ordr ORD-50010 but haven't got my refund yet. Waiting for your reply.",refund_status,7.1
+TCK-80211,2026-10-14,Email,C1045,ORD-50544,"Hello team, It's been 4 days past the promised date for ORD-50544. Fix this now. Thanks.",delivery_delay,5.9
+TCK-80212,2026-10-01,Chat,C1199,ORD-50058,When will I get my refund for ORD-50058? It's been 8 days. Pls revert asap.,refund_status,5.5
+TCK-80213,2026-10-10,Chat,C1112,,What material is Power Bank 20000mAh made of?,product_question,5.0
+TCK-80214,2026-09-28,Chat,C1169,,please cancel my order ord-50551 this is the second time i'm writing!,cancel_order,4.3
+TCK-80215,2026-10-09,Email,C1001,ORD-50557,Need the delivery ETA for my order ORD-50557 Pls revert asap.,where_is_my_order,6.4
+TCK-80216,2026-10-09,Chat,C1117,ORD-50146,"Hey, Cancel the Mixer Grinder 750W I ordered today, ORD-50146 This is the second time I'm writing!",cancel_order,5.6
+TCK-80217,2026-09-23,Email,C1173,,"namaste, mera order ord-50289 kahan hai?",where_is_my_order,6.4
+TCK-80218,2026-10-03,Chat,C1081,ORD-50354,"Hello team, Where is my parcel? Order ORD-50354 This is the second time I'm writing!",where_is_my_order,8.8
+TCK-80219,2026-09-17,WhatsApp,C1037,,Does the Power Bank 20000mAh come with a warranty? Regards.,product_question,5.0
+TCK-80220,2026-10-03,App,C1119,ORD-50429,"Amount deducted but order not placed, ORD-50429 Pls revert asap.",payment_issue,8.0
+TCK-80221,2026-09-21,WhatsApp,C1048,ORD-50197,"Dear NovaMart, Initiate return pickup for ORD-50197",return_request,4.3
+TCK-80222,2026-09-23,Email,C1045,ORD-50544,"Dear NovaMart, My delivery is late by 3 days. Order ORD-50544. Very disappointed. Waiting for your reply.",delivery_delay,8.8
+TCK-80223,2026-09-17,Chat,C1185,ORD-50077,"Namaste, Any update on my shipment ORD-50077?",where_is_my_order,4.8
+TCK-80224,2026-10-11,Email,C1101,,"Hi, Is the Cotton Kurta Set compatible with iPhone? Thanks.",product_question,6.0
+TCK-80225,2026-09-29,Chat,C1030,ORD-50452,"Namaste, My Steel Water Bottle 1L is dead on arrival. ORD-50452",damaged_item,10.8
+TCK-80226,2026-09-24,App,C1074,,"Dear NovaMart, Is Sports T-Shirt Pack of 3 available in other colours? Waiting for your reply.",product_question,4.2
+TCK-80227,2026-10-11,Chat,C1058,ORD-50510,Late delivery again for ORD-50510! It should have come on 2026-10-10 Regards.,delivery_delay,9.6
+TCK-80228,2026-10-01,Chat,C1002,ORD-50177,"Hello team, please share delivery update for ORD-50177",where_is_my_order,7.0
+TCK-80229,2026-10-05,WhatsApp,C1178,ORD-50130,"Hey, Mera order ORD-50130 kahan hai?",where_is_my_order,2.7
+TCK-80230,2026-10-11,App,C1240,ORD-50442,Refund status please for order ORD-50442. Paid via UPI.,refund_status,4.3
+TCK-80231,2026-09-19,Email,C1222,ORD-50150,"Dear NovaMart, How do I return order ORD-50150? I don't like the Hair Dryer Compact.",return_request,8.5
+TCK-80232,2026-10-14,WhatsApp,C1183,,"Hey, How long is the warranty on Bedsheet Double King? Please help.",product_question,3.7
+TCK-80233,2026-10-02,Chat,C1143,ORD-50587,"Hello team, The Bedsheet Double King arrived broken, box was crushed. Order ORD-50587. I want a replacement. Please help.",damaged_item,13.6
+TCK-80234,2026-09-29,Chat,C1034,ORD-50094,"Hello team, Received a damaged Bluetooth Speaker Mini, really upset. Please help, order ORD-50094 This is the second time I'm writing!",damaged_item,13.4
+TCK-80235,2026-10-09,Email,C1186,ORD-50222,Where is my parcel? Order ORD-50222,where_is_my_order,8.6
+TCK-80236,2026-09-24,WhatsApp,C1108,ORD-50579,"Received Dumbbell Set 10kg with missing parts and dents, order ORD-50579 Pls revert asap.",damaged_item,12.0
+TCK-80237,2026-10-06,WhatsApp,C1028,ORD-50458,"Hey, Received a damaged Denim Jacket, really upset. Please help, order ORD-50458",damaged_item,13.5
+TCK-80238,2026-09-26,App,C1021,ORD-50013,"The Hair Dryer Compact is faulty, it does not switch on. ORD-50013 This is the second time I'm writing!",damaged_item,7.4
+TCK-80239,2026-09-22,Chat,C1097,ORD-50097,"Namaste, Order ORD-50097 - shipping status Waiting for your reply",where_is_my_order,6.3
+TCK-80240,2026-09-19,Email,C1021,ORD-50013,"Namaste, Hair Dryer Compact not working out of the box. Order ORD-50013",damaged_item,12.0
+TCK-80241,2026-09-26,Chat,C1125,ORD-50200,When will refund for ORD-50200 reflect in my account? Pls revert asap.,refund_status,6.6
+TCK-80242,2026-09-23,Chat,C1129,ORD-50371,Any update on my shipment ORD-50371? Pls revert asap.,where_is_my_order,4.9
+TCK-80243,2026-10-03,App,C1031,ORD-50096,"Exchange Air Fryer 4L for bigger size, order ORD-50096 This is the second time I'm writing!",return_request,12.6
+TCK-80244,2026-10-10,App,C1209,ORD-50084,"Hi, Want to return Perfume Oud 100ml, not happy with it. ORD-50084",return_request,8.4
+TCK-80245,2026-10-12,WhatsApp,C1239,ORD-50193,"Hello team, My Cricket Bat Kashmir Willow has not reached yet, order id ORD-50193. Kab tak aayega? Please help.",where_is_my_order,7.4
+TCK-80246,2026-10-03,App,C1026,,What is the size/material of the Bedsheet Double King? Please help.,product_question,6.2
+TCK-80247,2026-09-27,Email,C1075,,my delivery is late by 8 days order ord-50446 very disappointed thanks,delivery_delay,12.6
+TCK-80248,2026-10-07,Email,C1012,ORD-50393,I returned order ORD-50393 but haven't got my refund yet Thanks,refund_status,8.2
+TCK-80249,2026-10-06,Email,C1106,ORD-50154,"Exchange Noise Cancelling Headphones for bigger size, order ORD-50154 Pls revert asap.",return_request,7.0
+TCK-80250,2026-09-27,WhatsApp,C1181,,Will Noise Cancelling Headphones fit in a small kitchen? Dimensions? Regards.,product_question,4.2
+TCK-80251,2026-09-24,Chat,C1186,ORD-50188,When will refund for ORD-50188 reflect in my account? Waiting for your reply.,refund_status,7.2
+TCK-80252,2026-10-01,Chat,C1023,ORD-50008,"Namaste, Refund for cancelled order ORD-50008 not credited to my account. Regards.",refund_status,6.7
+TCK-80253,2026-10-13,Chat,C1070,,Will Silk Saree fit in a small kitchen? Dimensions?,product_question,7.3
+TCK-80254,2026-09-27,Email,C1073,,What are the specifications of Noise Cancelling Headphones? This is the second time I'm writing!,product_question,5.8
+TCK-80255,2026-10-09,App,C1121,ORD-50314,"Hi, Payment failed but amount was debited via Cash on Delivery Order ORD-50314 Pls revert asap",payment_issue,10.1
+TCK-80256,2026-10-09,Email,C1159,,Is the Perfume Oud 100ml waterproof Pls revert asap,product_question,5.8
+TCK-80257,2026-09-26,Chat,C1202,ORD-50025,"Hello team, Want to return LED Desk Lamp, not happy with it. ORD-50025 This is the second time I'm writing!",return_request,7.2
+TCK-80258,2026-10-05,Email,C1171,,"namaste, can you tell me if sports t-shirt pack of 3 supports fast charging this is the second time i'm writing!",product_question,3.8
+TCK-80259,2026-10-11,Email,C1235,,"namaste, the mixer grinder 750w is faulty, it does not switch on. ord-50591 thanks.",damaged_item,15.9
+TCK-80260,2026-09-19,Email,C1144,ORD-50248,"Hey, Cancel the Bedsheet Double King I ordered today, ORD-50248 Regards.",cancel_order,6.8
+TCK-80261,2026-10-05,Chat,C1022,ORD-50492,Wrong product delivered for order ORD-50492. This is not what I ordered. Regards.,wrong_item,10.7
+TCK-80262,2026-10-11,WhatsApp,C1107,ORD-50352,I received my Cotton Kurta Set today but it is damaged. Order ORD-50352. Thanks.,damaged_item,6.9
+TCK-80263,2026-10-03,Email,C1148,ORD-50168,When will I get my refund for ORD-50168? It's been 8 days.,refund_status,6.9
+TCK-80264,2026-09-20,Chat,C1090,ORD-50428,"Hey, Stop my order ORD-50428, I do not need it anymore",cancel_order,3.5
+TCK-80265,2026-09-22,App,C1240,ORD-50509,"Hi, What is the expected delivery date for ORD-50509? Waiting for your reply.",where_is_my_order,4.4
+TCK-80266,2026-09-15,WhatsApp,C1124,ORD-50302,"HI, REFUND STATUS PLEASE FOR ORDER ORD-50302 PAID VIA CASH ON DELIVERY",refund_status,9.3
+TCK-80267,2026-09-24,Chat,C1128,ORD-50134,"Hi, Payment failed but amount was debited via UPI. Order ORD-50134 Thanks.",payment_issue,10.2
+TCK-80268,2026-10-13,Chat,C1060,ORD-50122,"Hey, Where is my ordr ORD-50122 It still hasn't arrived Thanks",where_is_my_order,6.4
+TCK-80269,2026-10-14,App,C1035,,"Hello team, Does the Smart Fitness Band come with a warranty? This is the second time I'm writing!",product_question,6.4
+TCK-80270,2026-09-16,Chat,C1011,ORD-50263,"Dear NovaMart, Money got deducted twice for order ORD-50263. Please refund the extra amount. Thanks.",payment_issue,7.7
+TCK-80271,2026-09-21,Chat,C1123,,"namaste, need the delivery eta for my order ord-50364",where_is_my_order,4.5
+TCK-80272,2026-09-17,Chat,C1134,ORD-50121,"Hey, I placed ORD-50121 by mistake, cancel it Pls revert asap.",cancel_order,6.1
+TCK-80273,2026-10-09,Chat,C1235,ORD-50545,"Namaste, When will I get my refund for ORD-50545? It's been 3 days. Waiting for your reply.",refund_status,6.7
+TCK-80274,2026-09-17,Email,C1126,ORD-50036,Where is my money for the returned Yoga Mat 6mm? ORD-50036 Thanks.,refund_status,9.7
+TCK-80275,2026-09-22,App,C1164,ORD-50406,"Hello team, The USB-C Fast Charger 33W arrived broken, box was crushed. Order ORD-50406. I want a replacement. Thanks.",damaged_item,16.3
+TCK-80276,2026-10-07,App,C1150,ORD-50123,"Hello team, Order ORD-50123: item received does not match the listing of Face Serum Vitamin C. Thanks.",wrong_item,11.1
+TCK-80277,2026-09-27,Email,C1002,ORD-50416,"Hello team, Where is my order ORD-50416? It still hasn't arrived.",where_is_my_order,6.4
+TCK-80278,2026-10-10,App,C1232,ORD-50160,"Dear NovaMart, Refund status please for order ORD-50160. Paid via Cash on Delivery.",refund_status,6.4
+TCK-80279,2026-09-17,Email,C1185,ORD-50053,"Hello team, I returned order ORD-50053 but haven't got my refund yet",refund_status,13.6
+TCK-80280,2026-09-19,Chat,C1058,ORD-50087,"Hi, Cancel order ORD-50087 immediately, found it cheaper elsewhere. This is the second time I'm writing!",cancel_order,3.1
+TCK-80281,2026-09-26,Chat,C1137,ORD-50422,"Namaste, Got someone else's item in my package for ORD-50422. Where is my Wireless Earbuds Pro?",wrong_item,12.5
+TCK-80282,2026-10-01,WhatsApp,C1215,ORD-50550,Where is my money for the returned Noise Cancelling Headphones? ORD-50550 Waiting for your reply.,refund_status,12.5
+TCK-80283,2026-09-18,Email,C1142,ORD-50491,Is my Sports T-Shirt Pack of 3 out for delivery yet ORD-50491 Waiting for your reply,where_is_my_order,3.8
+TCK-80284,2026-09-27,Chat,C1204,ORD-50366,"When will my package be delivered, order ORD-50366",where_is_my_order,6.4
+TCK-80285,2026-10-06,App,C1107,ORD-50352,"Hello team, Can I get the tracking details for my Cotton Kurta Set? Order ORD-50352 Regards.",where_is_my_order,5.5
+TCK-80286,2026-09-15,Email,C1215,ORD-50407,"Hello team, Any update on my shipment ORD-50407?",where_is_my_order,6.2
+TCK-80287,2026-10-05,Email,C1044,ORD-50424,MY NOISE CANCELLING HEADPHONES IS DEAD ON ARRIVAL ORD-50424 THIS IS THE SECOND TIME I'M WRITING!,damaged_item,14.9
+TCK-80288,2026-09-23,Chat,C1014,ORD-50311,I returned order ORD-50311 but haven't got my refund yet.,refund_status,10.4
+TCK-80289,2026-09-22,Email,C1112,ORD-50240,"Hello team, I returned order ORD-50240 but haven't got my refund yet. This is the second time I'm writing!",refund_status,6.1
+TCK-80290,2026-09-18,Email,C1176,ORD-50179,"Amount deducted but order not placed, ORD-50179 Waiting for your reply.",payment_issue,4.4
+TCK-80291,2026-10-01,Chat,C1201,ORD-50074,Order ORD-50074 was supposed to arrive on 2026-10-11 and it's still not here. This is ridiculous! Waiting for your reply.,delivery_delay,6.3
+TCK-80292,2026-09-18,WhatsApp,C1234,ORD-50187,"Hey, Mera order ORD-50187 kahan hai? Pls revert asap.",where_is_my_order,8.1
+TCK-80293,2026-09-27,Chat,C1110,,"hi, initiate return pickup for ord-50129 regards.",return_request,9.6
+TCK-80294,2026-09-15,Chat,C1047,ORD-50114,Tracking for ORD-50114 is not updating. Where is my package? Please help.,where_is_my_order,6.3
+TCK-80295,2026-10-12,App,C1210,ORD-50079,"I placed ORD-50079 by mistake, cancel it Waiting for your reply.",cancel_order,5.9
+TCK-80296,2026-10-01,Chat,C1114,,How long is the warranty on Power Bank 20000mAh,product_question,4.9
+TCK-80297,2026-10-10,Email,C1127,ORD-50142,"Dear NovaMart, Refund for cancelled order ORD-50142 not credited to my account. This is the second time I'm writing!",refund_status,4.7
+TCK-80298,2026-09-27,Chat,C1153,ORD-50103,My money for ORD-50103 has not come back. Where is my refund?? Waiting for your reply.,refund_status,10.1
+TCK-80299,2026-10-02,Email,C1097,ORD-50007,When will refund for ORD-50007 reflect in my account? Pls revert asap.,refund_status,6.9
+TCK-80300,2026-10-13,WhatsApp,C1010,ORD-50309,"Namaste, When will my package be delivered, order ORD-50309 Regards.",where_is_my_order,6.2
+TCK-80301,2026-10-14,Chat,C1106,ORD-50490,"HI, I ORDERED BUILDING BLOCKS 500PCS LAST WEEK, ORDER ORD-50490, WHEN WILL IT BE DELIVERED PLEASE HELP",where_is_my_order,6.7
+TCK-80302,2026-09-19,Email,C1201,ORD-50349,"Hello team, Running Shoes Air is too small, I want to send it back. Order ORD-50349",return_request,8.8
+TCK-80303,2026-09-22,Email,C1172,ORD-50157,"Hi, Order ORD-50157 is very late, no delivery yet Regards.",delivery_delay,9.3
+TCK-80304,2026-09-17,Chat,C1146,ORD-50561,My Noise Cancelling Headphones came with scratches and a cracked part. Order ORD-50561,damaged_item,14.4
+TCK-80305,2026-09-28,App,C1221,ORD-50047,"Hi, When will my package be delivered, order ORD-50047",where_is_my_order,7.9
+TCK-80306,2026-10-13,WhatsApp,C1125,ORD-50586,I returned order ORD-50586 but haven't got my refund yet. Regards.,refund_status,8.5
+TCK-80307,2026-09-19,WhatsApp,C1124,ORD-50302,REFUND STATUS PLEASE FOR ORDER ORD-50302. PAID VIA CASH ON DELIVERY.,refund_status,14.8
+TCK-80308,2026-10-09,WhatsApp,C1204,ORD-50486,Order ORD-50486 - shipping status?,where_is_my_order,5.9
+TCK-80309,2026-09-17,Chat,C1145,,why is my office backpack 30l delayed?? it was promised by 2026-10-11. order ord-50387 this is the second time i'm writing!,delivery_delay,11.5
+TCK-80310,2026-09-16,Email,C1055,ORD-50091,"Dear NovaMart, Received a damaged Hair Dryer Compact, really upset. Please help, order ORD-50091",damaged_item,8.9
+TCK-80311,2026-10-12,WhatsApp,C1156,ORD-50254,Kindly cancel ORD-50254 and refund the amount.,cancel_order,3.8
+TCK-80312,2026-10-12,Email,C1217,,"Namaste, Is the Silk Saree waterproof? This is the second time I'm writing!",product_question,6.2
+TCK-80313,2026-09-29,Chat,C1206,ORD-50404,"Dear NovaMart, Wrong product delivered for order ORD-50404. This is not what I ordered. Regards.",wrong_item,10.3
+TCK-80314,2026-10-02,Chat,C1154,ORD-50558,"This is not my order, item mismatch for ORD-50558 Thanks",wrong_item,12.9
+TCK-80315,2026-10-02,Chat,C1070,ORD-50576,"Hello team, Where is my parcel Order ORD-50576 Please help",where_is_my_order,2.0
+TCK-80316,2026-10-04,Chat,C1053,,"Hello team, Does the Face Serum Vitamin C come with a warranty",product_question,4.2
+TCK-80317,2026-10-08,App,C1138,ORD-50493,"Dear NovaMart, This is not my order, item mismatch for ORD-50493 Waiting for your reply.",wrong_item,13.3
+TCK-80318,2026-10-04,WhatsApp,C1042,ORD-50256,Still waiting for refund of Rs 1299 for ORD-50256. Please check.,refund_status,7.7
+TCK-80319,2026-09-27,App,C1146,,How to change email id in my profile?,account_issue,9.8
+TCK-80320,2026-09-17,WhatsApp,C1026,,"dear novamart, need the delivery eta for my order ord-50509 regards.",where_is_my_order,7.6
+TCK-80321,2026-09-27,Chat,C1030,ORD-50452,"Dear NovaMart, My Steel Water Bottle 1L came with scratches and a cracked part. Order ORD-50452",damaged_item,12.0
+TCK-80322,2026-09-24,App,C1166,ORD-50591,"Hello team, Exchange Mixer Grinder 750W for bigger size, order ORD-50591",return_request,8.9
+TCK-80323,2026-10-01,Chat,C1081,ORD-50354,"Namaste, Kindly cancel ORD-50354 and refund the amount Pls revert asap",cancel_order,4.8
+TCK-80324,2026-09-30,WhatsApp,C1041,ORD-50012,"Hi, Cancel order ORD-50012 immediately, found it cheaper elsewhere. This is the second time I'm writing!",cancel_order,6.2
+TCK-80325,2026-10-13,Email,C1152,ORD-50387,"Hello team, Order ORD-50387 is very late, no delivery yet Waiting for your reply",delivery_delay,9.1
+TCK-80326,2026-09-24,Email,C1246,ORD-50355,"I ordered Mechanical Keyboard last week, order ORD-50355, when will it be delivered? Waiting for your reply.",where_is_my_order,6.6
+TCK-80327,2026-09-19,App,C1129,ORD-50371,"Hey, pls share delivery update for ORD-50371 Regards.",where_is_my_order,4.1
+TCK-80328,2026-09-24,Chat,C1236,ORD-50384,please share delivery update for ORD-50384 Regards,where_is_my_order,8.3
+TCK-80329,2026-10-09,Chat,C1196,,Is Mixer Grinder 750W available in other colours?,product_question,5.3
+TCK-80330,2026-09-24,Email,C1062,ORD-50551,"Hello team, Mera order ORD-50551 kahan hai?",where_is_my_order,8.6
+TCK-80331,2026-10-08,Email,C1215,,"hi, can you tell me the status of order ord-50345?",where_is_my_order,8.2
+TCK-80332,2026-09-15,Chat,C1186,ORD-50117,"Don't ship order ORD-50117, please cancel Thanks.",cancel_order,5.1
+TCK-80333,2026-10-09,Chat,C1053,ORD-50231,"Dear NovaMart, Any update on my shipment ORD-50231? Regards.",where_is_my_order,6.2
+TCK-80334,2026-10-11,Email,C1033,,Is USB-C Fast Charger 33W available in other colours? Pls revert asap.,product_question,5.3
+TCK-80335,2026-10-05,WhatsApp,C1063,ORD-50055,"Namaste, Where is my money for the returned Cricket Bat Kashmir Willow? ORD-50055 Thanks.",refund_status,8.6
+TCK-80336,2026-10-02,App,C1036,ORD-50469,"Hello team, You sent me the wrong size/colour for Power Bank 20000mAh, order ORD-50469.",wrong_item,12.0
+TCK-80337,2026-10-11,WhatsApp,C1058,ORD-50510,"Namaste, Has my order ORD-50510 been shipped yet? Waiting for your reply.",where_is_my_order,4.1
+TCK-80338,2026-09-26,Chat,C1143,ORD-50587,WRONG PRODUCT DELIVERED FOR ORDER ORD-50587 THIS IS NOT WHAT I ORDERED THIS IS THE SECOND TIME I'M WRITING!,wrong_item,6.5
+TCK-80339,2026-10-03,Email,C1101,,My account got blocked,account_issue,4.8
+TCK-80340,2026-09-30,Chat,C1108,ORD-50553,When will refund for ORD-50553 reflect in my account,refund_status,10.1
+TCK-80341,2026-09-17,Email,C1134,ORD-50249,My Bluetooth Speaker Mini is dead on arrival. ORD-50249 Pls revert asap.,damaged_item,9.7
+TCK-80342,2026-10-13,WhatsApp,C1103,ORD-50417,"Dear NovaMart, How do I return order ORD-50417 I don't like the Bedsheet Double King Regards",return_request,9.6
+TCK-80343,2026-10-14,Chat,C1169,,when will i get my refund for ord-50433? it's been 5 days. please help.,refund_status,9.5
+TCK-80344,2026-09-21,Chat,C1143,,"dear novamart, i was billed twice for ord-50529",payment_issue,10.1
+TCK-80345,2026-09-15,Chat,C1020,ORD-50513,"Hey, Please arrange a pickup for return of Perfume Oud 100ml, order ORD-50513. Please help.",return_request,6.0
+TCK-80346,2026-09-21,Chat,C1089,,WHAT ARE THE SPECIFICATIONS OF YOGA MAT 6MM?,product_question,6.7
+TCK-80347,2026-10-05,Chat,C1023,ORD-50346,My Wallet payment for ORD-50346 went through but no ordr confirmation Please help,payment_issue,12.1
+TCK-80348,2026-10-10,WhatsApp,C1244,ORD-50281,"The Noise Cancelling Headphones arrived broken, box was crushed Order ORD-50281 I want a replacement",damaged_item,9.1
+TCK-80349,2026-10-06,Email,C1206,ORD-50342,"Namaste, I'd like to exchange the Dumbbell Set 10kg in order ORD-50342 for a different size. Please help.",return_request,5.7
+TCK-80350,2026-10-08,WhatsApp,C1055,ORD-50091,My Hair Dryer Compact is dead on arrival ORD-50091,damaged_item,12.5
+TCK-80351,2026-09-15,WhatsApp,C1221,ORD-50067,"Namaste, I ordered Non-stick Cookware Set last week, order ORD-50067, when will it be delivered",where_is_my_order,6.7
+TCK-80352,2026-09-17,Email,C1193,,"hey, how do i change my delivery address saved in the account? thanks.",account_issue,6.2
+TCK-80353,2026-10-11,Email,C1234,ORD-50408,"Hello team, Can I get the tracking details for my Smart Fitness Band? Order ORD-50408",where_is_my_order,6.2
+TCK-80354,2026-10-13,WhatsApp,C1166,ORD-50140,"Hey, Received Mechanical Keyboard with missing parts and dents, order ORD-50140 Pls revert asap.",damaged_item,11.6
+TCK-80355,2026-10-11,Email,C1022,ORD-50528,"Namaste, Why is it taking so long? ORD-50528 was due 6 days ago Pls revert asap.",delivery_delay,6.7
+TCK-80356,2026-09-22,WhatsApp,C1240,,where is my order ord-50238? it still hasn't arrived. pls revert asap.,where_is_my_order,8.0
+TCK-80357,2026-09-21,Email,C1232,,Is the Smart Fitness Band compatible with iPhone? Thanks.,product_question,6.2
+TCK-80358,2026-10-04,Chat,C1217,ORD-50152,"Hello team, I'd like to exchange the Leather Wallet in order ORD-50152 for a different size. Thanks.",return_request,10.9
+TCK-80359,2026-09-29,Email,C1173,ORD-50580,"This is not my order, item mismatch for ORD-50580",wrong_item,10.0
+TCK-80360,2026-09-28,Chat,C1200,ORD-50340,"Please arrange a pickup for return of Smartwatch Active 2, order ORD-50340.",return_request,8.1
+TCK-80361,2026-10-03,Email,C1103,ORD-50220,"Namaste, I ordered Non-stick Cookware Set last week, order ORD-50220, when will it be delivered? Regards.",where_is_my_order,3.4
+TCK-80362,2026-10-01,Chat,C1191,ORD-50410,Money got deducted twice for ordr ORD-50410. Please refund the extra amount. Please help.,payment_issue,9.6
+TCK-80363,2026-10-06,App,C1207,ORD-50037,"Hi, How do I return order ORD-50037? I don't like the Steel Water Bottle 1L.",return_request,8.4
+TCK-80364,2026-10-06,Chat,C1100,,"Hello team, What is the size/material of the Building Blocks 500pcs? Regards.",product_question,3.3
+TCK-80365,2026-10-10,Chat,C1138,,"dear novamart, payment failed but amount was debited via net banking order ord-50341 please help",payment_issue,8.1
+TCK-80366,2026-10-13,Chat,C1163,,"Hello team, My account is locked after too many attempts. This is the second time I'm writing!",account_issue,6.5
+TCK-80367,2026-09-28,App,C1017,ORD-50186,ORDER ORD-50186 WAS SUPPOSED TO ARRIVE ON 2026-10-12 AND IT'S STILL NOT HERE. THIS IS RIDICULOUS! PLEASE HELP.,delivery_delay,8.6
+TCK-80368,2026-09-29,Chat,C1195,ORD-50059,"Hi, Where is my order ORD-50059 It still hasn't arrived Waiting for your reply",where_is_my_order,6.8
+TCK-80369,2026-09-19,Chat,C1058,ORD-50265,"Hello team, Received wrong colour of Wireless Earbuds Pro, I ordered another one. ORD-50265 Please help.",wrong_item,7.4
+TCK-80370,2026-09-15,WhatsApp,C1101,ORD-50061,"Hey, Where is my money for the returned Bedsheet Double King? ORD-50061 Pls revert asap.",refund_status,6.1
+TCK-80371,2026-10-03,WhatsApp,C1101,,"Namaste, Is the Building Blocks 500pcs waterproof? Regards.",product_question,4.7
+TCK-80372,2026-10-07,App,C1242,,"Hey, OTP not received while signing in",account_issue,8.5
+TCK-80373,2026-09-28,Email,C1025,ORD-50046,"Kids Story Book Set is too small, I want to send it back. Order ORD-50046 Waiting for your reply.",return_request,9.8
+TCK-80374,2026-10-11,App,C1195,ORD-50155,What is the expected delivery date for ORD-50155? Please help.,where_is_my_order,4.9
+TCK-80375,2026-09-24,Email,C1126,ORD-50353,Is my Power Bank 20000mAh out for delivery yet? ORD-50353 Thanks.,where_is_my_order,3.8
+TCK-80376,2026-10-07,Email,C1199,ORD-50589,EXTRA MONEY DEBITED FROM ACCOUNT FOR ORD-50589,payment_issue,5.3
+TCK-80377,2026-09-27,App,C1246,ORD-50050,"Hey, Received wrong colour of Denim Jacket, I ordered another one. ORD-50050 This is the second time I'm writing!",wrong_item,11.9
+TCK-80378,2026-09-23,Chat,C1063,ORD-50055,"Hey, Still waiting for refund of Rs 1599 for ORD-50055. Please check.",refund_status,4.9
+TCK-80379,2026-09-19,WhatsApp,C1196,ORD-50317,"Hi, can you tell me the status of order ORD-50317? This is the second time I'm writing!",where_is_my_order,5.8
+TCK-80380,2026-10-13,App,C1095,ORD-50107,"HELLO TEAM, RECEIVED CERAMIC DINNER SET WITH MISSING PARTS AND DENTS, ORDER ORD-50107 THIS IS THE SECOND TIME I'M WRITING!",damaged_item,5.8
+TCK-80381,2026-09-28,Chat,C1190,ORD-50229,"Hello team, Product in order ORD-50229 is defective, Noise Cancelling Headphones is not turning on.",damaged_item,14.2
+TCK-80382,2026-09-22,Chat,C1116,,Does the Steel Water Bottle 1L come with a warranty?,product_question,5.1
+TCK-80383,2026-09-28,App,C1056,ORD-50296,"Hey, The Perfume Oud 100ml stopped working after 2 days. Order ORD-50296. Need replacement asap. This is the second time I'm writing!",damaged_item,9.5
+TCK-80384,2026-10-11,Email,C1039,,"hey, order ord-50274 was supposed to arrive on 2026-10-13 and it's still not here. this is ridiculous!",delivery_delay,11.3
+TCK-80385,2026-09-25,Email,C1093,ORD-50227,"Cancel the Face Serum Vitamin C I ordred today, ORD-50227 Waiting for your reply.",cancel_order,4.4
+TCK-80386,2026-10-02,App,C1016,ORD-50449,"Dear NovaMart, When will my package be delivered, order ORD-50449",where_is_my_order,5.1
+TCK-80387,2026-10-12,Email,C1206,ORD-50445,"Hi, Exchange Yoga Mat 6mm for bigger size, order ORD-50445",return_request,7.5
+TCK-80388,2026-09-27,Chat,C1208,ORD-50234,Refund still not credited to my bank for ORD-50234,refund_status,9.3
+TCK-80389,2026-09-25,Chat,C1080,,"Hi, What is the size/material of the Bluetooth Speaker Mini? Thanks.",product_question,6.9
+TCK-80390,2026-10-07,App,C1243,ORD-50169,please share delivery update for ORD-50169,where_is_my_order,5.7
+TCK-80391,2026-09-27,Chat,C1221,ORD-50455,"Dear NovaMart, Payment debited but showing failed in app. ORD-50455",payment_issue,9.9
+TCK-80392,2026-09-15,Email,C1082,ORD-50131,"Hey, Double charge on my card for ORD-50131! Need this fixed today.",payment_issue,12.6
+TCK-80393,2026-09-15,Chat,C1181,ORD-50019,"Hi, Any update on my shipment ORD-50019? Pls revert asap.",where_is_my_order,6.3
+TCK-80394,2026-10-12,WhatsApp,C1040,ORD-50009,"Dear NovaMart, I'd like to exchange the Office Backpack 30L in order ORD-50009 for a different size.",return_request,9.5
+TCK-80395,2026-10-07,Email,C1022,ORD-50207,"Dear NovaMart, Has my order ORD-50207 been shipped yet? Waiting for your reply.",where_is_my_order,5.6
+TCK-80396,2026-10-10,WhatsApp,C1102,ORD-50570,Need the delivery ETA for my order ORD-50570 Pls revert asap.,where_is_my_order,5.3
+TCK-80397,2026-09-26,Chat,C1166,ORD-50145,"Hi, Tracking for ORD-50145 is not updating Where is my package Regards",where_is_my_order,5.8
+TCK-80398,2026-10-09,Email,C1220,ORD-50233,My Building Blocks 500pcs came with scratches and a cracked part Order ORD-50233 Thanks,damaged_item,10.4
+TCK-80399,2026-10-08,Chat,C1071,,"Namaste, How long is the warranty on Mixer Grinder 750W",product_question,6.6
+TCK-80400,2026-10-06,App,C1223,,"Dear NovaMart, Is the Steel Water Bottle 1L compatible with iPhone? Pls revert asap.",product_question,5.9
+TCK-80401,2026-10-07,App,C1076,ORD-50525,"Hello team, Received a damaged Dumbbell Set 10kg, really upset Please help, order ORD-50525",damaged_item,13.7
+TCK-80402,2026-09-29,Chat,C1240,ORD-50506,"Hi, Is my Cotton Kurta Set out for delivery yet? ORD-50506 This is the second time I'm writing!",where_is_my_order,5.7
+TCK-80403,2026-10-07,WhatsApp,C1062,,"hey, i was billed twice for ord-50383 this is the second time i'm writing!",payment_issue,12.4
+TCK-80404,2026-09-20,Chat,C1027,ORD-50196,Money not received after return of ORD-50196 Pls revert asap.,refund_status,9.0
+TCK-80405,2026-10-05,WhatsApp,C1151,ORD-50374,"Cancel order ORD-50374 immediately, found it cheaper elsewhere.",cancel_order,3.4
+TCK-80406,2026-09-15,Chat,C1044,ORD-50424,Order ORD-50424: item received does not match the listing of Noise Cancelling Headphones. Waiting for your reply.,wrong_item,13.1
+TCK-80407,2026-09-19,App,C1122,ORD-50431,"Hey, Hi, can you tell me the status of order ORD-50431?",where_is_my_order,2.5
+TCK-80408,2026-10-03,App,C1120,ORD-50521,"I ordered Office Backpack 30L last week, order ORD-50521, when will it be delivered? This is the second time I'm writing!",where_is_my_order,6.1
+TCK-80409,2026-09-17,Chat,C1015,,Is Cricket Bat Kashmir Willow available in other colours? This is the second time I'm writing!,product_question,5.4
+TCK-80410,2026-09-30,Chat,C1032,ORD-50347,"Hi, Refund status please for order ORD-50347. Paid via Wallet.",refund_status,11.1
+TCK-80411,2026-10-11,App,C1175,ORD-50180,Where is my order ORD-50180 It still hasn't arrived Regards,where_is_my_order,6.6
+TCK-80412,2026-10-12,WhatsApp,C1117,ORD-50085,"Hi, Received wrong colour of Mixer Grinder 750W, I ordered another one. ORD-50085 Regards.",wrong_item,12.1
+TCK-80413,2026-10-09,Email,C1112,ORD-50252,"Hey, I received my LED Desk Lamp today but it is damaged. Order ORD-50252. Regards.",damaged_item,10.8
+TCK-80414,2026-09-28,Chat,C1003,ORD-50275,Expected delivery date has passed for ORD-50275. No update from your side at all. Thanks.,delivery_delay,11.0
+TCK-80415,2026-09-26,App,C1128,ORD-50048,"Please take back the Yoga Mat 6mm, size does not fit. ORD-50048",return_request,7.3
+TCK-80416,2026-09-26,Chat,C1102,ORD-50042,"Namaste, Don't ship order ORD-50042, please cancel Pls revert asap.",cancel_order,3.9
+TCK-80417,2026-10-12,App,C1094,,Please update my phone number on my account. Thanks.,account_issue,9.8
+TCK-80418,2026-09-15,Chat,C1183,ORD-50167,"Namaste, Has my order ORD-50167 been shipped yet? Waiting for your reply.",where_is_my_order,6.3
+TCK-80419,2026-10-10,WhatsApp,C1015,ORD-50283,"Hello team, I'd like to exchange the Mechanical Keyboard in order ORD-50283 for a different size Regards",return_request,6.0
+TCK-80420,2026-09-22,Email,C1126,ORD-50036,"NAMASTE, PICKUP DONE 4 DAYS AGO BUT NO MONEY BACK FOR ORD-50036",refund_status,8.4
+TCK-80421,2026-10-03,WhatsApp,C1196,ORD-50317,"This is not my order, item mismatch for ORD-50317 Pls revert asap.",wrong_item,11.5
+TCK-80422,2026-10-13,Chat,C1083,ORD-50504,"Dear NovaMart, Where is my money for the returned Kids Story Book Set? ORD-50504 Regards.",refund_status,12.2
+TCK-80423,2026-09-18,Email,C1185,ORD-50053,"Namaste, When will I get my refund for ORD-50053? It's been 6 days.",refund_status,6.6
+TCK-80424,2026-09-20,Chat,C1136,ORD-50395,"Hey, Tracking for ORD-50395 is not updating. Where is my package? Regards.",where_is_my_order,5.6
+TCK-80425,2026-10-13,Chat,C1234,ORD-50408,"Hello team, Can I return Smart Fitness Band? I changed my mind. Order ORD-50408 Regards.",return_request,9.7
+TCK-80426,2026-10-07,Chat,C1139,ORD-50119,"DEAR NOVAMART, WRONG PRODUCT DELIVERED FOR ORDER ORD-50119. THIS IS NOT WHAT I ORDERED. PLEASE HELP.",wrong_item,13.0
+TCK-80427,2026-10-14,Email,C1088,ORD-50599,Pickup done 6 days ago but no money back for ORD-50599,refund_status,7.4
+TCK-80428,2026-09-26,WhatsApp,C1189,,My account is locked after too many attempts This is the second time I'm writing!,account_issue,8.4
+TCK-80429,2026-10-06,Email,C1095,,"Namaste, Is the Non-stick Cookware Set original Want to know before buying Waiting for your reply",product_question,6.0
+TCK-80430,2026-09-28,Email,C1152,ORD-50327,"Dear NovaMart, Extra money debited from account for ORD-50327",payment_issue,9.4
+TCK-80431,2026-09-24,Email,C1249,,"Hi, Is the Dumbbell Set 10kg waterproof? Pls revert asap.",product_question,4.0
+TCK-80432,2026-10-05,Chat,C1239,ORD-50318,"HELLO TEAM, MERA ORDER ORD-50318 KAHAN HAI? THIS IS THE SECOND TIME I'M WRITING!",where_is_my_order,5.6
+TCK-80433,2026-10-13,Chat,C1017,ORD-50514,"Hey, Initiate return pickup for ORD-50514",return_request,7.4
+TCK-80434,2026-09-18,Chat,C1200,ORD-50232,"Dear NovaMart, Refund status please for order ORD-50232. Paid via Credit Card. This is the second time I'm writing!",refund_status,6.9
+TCK-80435,2026-09-20,WhatsApp,C1124,ORD-50386,"Hello team, I returned order ORD-50386 but haven't got my refund yet.",refund_status,6.0
+TCK-80436,2026-09-22,Chat,C1175,,"Forgot password, reset not working",account_issue,9.5
+TCK-80437,2026-10-01,App,C1177,ORD-50334,Payment failed but amount was debited via UPI. Order ORD-50334 Please help.,payment_issue,6.8
+TCK-80438,2026-09-29,Chat,C1117,ORD-50146,"Hey, I want to cancel ORD-50146, ordred Mixer Grinder 750W by mistake. This is the second time I'm writing!",cancel_order,3.8
+TCK-80439,2026-09-25,Email,C1092,ORD-50182,"Hi, Your courier is too slow, ORD-50182 is overdue",delivery_delay,12.5
+TCK-80440,2026-09-28,Chat,C1162,,"Dear NovaMart, I can't log in to my account, OTP is not coming. Regards.",account_issue,7.3
+TCK-80441,2026-10-14,Email,C1010,ORD-50170,Initiate return pickup for ORD-50170 Regards.,return_request,9.1
+TCK-80442,2026-09-20,Chat,C1131,ORD-50516,"NAMASTE, DON'T SHIP ORDER ORD-50516, PLEASE CANCEL",cancel_order,7.0
+TCK-80443,2026-09-21,Email,C1037,,"hello team, payment failed but amount was debited via upi. order ord-50002",payment_issue,10.9
+TCK-80444,2026-10-01,Email,C1105,ORD-50075,"Hey, I placed ORD-50075 by mistake, cancel it Thanks.",cancel_order,4.6
+TCK-80445,2026-09-29,App,C1016,,"hello team, has my order ord-50476 been shipped yet? waiting for your reply.",where_is_my_order,7.6
+TCK-80446,2026-10-14,Chat,C1081,ORD-50460,"Dear NovaMart, Why is my Non-stick Cookware Set delayed?? It was promised by 2026-10-13. Order ORD-50460 Pls revert asap.",delivery_delay,6.6
+TCK-80447,2026-09-26,Email,C1173,ORD-50136,"I ordered Ceramic Dinner Set last week, order ORD-50136, when will it be delivered?",where_is_my_order,6.6
+TCK-80448,2026-10-10,Chat,C1039,ORD-50000,Has my order ORD-50000 been shipped yet? This is the second time I'm writing!,where_is_my_order,5.2
+TCK-80449,2026-09-30,WhatsApp,C1096,,"Namaste, Is the Cricket Bat Kashmir Willow original? Want to know before buying. Pls revert asap.",product_question,3.4
+TCK-80450,2026-09-21,Chat,C1167,ORD-50129,"Hey, Want to return Face Serum Vitamin C, not happy with it. ORD-50129",return_request,9.3
+TCK-80451,2026-10-02,Chat,C1059,ORD-50083,"My Power Bank 20000mAh has not reached yet, order id ORD-50083. Kab tak aayega? Pls revert asap.",where_is_my_order,8.9
+TCK-80452,2026-09-25,Chat,C1143,ORD-50587,"DEAR NOVAMART, WHERE IS MY ORDER ORD-50587? IT STILL HASN'T ARRIVED.",where_is_my_order,4.9
+TCK-80453,2026-10-09,WhatsApp,C1183,ORD-50167,Wrong product delivered for order ORD-50167. This is not what I ordered. Pls revert asap.,wrong_item,10.7
+TCK-80454,2026-09-30,Chat,C1199,ORD-50497,"Hi, Hi, can you tell me the status of ordr ORD-50497?",where_is_my_order,7.9
+TCK-80455,2026-09-21,Chat,C1243,,"Hi, Can you tell me if Power Bank 20000mAh supports fast charging? Please help.",product_question,5.7
+TCK-80456,2026-09-26,Chat,C1008,,please cancel my order ord-50523.,cancel_order,3.2
+TCK-80457,2026-10-12,Chat,C1112,ORD-50252,"NAMASTE, RECEIVED A DAMAGED LED DESK LAMP, REALLY UPSET. PLEASE HELP, ORDER ORD-50252 THANKS.",damaged_item,11.4
+TCK-80458,2026-09-29,Chat,C1161,ORD-50488,WHERE IS MY PARCEL? ORDER ORD-50488,where_is_my_order,5.3
+TCK-80459,2026-09-25,Chat,C1017,ORD-50514,"Dear NovaMart, How do I return ordr ORD-50514? I don't like the LED Desk Lamp. Please help.",return_request,8.0
+TCK-80460,2026-10-11,WhatsApp,C1085,,"Hey, What material is Bluetooth Speaker Mini made of? Pls revert asap.",product_question,4.8
+TCK-80461,2026-10-08,Chat,C1122,ORD-50431,"Hey, The Cricket Bat Kashmir Willow stopped working after 2 days. Order ORD-50431. Need replacement asap. Thanks.",damaged_item,12.6
+TCK-80462,2026-10-11,Chat,C1243,ORD-50435,"Namaste, Where is my parcel Order ORD-50435 Regards",where_is_my_order,5.8
+TCK-80463,2026-10-13,Email,C1007,ORD-50280,"Hey, Order ORD-50280 is very late, no delivery yet",delivery_delay,9.0
+TCK-80464,2026-09-19,Email,C1123,ORD-50044,"Namaste, I was charged Rs 1999 but order ORD-50044 shows payment pending.",payment_issue,7.6
+TCK-80465,2026-09-22,Chat,C1177,ORD-50264,When will refund for ORD-50264 reflect in my account Waiting for your reply,refund_status,10.0
+TCK-80466,2026-09-22,App,C1001,ORD-50336,Where is my order ORD-50336? It still hasn't arrived. Regards.,where_is_my_order,5.8
+TCK-80467,2026-10-06,Chat,C1135,ORD-50106,please share delivery update for ORD-50106,where_is_my_order,4.6
+TCK-80468,2026-09-30,Email,C1112,ORD-50237,"You delivered another model, not Office Backpack 30L. Order ORD-50237",wrong_item,8.2
+TCK-80469,2026-09-19,Chat,C1007,ORD-50280,Order ORD-50280 - shipping status? Regards.,where_is_my_order,5.3
+TCK-80470,2026-10-02,Chat,C1162,ORD-50360,"Hello team, Refund still not credited to my bank for ORD-50360 Thanks.",refund_status,8.5
+TCK-80471,2026-10-12,Chat,C1120,ORD-50521,"Hi, Your courier is too slow, ORD-50521 is overdue",delivery_delay,10.1
+TCK-80472,2026-09-26,WhatsApp,C1154,ORD-50558,"Return request for ORD-50558, quality of Smart Fitness Band is not as expected.",return_request,5.9
+TCK-80473,2026-10-13,App,C1037,ORD-50099,"I want to cancel ORD-50099, ordered Office Backpack 30L by mistake. Pls revert asap.",cancel_order,6.9
+TCK-80474,2026-10-13,Email,C1183,ORD-50496,"Namaste, Refund for cancelled order ORD-50496 not credited to my account. Regards.",refund_status,5.2
+TCK-80475,2026-09-27,Email,C1184,ORD-50520,"Dear NovaMart, Has my order ORD-50520 been shipped yet?",where_is_my_order,3.8
+TCK-80476,2026-10-04,WhatsApp,C1103,ORD-50220,"Hey, Got someone else's item in my package for ORD-50220. Where is my Non-stick Cookware Set? This is the second time I'm writing!",wrong_item,8.7
+TCK-80477,2026-10-14,App,C1045,,"Hey, What is the size/material of the Hair Dryer Compact? Waiting for your reply.",product_question,8.2
+TCK-80478,2026-10-12,Chat,C1163,,Is Hair Dryer Compact available in other colours?,product_question,4.3
+TCK-80479,2026-10-01,Chat,C1150,ORD-50332,"This is not my order, item mismatch for ORD-50332 Please help.",wrong_item,13.3
+TCK-80480,2026-09-22,WhatsApp,C1204,ORD-50366,"Namaste, Tracking for ORD-50366 is not updating. Where is my package?",where_is_my_order,4.6
+TCK-80481,2026-09-16,WhatsApp,C1122,ORD-50204,Refund still not credited to my bank for ORD-50204 Regards,refund_status,4.7
+TCK-80482,2026-10-03,Chat,C1095,ORD-50107,"Namaste, Want to return Ceramic Dinner Set, not happy with it. ORD-50107",return_request,7.9
+TCK-80483,2026-10-04,Chat,C1132,ORD-50112,"Want to return Wireless Earbuds Pro, not happy with it. ORD-50112 This is the second time I'm writing!",return_request,8.0
+TCK-80484,2026-10-02,App,C1229,ORD-50021,"Namaste, I ordered Mixer Grinder 750W but received something completely different. Order ORD-50021",wrong_item,12.6
+TCK-80485,2026-09-30,WhatsApp,C1056,ORD-50381,What is the expected delivery date for ORD-50381?,where_is_my_order,4.6
+TCK-80486,2026-09-19,App,C1103,ORD-50339,When will I get my refund for ORD-50339? It's been 8 days. Please help.,refund_status,6.4
+TCK-80487,2026-10-10,Chat,C1233,ORD-50464,I received my Office Backpack 30L today but it is damaged. Order ORD-50464. Waiting for your reply.,damaged_item,14.4
+TCK-80488,2026-10-13,Chat,C1188,,"Hi, Is Bedsheet Double King available in other colours? Pls revert asap.",product_question,6.0
+TCK-80489,2026-09-27,Chat,C1010,ORD-50170,"Hello team, Received a damaged Perfume Oud 100ml, really upset. Please help, order ORD-50170 Waiting for your reply.",damaged_item,14.4
+TCK-80490,2026-10-13,WhatsApp,C1247,ORD-50073,"Dear NovaMart, Delivery date missed for ORD-50073, still waiting Please help.",delivery_delay,9.0
+TCK-80491,2026-09-15,App,C1163,ORD-50518,"Hey, Is my Bluetooth Speaker Mini out for delivery yet? ORD-50518 Please help.",where_is_my_order,6.6
+TCK-80492,2026-09-16,WhatsApp,C1079,ORD-50135,"DEAR NOVAMART, WANT TO RETURN FACE SERUM VITAMIN C, NOT HAPPY WITH IT. ORD-50135",return_request,4.8
+TCK-80493,2026-09-21,WhatsApp,C1225,ORD-50241,"Hey, Product quality defect - Non-stick Cookware Set leaking/broken. ORD-50241",damaged_item,11.6
+TCK-80494,2026-10-13,App,C1183,,"Hello team, Forgot password, reset not working Pls revert asap.",account_issue,7.9
+TCK-80495,2026-10-01,Email,C1196,ORD-50505,Why is it taking so long? ORD-50505 was due 6 days ago Waiting for your reply.,delivery_delay,14.1
+TCK-80496,2026-10-07,Email,C1081,ORD-50354,"Hello team, I placed ORD-50354 by mistake, cancel it This is the second time I'm writing!",cancel_order,4.8
+TCK-80497,2026-10-04,Chat,C1001,ORD-50089,"Hey, Refund status please for order ORD-50089. Paid via Debit Card. Regards.",refund_status,6.6
+TCK-80498,2026-10-02,App,C1213,ORD-50024,"Namaste, Received Office Backpack 30L with missing parts and dents, order ORD-50024 Thanks.",damaged_item,16.2
+TCK-80499,2026-10-14,App,C1120,ORD-50324,"Dear NovaMart, Want to return USB-C Fast Charger 33W, not happy with it. ORD-50324 Please help.",return_request,7.4
+TCK-80500,2026-10-07,App,C1030,ORD-50452,"Hey, I want to return the Steel Water Bottle 1L from order ORD-50452. It doesn't fit well.",return_request,9.9
+TCK-80501,2026-09-20,WhatsApp,C1221,ORD-50455,"Hi, Payment failed but amount was debited via Net Banking. Order ORD-50455",payment_issue,12.5
+TCK-80502,2026-09-23,Chat,C1008,ORD-50030,"Hello team, Initiate return pickup for ORD-50030 Regards.",return_request,5.5
+TCK-80503,2026-10-14,Chat,C1187,ORD-50476,"HELLO TEAM, WHY IS MY NOISE CANCELLING HEADPHONES DELAYED?? IT WAS PROMISED BY 2026-10-12. ORDER ORD-50476 THIS IS THE SECOND TIME I'M WRITING!",delivery_delay,9.0
+TCK-80504,2026-09-25,Chat,C1131,ORD-50516,"Hey, I placed ORD-50516 by mistake, cancel it Waiting for your reply.",cancel_order,3.9
+TCK-80505,2026-10-03,App,C1032,ORD-50494,"DEAR NOVAMART, MY LED DESK LAMP HAS NOT REACHED YET, ORDER ID ORD-50494. KAB TAK AAYEGA? THANKS.",where_is_my_order,4.9
+TCK-80506,2026-09-15,Chat,C1148,,Does the Smart Fitness Band come with a warranty? This is the second time I'm writing!,product_question,5.3
+TCK-80507,2026-09-28,Email,C1110,ORD-50400,"Hi, Can I get the tracking details for my Mixer Grinder 750W? Order ORD-50400 This is the second time I'm writing!",where_is_my_order,6.4
+TCK-80508,2026-09-23,WhatsApp,C1015,ORD-50283,"Hi, Money got deducted twice for order ORD-50283 Please refund the extra amount This is the second time I'm writing!",payment_issue,15.5
+TCK-80509,2026-10-13,WhatsApp,C1018,ORD-50418,Payment failed but amount was debited via Wallet. Order ORD-50418 Pls revert asap.,payment_issue,3.9
+TCK-80510,2026-10-11,Chat,C1216,ORD-50245,"Hey, I was billed twice for ORD-50245 Pls revert asap.",payment_issue,10.2
+TCK-80511,2026-10-06,Chat,C1071,ORD-50376,"HEY, I PLACED ORD-50376 BY MISTAKE, CANCEL IT REGARDS.",cancel_order,3.4
+TCK-80512,2026-09-30,Chat,C1009,ORD-50595,"Hi, Refund for cancelled order ORD-50595 not credited to my account. Please help.",refund_status,5.6
+TCK-80513,2026-10-05,Chat,C1195,ORD-50059,Kindly cancel ORD-50059 and refund the amount. Thanks.,cancel_order,4.3
+TCK-80514,2026-10-05,Chat,C1106,ORD-50590,"Hello team, Please arrange a pickup for return of Face Serum Vitamin C, order ORD-50590.",return_request,7.7
+TCK-80515,2026-10-02,App,C1195,ORD-50185,"Hello team, Is my Hair Dryer Compact out for delivery yet? ORD-50185 Regards.",where_is_my_order,5.7
+TCK-80516,2026-10-09,WhatsApp,C1077,,"Dear NovaMart, Can you tell me if Leather Wallet supports fast charging? Pls revert asap.",product_question,3.8
+TCK-80517,2026-09-19,Chat,C1193,ORD-50020,"Hello team, I returned order ORD-50020 but haven't got my refund yet. Thanks.",refund_status,8.2
+TCK-80518,2026-10-04,Email,C1215,ORD-50194,"Hi, Received a damaged Bluetooth Speaker Mini, really upset Please help, order ORD-50194 Thanks",damaged_item,11.0
+TCK-80519,2026-09-22,Chat,C1007,ORD-50280,"Namaste, Charged two times on my Credit Card for ORD-50280 Pls revert asap.",payment_issue,16.3
+TCK-80520,2026-09-18,Chat,C1187,ORD-50476,Why is my Noise Cancelling Headphones delayed It was promised by 2026-10-12 Order ORD-50476 Please help,delivery_delay,8.2
+TCK-80521,2026-09-24,Chat,C1243,ORD-50169,"Namaste, Expected delivery date has passed for ORD-50169. No update from your side at all.",delivery_delay,8.9
+TCK-80522,2026-09-26,App,C1174,ORD-50499,"Hi, Received wrong colour of Dumbbell Set 10kg, I ordered another one. ORD-50499",wrong_item,5.6
+TCK-80523,2026-09-24,Chat,C1005,ORD-50370,"Namaste, Still waiting for refund of Rs 1299 for ORD-50370. Please check.",refund_status,9.9
+TCK-80524,2026-10-05,WhatsApp,C1214,ORD-50319,"Hello team, Exchange Smart Fitness Band for bigger size, order ORD-50319 Pls revert asap.",return_request,10.6
+TCK-80525,2026-10-11,Chat,C1144,ORD-50081,"Namaste, I ordered Sports T-Shirt Pack of 3 last week, order ORD-50081, when will it be delivered?",where_is_my_order,7.6
+TCK-80526,2026-09-28,Email,C1055,ORD-50039,When will refund for ORD-50039 reflect in my account? Thanks.,refund_status,6.2
+TCK-80527,2026-09-25,Chat,C1027,ORD-50377,Is my Mechanical Keyboard out for delivery yet? ORD-50377 Thanks.,where_is_my_order,2.8
+TCK-80528,2026-10-05,Chat,C1040,ORD-50009,"Hello team, Product in order ORD-50009 is defective, Office Backpack 30L is not turning on. Thanks.",damaged_item,10.3
+TCK-80529,2026-10-13,Chat,C1206,ORD-50445,"Hey, I was charged Rs 1598 but order ORD-50445 shows payment pending Waiting for your reply",payment_issue,13.8
+TCK-80530,2026-10-03,Chat,C1012,ORD-50393,Refund for cancelled order ORD-50393 not credited to my account. Thanks.,refund_status,6.2
+TCK-80531,2026-09-29,App,C1084,,"namaste, initiate return pickup for ord-50568 please help.",return_request,8.9
+TCK-80532,2026-10-11,Chat,C1016,,"Namaste, OTP not received while signing in Thanks.",account_issue,5.2
+TCK-80533,2026-09-26,App,C1137,ORD-50338,"Dear NovaMart, Why is it taking so long? ORD-50338 was due 3 days ago Waiting for your reply.",delivery_delay,8.4
+TCK-80534,2026-09-22,Chat,C1185,ORD-50156,"HELLO TEAM, I ORDERED SPORTS T-SHIRT PACK OF 3 LAST WEEK, ORDER ORD-50156, WHEN WILL IT BE DELIVERED?",where_is_my_order,7.4
+TCK-80535,2026-09-22,Chat,C1134,ORD-50121,"Dear NovaMart, Cancel the Running Shoes Air I ordered today, ORD-50121 This is the second time I'm writing!",cancel_order,4.7
+TCK-80536,2026-09-18,Email,C1061,ORD-50566,Money not received after return of ORD-50566 Waiting for your reply.,refund_status,10.0
+TCK-80537,2026-09-26,App,C1152,ORD-50143,"Namaste, Any update on my shipment ORD-50143? Please help.",where_is_my_order,5.1
+TCK-80538,2026-10-06,WhatsApp,C1013,ORD-50095,"Namaste, I placed ORD-50095 by mistake, cancel it Thanks.",cancel_order,8.1
+TCK-80539,2026-10-01,WhatsApp,C1227,ORD-50015,"Dear NovaMart, When will my package be delivered, order ORD-50015 This is the second time I'm writing!",where_is_my_order,2.9
+TCK-80540,2026-10-07,Chat,C1018,ORD-50539,I'd like to exchange the Mixer Grinder 750W in order ORD-50539 for a different size.,return_request,5.1
+TCK-80541,2026-09-25,Chat,C1075,ORD-50132,"Hi, Tracking for ORD-50132 is not updating. Where is my package?",where_is_my_order,5.6
+TCK-80542,2026-10-07,Chat,C1163,ORD-50518,"Hi, I want to return the Bluetooth Speaker Mini from order ORD-50518. It doesn't fit well. Thanks.",return_request,12.0
+TCK-80543,2026-10-08,App,C1209,,"Namaste, Does the Perfume Oud 100ml come with a warranty? Thanks.",product_question,5.4
+TCK-80544,2026-10-04,Chat,C1039,ORD-50000,"Hi, What is the expected delivery date for ORD-50000?",where_is_my_order,6.2
+TCK-80545,2026-09-17,Chat,C1189,,"namaste, exchange bluetooth speaker mini for bigger size, order ord-50508",return_request,8.8
+TCK-80546,2026-10-02,Email,C1002,,"Hello team, Is the Mixer Grinder 750W waterproof Thanks",product_question,7.0
+TCK-80547,2026-09-20,Email,C1183,,HOW LONG IS THE WARRANTY ON PERFUME OUD 100ML?,product_question,4.5
+TCK-80548,2026-10-10,Chat,C1105,ORD-50271,"Hey, Payment debited but showing failed in app. ORD-50271",payment_issue,6.2
+TCK-80549,2026-10-04,Email,C1131,ORD-50516,"Hello team, Can I still cancel order ORD-50516? I no longer need the Running Shoes Air. Waiting for your reply.",cancel_order,7.1
+TCK-80550,2026-09-28,Chat,C1245,,"product in order ord-50340 is defective, smartwatch active 2 is not turning on. waiting for your reply.",damaged_item,18.4
+TCK-80551,2026-09-25,Email,C1170,ORD-50244,"Namaste, What is the expected delivery date for ORD-50244? Waiting for your reply.",where_is_my_order,6.3
+TCK-80552,2026-09-29,App,C1116,ORD-50331,"Dear NovaMart, Order ORD-50331 is very late, no delivery yet Pls revert asap.",delivery_delay,9.5
+TCK-80553,2026-10-07,Chat,C1062,ORD-50011,Is my Denim Jacket out for delivery yet? ORD-50011,where_is_my_order,7.0
+TCK-80554,2026-09-16,Chat,C1175,ORD-50180,"Namaste, Hi, can you tell me the status of order ORD-50180? Pls revert asap.",where_is_my_order,4.1
+TCK-80555,2026-09-18,Chat,C1249,ORD-50001,"Perfume Oud 100ml is too small, I want to send it back Order ORD-50001 Thanks",return_request,9.4
+TCK-80556,2026-10-02,Chat,C1234,ORD-50549,"Namaste, Received a damaged Face Serum Vitamin C, really upset. Please help, order ORD-50549 Regards.",damaged_item,9.8
+TCK-80557,2026-09-27,Email,C1210,ORD-50555,"Dear NovaMart, I ordered Hair Dryer Compact but received something completely different. Order ORD-50555",wrong_item,11.6
+TCK-80558,2026-10-11,WhatsApp,C1211,ORD-50308,My money for ORD-50308 has not come back Where is my refund Regards,refund_status,8.5
+TCK-80559,2026-09-28,WhatsApp,C1177,ORD-50264,"Namaste, I returned order ORD-50264 but haven't got my refund yet. Waiting for your reply.",refund_status,7.1
+TCK-80560,2026-09-28,Chat,C1226,ORD-50396,My Debit Card payment for ORD-50396 went through but no order confirmation. Thanks.,payment_issue,7.2
+TCK-80561,2026-09-17,Chat,C1217,ORD-50152,TRACKING FOR ORD-50152 IS NOT UPDATING. WHERE IS MY PACKAGE? REGARDS.,where_is_my_order,5.3
+TCK-80562,2026-10-02,WhatsApp,C1202,,"hi, amount deducted but order not placed, ord-50329 please help.",payment_issue,7.8
+TCK-80563,2026-09-25,Email,C1058,ORD-50250,"Hello team, Stop my order ORD-50250, I do not need it anymore Pls revert asap.",cancel_order,5.2
+TCK-80564,2026-09-26,Chat,C1106,ORD-50259,"I placed ORD-50259 by mistake, cancel it Thanks.",cancel_order,5.2
+TCK-80565,2026-10-04,Email,C1020,,How to change email id in my profile,account_issue,6.4
+TCK-80566,2026-09-30,Email,C1180,ORD-50467,"Hi, It's been 9 days past the promised date for ORD-50467 Fix this now This is the second time I'm writing!",delivery_delay,11.8
+TCK-80567,2026-09-16,WhatsApp,C1134,,"hey, please cancel my order ord-50363. please help.",cancel_order,3.6
+TCK-80568,2026-10-01,Email,C1105,ORD-50271,"Dear NovaMart, Late delivery again for ORD-50271! It should have come on 2026-10-11 Thanks.",delivery_delay,6.1
+TCK-80569,2026-10-14,WhatsApp,C1022,ORD-50528,"Dear NovaMart, Order ORD-50528 is very late, no delivery yet Waiting for your reply.",delivery_delay,5.6
+TCK-80570,2026-09-25,WhatsApp,C1105,ORD-50468,"Hello team, Your courier is too slow, ORD-50468 is overdue",delivery_delay,5.4
+TCK-80571,2026-09-23,App,C1019,,refund status please for order ord-50410. paid via cash on delivery.,refund_status,5.5
+TCK-80572,2026-09-18,WhatsApp,C1062,ORD-50011,"Namaste, I was billed twice for ORD-50011 This is the second time I'm writing!",payment_issue,9.7
+TCK-80573,2026-09-17,Chat,C1119,ORD-50038,"Return request for ORD-50038, quality of Face Serum Vitamin C is not as expected. Please help.",return_request,7.6
+TCK-80574,2026-09-24,Chat,C1178,ORD-50472,"Hello team, Money got deducted twice for order ORD-50472. Please refund the extra amount. This is the second time I'm writing!",payment_issue,11.1
+TCK-80575,2026-09-21,Chat,C1170,ORD-50244,How do I return order ORD-50244? I don't like the Bedsheet Double King. This is the second time I'm writing!,return_request,11.3
+TCK-80576,2026-09-17,WhatsApp,C1127,ORD-50300,"Dear NovaMart, Charged two times on my UPI for ORD-50300 This is the second time I'm writing!",payment_issue,7.3
+TCK-80577,2026-09-22,App,C1055,,"dear novamart, how long is the warranty on mechanical keyboard?",product_question,6.8
+TCK-80578,2026-09-23,Chat,C1037,,"i placed ord-50141 by mistake, cancel it thanks.",cancel_order,4.7
+TCK-80579,2026-10-07,Chat,C1119,ORD-50038,"Hello team, The Face Serum Vitamin C arrived broken, box was crushed. Order ORD-50038. I want a replacement.",damaged_item,8.4
+TCK-80580,2026-10-08,Email,C1013,ORD-50301,"Hi, Money not received after return of ORD-50301 Thanks.",refund_status,6.5
+TCK-80581,2026-09-26,Chat,C1045,ORD-50456,"Hi, I was charged Rs 5198 but order ORD-50456 shows payment pending. Waiting for your reply.",payment_issue,16.2
+TCK-80582,2026-10-03,Chat,C1135,ORD-50086,"Dear NovaMart, Where is my money for the returned LED Desk Lamp? ORD-50086 Regards.",refund_status,6.4
+TCK-80583,2026-09-18,Chat,C1208,ORD-50234,My money for ORD-50234 has not come back. Where is my refund?? Pls revert asap.,refund_status,11.4
+TCK-80584,2026-09-29,WhatsApp,C1117,ORD-50146,"Namaste, Kindly cancel ORD-50146 and refund the amount Please help",cancel_order,8.8
+TCK-80585,2026-10-06,Chat,C1023,,"namaste, any update on my shipment ord-50458?",where_is_my_order,8.0
+TCK-80586,2026-09-27,Chat,C1175,,"Hey, Is the Sports T-Shirt Pack of 3 original? Want to know before buying.",product_question,5.2
+TCK-80587,2026-10-12,Email,C1225,ORD-50241,"Please take back the Non-stick Cookware Set, size does not fit. ORD-50241",return_request,11.6
+TCK-80588,2026-09-21,Chat,C1032,ORD-50181,"Hi, Please take back the Noise Cancelling Headphones, size does not fit ORD-50181",return_request,12.1
+TCK-80589,2026-10-11,Chat,C1149,ORD-50563,"Hey, Return request for ORD-50563, quality of Cricket Bat Kashmir Willow is not as expected Waiting for your reply",return_request,10.6
+TCK-80590,2026-09-24,Email,C1154,ORD-50183,Where is my order ORD-50183? It still hasn't arrived.,where_is_my_order,4.7
+TCK-80591,2026-10-14,Chat,C1074,,i'd like to exchange the non-stick cookware set in order ord-50077 for a different size regards,return_request,10.8
+TCK-80592,2026-10-08,Email,C1043,ORD-50260,Expected delivery date has passed for ORD-50260. No update from your side at all.,delivery_delay,12.4
+TCK-80593,2026-10-13,Email,C1015,ORD-50029,"PLEASE TAKE BACK THE OFFICE BACKPACK 30L, SIZE DOES NOT FIT. ORD-50029 PLS REVERT ASAP.",return_request,4.8
+TCK-80594,2026-10-08,Chat,C1126,ORD-50036,"Dear NovaMart, Payment debited but showing failed in app. ORD-50036",payment_issue,15.6
+TCK-80595,2026-10-10,WhatsApp,C1200,,"Namaste, Can you tell me if Non-stick Cookware Set supports fast charging",product_question,5.0
+TCK-80596,2026-09-15,App,C1210,ORD-50079,"Namaste, I want to cancel ORD-50079, ordered Noise Cancelling Headphones by mistake",cancel_order,3.6
+TCK-80597,2026-09-24,WhatsApp,C1048,ORD-50197,"HELLO TEAM, THE SMART FITNESS BAND STOPPED WORKING AFTER 2 DAYS. ORDER ORD-50197. NEED REPLACEMENT ASAP. REGARDS.",damaged_item,10.3
+TCK-80598,2026-09-29,Email,C1137,ORD-50066,"Namaste, Got someone else's item in my package for ORD-50066. Where is my Denim Jacket?",wrong_item,10.2
+TCK-80599,2026-10-08,App,C1101,,"Dear NovaMart, Is Face Serum Vitamin C available in other colours",product_question,4.9
+TCK-80600,2026-09-16,Chat,C1108,ORD-50358,"Dear NovaMart, Payment failed but amount was debited via Net Banking Order ORD-50358",payment_issue,11.5
+TCK-80601,2026-09-16,Chat,C1182,ORD-50560,"Hey, Where is my parcel Order ORD-50560 Thanks",where_is_my_order,6.4
+TCK-80602,2026-10-06,App,C1118,,"HEY, FORGOT PASSWORD, RESET NOT WORKING",account_issue,8.6
+TCK-80603,2026-10-08,Chat,C1070,ORD-50210,Where is my order ORD-50210? It still hasn't arrived. Waiting for your reply.,where_is_my_order,4.4
+TCK-80604,2026-10-11,WhatsApp,C1127,ORD-50142,"Namaste, When will I get my refund for ORD-50142? It's been 2 days.",refund_status,10.3
+TCK-80605,2026-09-20,WhatsApp,C1016,ORD-50109,"Hello team, Where is my order ORD-50109? It still hasn't arrived. Pls revert asap.",where_is_my_order,6.8
+TCK-80606,2026-10-11,Chat,C1154,ORD-50183,"NAMASTE, EXTRA MONEY DEBITED FROM ACCOUNT FOR ORD-50183 THANKS.",payment_issue,12.4
+TCK-80607,2026-10-13,App,C1134,ORD-50249,"Hey, When will my package be delivered, order ORD-50249 Regards",where_is_my_order,6.4
+TCK-80608,2026-09-15,Chat,C1212,ORD-50072,"Cancel the Air Fryer 4L I ordered today, ORD-50072",cancel_order,2.4
+TCK-80609,2026-09-30,WhatsApp,C1186,ORD-50161,Is my Sports T-Shirt Pack of 3 out for delivery yet? ORD-50161 Thanks.,where_is_my_order,6.8
+TCK-80610,2026-10-01,App,C1044,ORD-50221,"Hi, can you tell me the status of order ORD-50221 Pls revert asap",where_is_my_order,8.4
+TCK-80611,2026-10-13,App,C1010,ORD-50309,"I want to cancel ORD-50309, ordred Steel Water Bottle 1L by mistake",cancel_order,5.2
+TCK-80612,2026-09-25,WhatsApp,C1184,ORD-50470,Any update on my shipment ORD-50470? This is the second time I'm writing!,where_is_my_order,6.9
+TCK-80613,2026-10-05,Chat,C1176,ORD-50179,"Namaste, I want to return the Non-stick Cookware Set from order ORD-50179. It doesn't fit well.",return_request,7.2
+TCK-80614,2026-10-01,App,C1039,,"Dear NovaMart, Need to update my mobile number in profile",account_issue,7.3
+TCK-80615,2026-09-30,Chat,C1038,ORD-50575,"Hey, Extra money debited from account for ORD-50575 Waiting for your reply.",payment_issue,12.5
+TCK-80616,2026-09-21,App,C1219,ORD-50173,"Hi, Received Sports T-Shirt Pack of 3 with missing parts and dents, order ORD-50173 Thanks.",damaged_item,9.8
+TCK-80617,2026-09-30,App,C1219,ORD-50173,"Hello team, Payment failed but amount was debited via Cash on Delivery. Order ORD-50173 Thanks.",payment_issue,12.1
+TCK-80618,2026-10-14,Chat,C1014,ORD-50409,My Steel Water Bottle 1L is dead on arrival. ORD-50409 Waiting for your reply.,damaged_item,8.6
+TCK-80619,2026-09-21,WhatsApp,C1092,ORD-50182,"HEY, IT'S BEEN 4 DAYS PAST THE PROMISED DATE FOR ORD-50182. FIX THIS NOW. THANKS.",delivery_delay,11.2
+TCK-80620,2026-10-13,Email,C1071,,expected delivery date has passed for ord-50166 no update from your side at all,delivery_delay,10.9
+TCK-80621,2026-09-22,Chat,C1171,ORD-50565,"Dear NovaMart, Please cancel my order ORD-50565. Regards.",cancel_order,4.5
+TCK-80622,2026-10-09,App,C1001,ORD-50557,The courier keeps postponing delivery of ORD-50557. I needed it urgently for a gift.,delivery_delay,6.6
+TCK-80623,2026-09-29,WhatsApp,C1129,,"your courier is too slow, ord-50174 is overdue this is the second time i'm writing!",delivery_delay,6.5
+TCK-80624,2026-09-26,Chat,C1020,ORD-50536,"I want to cancel ORD-50536, ordered Cricket Bat Kashmir Willow by mistake. This is the second time I'm writing!",cancel_order,7.6
+TCK-80625,2026-09-24,Chat,C1128,ORD-50572,"Hi, can you tell me the status of order ORD-50572?",where_is_my_order,5.8
+TCK-80626,2026-10-03,Chat,C1183,ORD-50496,"Namaste, Refund still not credited to my bank for ORD-50496",refund_status,2.3
+TCK-80627,2026-10-01,Email,C1200,,Is the Yoga Mat 6mm compatible with iPhone?,product_question,4.7
+TCK-80628,2026-10-14,App,C1055,,"dear novamart, can i still cancel order ord-50361? i no longer need the wireless earbuds pro. pls revert asap.",cancel_order,4.7
+TCK-80629,2026-10-01,Chat,C1186,ORD-50161,"Hey, Different product shipped instead of Sports T-Shirt Pack of 3. ORD-50161 Regards.",wrong_item,12.7
+TCK-80630,2026-10-12,Chat,C1168,ORD-50238,"Namaste, Where is my order ORD-50238? It still hasn't arrived. Please help.",where_is_my_order,8.1
+TCK-80631,2026-09-20,Email,C1001,ORD-50336,What is the expected delivery date for ORD-50336?,where_is_my_order,3.6
+TCK-80632,2026-09-25,Email,C1106,ORD-50259,"I ordered Building Blocks 500pcs last week, order ORD-50259, when will it be delivered? This is the second time I'm writing!",where_is_my_order,5.7
+TCK-80633,2026-09-22,WhatsApp,C1086,ORD-50092,"I placed ORD-50092 by mistake, cancel it",cancel_order,4.2
+TCK-80634,2026-09-23,Email,C1079,ORD-50135,"Hi, My Face Serum Vitamin C is dead on arrival. ORD-50135 This is the second time I'm writing!",damaged_item,8.7
+TCK-80635,2026-10-04,Chat,C1155,ORD-50285,"Hi, Where is my order ORD-50285 It still hasn't arrived",where_is_my_order,6.6
+TCK-80636,2026-10-03,Chat,C1220,ORD-50233,"Hey, Received a damaged Building Blocks 500pcs, really upset. Please help, order ORD-50233 Pls revert asap.",damaged_item,7.7
+TCK-80637,2026-09-25,Email,C1171,,need to update my mobile number in profile,account_issue,6.5
+TCK-80638,2026-09-23,Email,C1154,ORD-50108,Can I still cancel order ORD-50108? I no longer need the Hair Dryer Compact. Regards.,cancel_order,3.2
+TCK-80639,2026-10-08,App,C1120,ORD-50521,"Namaste, Why is my Office Backpack 30L delayed?? It was promised by 2026-10-11. Order ORD-50521 Please help.",delivery_delay,7.5
+TCK-80640,2026-10-02,WhatsApp,C1165,ORD-50305,"Namaste, Tracking for ORD-50305 is not updating. Where is my package? This is the second time I'm writing!",where_is_my_order,5.2
+TCK-80641,2026-10-14,Chat,C1086,ORD-50092,"Dear NovaMart, Stop my order ORD-50092, I do not need it anymore Waiting for your reply.",cancel_order,5.2
+TCK-80642,2026-10-14,WhatsApp,C1215,ORD-50194,Order ORD-50194 - shipping status,where_is_my_order,7.5
+TCK-80643,2026-09-23,Chat,C1021,ORD-50228,"Namaste, Extra money debited from account for ORD-50228 This is the second time I'm writing!",payment_issue,13.9
+TCK-80644,2026-10-01,Email,C1236,,"Hello team, My account got blocked",account_issue,5.9
+TCK-80645,2026-09-17,Chat,C1132,ORD-50437,My delivery is late by 3 days. Order ORD-50437. Very disappointed. Pls revert asap.,delivery_delay,7.5
+TCK-80646,2026-10-07,WhatsApp,C1161,ORD-50473,"Namaste, Want to return Building Blocks 500pcs, not happy with it. ORD-50473 Regards.",return_request,8.6
+TCK-80647,2026-10-07,App,C1010,ORD-50170,"Dear NovaMart, Initiate return pickup for ORD-50170 Thanks.",return_request,5.5
+TCK-80648,2026-09-25,Chat,C1145,ORD-50116,"Hey, Wrong product delivered for order ORD-50116 This is not what I ordered",wrong_item,13.5
+TCK-80649,2026-10-03,WhatsApp,C1176,ORD-50389,"Dear NovaMart, Where is my ordr ORD-50389? It still hasn't arrived.",where_is_my_order,6.6
+TCK-80650,2026-09-24,App,C1150,ORD-50123,"Namaste, Exchange Face Serum Vitamin C for bigger size, order ORD-50123 Regards.",return_request,6.7
+TCK-80651,2026-10-06,Chat,C1213,ORD-50014,"Hi, Need the delivery ETA for my ordr ORD-50014 Waiting for your reply.",where_is_my_order,5.2
+TCK-80652,2026-09-24,App,C1180,ORD-50467,It's been 8 days past the promised date for ORD-50467. Fix this now. Regards.,delivery_delay,10.3
+TCK-80653,2026-10-10,Email,C1161,ORD-50488,"Hello team, Order ORD-50488 is very late, no delivery yet Thanks.",delivery_delay,11.0
+TCK-80654,2026-09-24,Chat,C1149,ORD-50563,"Dear NovaMart, I ordered Cricket Bat Kashmir Willow last week, order ORD-50563, when will it be delivered?",where_is_my_order,4.9
+TCK-80655,2026-10-12,Chat,C1040,,payment debited but showing failed in app. ord-50405 pls revert asap.,payment_issue,11.4
+TCK-80656,2026-09-29,App,C1152,ORD-50327,"Dear NovaMart, Mera order ORD-50327 kahan hai? Regards.",where_is_my_order,7.4
+TCK-80657,2026-10-07,Email,C1039,ORD-50000,"HI, I PLACED ORD-50000 BY MISTAKE, CANCEL IT THIS IS THE SECOND TIME I'M WRITING!",cancel_order,5.5
+TCK-80658,2026-10-10,App,C1249,,"hi, money not received after return of ord-50323 this is the second time i'm writing!",refund_status,6.5
+TCK-80659,2026-10-13,App,C1123,ORD-50010,"Namaste, My money for ORD-50010 has not come back. Where is my refund??",refund_status,11.0
+TCK-80660,2026-10-09,Chat,C1027,ORD-50377,"Dear NovaMart, Has my order ORD-50377 been shipped yet?",where_is_my_order,6.1
+TCK-80661,2026-10-06,Chat,C1180,ORD-50543,"Dear NovaMart, Where is my money for the returned Mechanical Keyboard? ORD-50543 Pls revert asap.",refund_status,8.2
+TCK-80662,2026-09-28,Chat,C1244,,"hello team, the noise cancelling headphones arrived broken, box was crushed. order ord-50229. i want a replacement. this is the second time i'm writing!",damaged_item,14.3
+TCK-80663,2026-10-13,Chat,C1112,ORD-50392,"Hello team, Need the delivery ETA for my order ORD-50392 Thanks.",where_is_my_order,7.0
+TCK-80664,2026-10-08,WhatsApp,C1028,,"exchange noise cancelling headphones for bigger size, order ord-50181 please help.",return_request,5.3
+TCK-80665,2026-10-14,Email,C1102,,"hello team, refund for cancelled ordr ord-50142 not credited to my account thanks",refund_status,13.1
+TCK-80666,2026-10-03,Chat,C1233,ORD-50519,"Namaste, Where is my parcel? Order ORD-50519 Waiting for your reply.",where_is_my_order,8.4
+TCK-80667,2026-09-15,Email,C1167,ORD-50129,"Hello team, The Face Serum Vitamin C arrived broken, box was crushed. Order ORD-50129. I want a replacement.",damaged_item,11.1
+TCK-80668,2026-09-17,App,C1169,,"namaste, can you tell me if smart fitness band supports fast charging",product_question,4.8
+TCK-80669,2026-09-18,WhatsApp,C1057,ORD-50454,"This is not my order, item mismatch for ORD-50454 Waiting for your reply",wrong_item,15.3
+TCK-80670,2026-09-23,Chat,C1155,ORD-50285,"Hello team, Any update on my shipment ORD-50285? Please help.",where_is_my_order,6.2
+TCK-80671,2026-10-12,Chat,C1174,ORD-50499,"Namaste, Any update on my shipment ORD-50499? Thanks.",where_is_my_order,7.6
+TCK-80672,2026-09-24,WhatsApp,C1146,ORD-50225,"Dear NovaMart, Order ORD-50225: item received does not match the listing of LED Desk Lamp. Regards.",wrong_item,12.3
+TCK-80673,2026-10-06,Chat,C1234,ORD-50408,"Namaste, I ordred Smart Fitness Band but received something completely different. Order ORD-50408 Pls revert asap.",wrong_item,13.5
+TCK-80674,2026-10-10,Chat,C1121,,Is the Perfume Oud 100ml compatible with iPhone?,product_question,3.6
+TCK-80675,2026-09-27,App,C1136,ORD-50594,"Hey, Amount deducted but order not placed, ORD-50594",payment_issue,6.9
+TCK-80676,2026-10-03,WhatsApp,C1154,ORD-50108,"Hi, Where is my order ORD-50108? It still hasn't arrived. Regards.",where_is_my_order,3.3
+TCK-80677,2026-09-22,App,C1105,ORD-50075,"HI, MY SMARTWATCH ACTIVE 2 HAS NOT REACHED YET, ORDER ID ORD-50075. KAB TAK AAYEGA? THIS IS THE SECOND TIME I'M WRITING!",where_is_my_order,5.6
+TCK-80678,2026-09-24,Chat,C1093,ORD-50227,"Hello team, I placed ORD-50227 by mistake, cancel it Thanks.",cancel_order,5.3
+TCK-80679,2026-10-02,App,C1201,ORD-50349,"Hello team, When will my package be delivered, order ORD-50349 This is the second time I'm writing!",where_is_my_order,6.1
+TCK-80680,2026-09-26,WhatsApp,C1152,ORD-50387,"Hello team, Order ORD-50387 was supposed to arrive on 2026-10-11 and it's still not here. This is ridiculous! Waiting for your reply.",delivery_delay,11.6
+TCK-80681,2026-09-23,Email,C1085,ORD-50414,"Product in order ORD-50414 is defective, Face Serum Vitamin C is not turning on. Waiting for your reply.",damaged_item,11.5
+TCK-80682,2026-09-24,WhatsApp,C1241,,"hello team, the noise cancelling headphones is faulty, it does not switch on. ord-50471 pls revert asap.",damaged_item,12.0
+TCK-80683,2026-09-26,Email,C1238,,"Namaste, My account got blocked Thanks",account_issue,5.7
+TCK-80684,2026-09-24,Email,C1137,ORD-50422,"Namaste, Can I return Wireless Earbuds Pro? I changed my mind. Order ORD-50422 Please help.",return_request,8.0
+TCK-80685,2026-10-10,Chat,C1167,ORD-50484,"Please arrange a pickup for return of Bedsheet Double King, order ORD-50484.",return_request,9.0
+TCK-80686,2026-09-23,WhatsApp,C1243,,"led desk lamp is too small, i want to send it back. order ord-50025 waiting for your reply.",return_request,7.2
+TCK-80687,2026-09-30,Chat,C1210,,Is the Silk Saree waterproof?,product_question,2.8
+TCK-80688,2026-10-01,Email,C1006,ORD-50515,My money for ORD-50515 has not come back. Where is my refund?? Waiting for your reply.,refund_status,11.5
+TCK-80689,2026-10-08,App,C1153,,when will i get my refund for ord-50405 it's been 5 days,refund_status,10.1
+TCK-80690,2026-10-10,WhatsApp,C1206,ORD-50404,"Hey, Want to return Cricket Bat Kashmir Willow, not happy with it. ORD-50404",return_request,8.7
+TCK-80691,2026-09-17,Chat,C1210,ORD-50079,Kindly cancel ORD-50079 and refund the amount Please help,cancel_order,5.0
+TCK-80692,2026-09-17,Chat,C1017,ORD-50514,"Hi, Has my order ORD-50514 been shipped yet?",where_is_my_order,4.5
+TCK-80693,2026-10-03,Chat,C1116,ORD-50331,"When will my package be delivered, order ORD-50331",where_is_my_order,3.4
+TCK-80694,2026-10-02,App,C1044,,"dear novamart, the yoga mat 6mm arrived broken, box was crushed. order ord-50445. i want a replacement. waiting for your reply.",damaged_item,15.3
+TCK-80695,2026-10-14,Email,C1062,ORD-50551,"Hi, My Mixer Grinder 750W has not reached yet, order id ORD-50551. Kab tak aayega? Pls revert asap.",where_is_my_order,4.2
+TCK-80696,2026-09-15,Chat,C1143,ORD-50587,"Dear NovaMart, Please take back the Bedsheet Double King, size does not fit. ORD-50587 Please help.",return_request,9.4
+TCK-80697,2026-09-26,WhatsApp,C1088,,"Hey, Is the Bluetooth Speaker Mini compatible with iPhone? Pls revert asap.",product_question,3.5
+TCK-80698,2026-10-07,Chat,C1031,ORD-50096,"Hello team, I ordered Air Fryer 4L last week, order ORD-50096, when will it be delivered? Please help.",where_is_my_order,7.6
+TCK-80699,2026-09-20,Chat,C1204,ORD-50366,"Hey, My USB-C Fast Charger 33W is dead on arrival. ORD-50366 Please help.",damaged_item,9.9
+TCK-80700,2026-09-28,Email,C1209,ORD-50084,"Dear NovaMart, Payment debited but showing failed in app. ORD-50084 Pls revert asap.",payment_issue,9.2
+TCK-80701,2026-09-15,WhatsApp,C1055,ORD-50479,Refund status please for order ORD-50479. Paid via Cash on Delivery. This is the second time I'm writing!,refund_status,4.0
+TCK-80702,2026-10-14,Chat,C1170,ORD-50582,"Hello team, Exchange Cricket Bat Kashmir Willow for bigger size, order ORD-50582",return_request,8.6
+TCK-80703,2026-09-29,Email,C1142,ORD-50491,"Hey, Can I return Sports T-Shirt Pack of 3? I changed my mind. Order ORD-50491 Thanks.",return_request,6.6
+TCK-80704,2026-10-13,Chat,C1044,ORD-50424,WRONG PRODUCT DELIVERED FOR ORDER ORD-50424. THIS IS NOT WHAT I ORDERED.,wrong_item,13.7
+TCK-80705,2026-10-06,WhatsApp,C1075,,"my perfume oud 100ml has not reached yet, order id ord-50467. kab tak aayega?",where_is_my_order,7.2
+TCK-80706,2026-10-07,WhatsApp,C1015,ORD-50057,"DEAR NOVAMART, EXPECTED DELIVERY DATE HAS PASSED FOR ORD-50057. NO UPDATE FROM YOUR SIDE AT ALL. THANKS.",delivery_delay,9.9
+TCK-80707,2026-09-30,Chat,C1169,,"namaste, how do i change my delivery address saved in the account?",account_issue,9.3
+TCK-80708,2026-09-17,WhatsApp,C1076,ORD-50365,Where is my order ORD-50365? It still hasn't arrived. Thanks.,where_is_my_order,6.2
+TCK-80709,2026-09-20,Chat,C1050,ORD-50090,Can I get the tracking details for my Office Backpack 30L? Order ORD-50090 Waiting for your reply.,where_is_my_order,6.7
+TCK-80710,2026-09-25,Chat,C1179,,"Dear NovaMart, Does the Yoga Mat 6mm come with a warranty?",product_question,4.5
+TCK-80711,2026-10-05,WhatsApp,C1057,ORD-50507,"Hi, When will refund for ORD-50507 reflect in my account? Thanks.",refund_status,5.4
+TCK-80712,2026-10-03,Email,C1236,ORD-50411,Money not received after return of ORD-50411 This is the second time I'm writing!,refund_status,4.8
+TCK-80713,2026-10-09,Chat,C1019,,"Dear NovaMart, Does the Denim Jacket come with a warranty? Thanks.",product_question,5.1
+TCK-80714,2026-09-15,Email,C1106,ORD-50590,I'd like to exchange the Face Serum Vitamin C in ordr ORD-50590 for a different size. Waiting for your reply.,return_request,6.1
+TCK-80715,2026-10-09,WhatsApp,C1180,ORD-50467,"ORDER ORD-50467 IS VERY LATE, NO DELIVERY YET PLEASE HELP.",delivery_delay,7.1
+TCK-80716,2026-09-17,Chat,C1124,ORD-50274,Late delivery again for ORD-50274! It should have come on 2026-10-13,delivery_delay,8.4
+TCK-80717,2026-10-09,Email,C1015,,"hi, you delivered another model, not non-stick cookware set order ord-50077",wrong_item,14.0
+TCK-80718,2026-09-17,Chat,C1213,ORD-50024,Wrong product delivered for ordr ORD-50024. This is not what I ordred. Pls revert asap.,wrong_item,10.4
+TCK-80719,2026-09-25,App,C1214,ORD-50065,How do I return order ORD-50065? I don't like the Wireless Earbuds Pro.,return_request,8.0
+TCK-80720,2026-10-13,WhatsApp,C1052,ORD-50017,"Cancel the Mechanical Keyboard I ordered today, ORD-50017",cancel_order,5.7
+TCK-80721,2026-09-19,App,C1077,ORD-50556,"Hey, Return request for ORD-50556, quality of Smart Fitness Band is not as expected. Pls revert asap.",return_request,9.2
+TCK-80722,2026-10-08,App,C1156,ORD-50312,"Hey, When will I get my refund for ORD-50312? It's been 6 days.",refund_status,11.8
+TCK-80723,2026-10-14,WhatsApp,C1201,ORD-50345,"Hey, My Perfume Oud 100ml has not reached yet, order id ORD-50345. Kab tak aayega? Please help.",where_is_my_order,5.9
+TCK-80724,2026-09-16,Chat,C1102,ORD-50042,"I placed ORD-50042 by mistake, cancel it Please help",cancel_order,3.6
+TCK-80725,2026-09-24,Chat,C1132,ORD-50112,"You delivered another model, not Wireless Earbuds Pro. Order ORD-50112 Waiting for your reply.",wrong_item,11.3
+TCK-80726,2026-09-29,WhatsApp,C1107,ORD-50352,"Hey, Product in order ORD-50352 is defective, Cotton Kurta Set is not turning on.",damaged_item,14.5
+TCK-80727,2026-09-28,App,C1137,ORD-50338,Why is it taking so long? ORD-50338 was due 2 days ago,delivery_delay,9.8
+TCK-80728,2026-09-28,Email,C1044,ORD-50424,"Namaste, The Noise Cancelling Headphones arrived broken, box was crushed. Order ORD-50424. I want a replacement. Regards.",damaged_item,15.8
+TCK-80729,2026-09-24,Chat,C1246,ORD-50355,Different product shipped instead of Mechanical Keyboard. ORD-50355 Waiting for your reply.,wrong_item,7.9
+TCK-80730,2026-10-10,WhatsApp,C1119,ORD-50038,"Hey, Need the delivery ETA for my order ORD-50038 Please help",where_is_my_order,4.6
+TCK-80731,2026-09-21,Email,C1161,ORD-50326,"Hi, Payment failed but amount was debited via Credit Card. Order ORD-50326",payment_issue,8.9
+TCK-80732,2026-09-21,WhatsApp,C1233,ORD-50519,Order ORD-50519 - shipping status?,where_is_my_order,7.1
+TCK-80733,2026-10-07,Email,C1002,ORD-50416,I want to return the Smartwatch Active 2 from order ORD-50416. It doesn't fit well. Pls revert asap.,return_request,7.6
+TCK-80734,2026-10-06,Chat,C1055,,"namaste, wrong product delivered for order ord-50568. this is not what i ordered. waiting for your reply.",wrong_item,11.8
+TCK-80735,2026-09-26,Chat,C1023,,Is the Noise Cancelling Headphones compatible with iPhone? Pls revert asap.,product_question,7.2
+TCK-80736,2026-09-29,Chat,C1137,ORD-50338,"Dear NovaMart, Why is my Cricket Bat Kashmir Willow delayed?? It was promised by 2026-10-11. Order ORD-50338",delivery_delay,10.0
+TCK-80737,2026-09-19,Chat,C1119,ORD-50448,"Hi, Why is my Leather Wallet delayed?? It was promised by 2026-10-12. Order ORD-50448 Waiting for your reply.",delivery_delay,8.6
+TCK-80738,2026-10-01,Email,C1019,,please share delivery update for ord-50049,where_is_my_order,8.7
+TCK-80739,2026-09-23,Chat,C1127,ORD-50142,MONEY NOT RECEIVED AFTER RETURN OF ORD-50142,refund_status,7.3
+TCK-80740,2026-10-13,Email,C1236,,"hello team, money not received after return of ord-50411 regards.",refund_status,11.1
+TCK-80741,2026-10-05,Email,C1097,,"Hello team, Is the Non-stick Cookware Set compatible with iPhone? Please help.",product_question,4.0
+TCK-80742,2026-09-23,WhatsApp,C1064,ORD-50547,"Namaste, When will refund for ORD-50547 reflect in my account Thanks",refund_status,8.7
+TCK-80743,2026-10-08,WhatsApp,C1039,ORD-50425,"Hey, Return request for ORD-50425, quality of Steel Water Bottle 1L is not as expected. Thanks.",return_request,6.2
+TCK-80744,2026-09-21,Chat,C1187,ORD-50476,ANY UPDATE ON MY SHIPMENT ORD-50476?,where_is_my_order,6.3
+TCK-80745,2026-09-21,Chat,C1022,ORD-50207,"Hey, Please arrange a pickup for return of Leather Wallet, order ORD-50207.",return_request,5.0
+TCK-80746,2026-09-18,WhatsApp,C1135,,"Dear NovaMart, Is the Yoga Mat 6mm compatible with iPhone?",product_question,5.5
+TCK-80747,2026-09-23,App,C1071,,"Namaste, I want to delete my account and data.",account_issue,5.2
+TCK-80748,2026-09-16,Chat,C1122,ORD-50278,"Hey, When will refund for ORD-50278 reflect in my account?",refund_status,5.7
+TCK-80749,2026-10-03,Email,C1241,ORD-50064,Why is it taking so long? ORD-50064 was due 8 days ago,delivery_delay,8.8
+TCK-80750,2026-10-06,WhatsApp,C1154,ORD-50108,Need the delivery ETA for my order ORD-50108 Regards.,where_is_my_order,9.7
+TCK-80751,2026-09-20,Email,C1232,ORD-50160,Pickup done 8 days ago but no money back for ORD-50160 This is the second time I'm writing!,refund_status,3.9
+TCK-80752,2026-10-07,App,C1170,ORD-50531,"Namaste, My delivery is late by 3 days. Order ORD-50531. Very disappointed. Waiting for your reply.",delivery_delay,9.3
+TCK-80753,2026-09-18,Chat,C1215,,"Hello team, What are the specifications of Mixer Grinder 750W? Waiting for your reply.",product_question,6.0
+TCK-80754,2026-09-24,App,C1090,ORD-50428,"Hey, When will my package be delivered, order ORD-50428",where_is_my_order,5.1
+TCK-80755,2026-10-09,Chat,C1246,ORD-50355,"Return request for ORD-50355, quality of Mechanical Keyboard is not as expected. Thanks.",return_request,6.0
+TCK-80756,2026-10-06,Chat,C1171,,"hi, when will my package be delivered, order ord-50537 this is the second time i'm writing!",where_is_my_order,6.0
+TCK-80757,2026-10-12,Chat,C1185,ORD-50077,"This is not my order, item mismatch for ORD-50077 Please help.",wrong_item,12.6
+TCK-80758,2026-10-11,App,C1060,,What are the specifications of Hair Dryer Compact Please help,product_question,3.6
+TCK-80759,2026-10-06,Email,C1090,ORD-50267,Refund still not credited to my bank for ORD-50267 Regards.,refund_status,7.8
+TCK-80760,2026-10-08,Chat,C1009,,Is the Mechanical Keyboard waterproof?,product_question,4.3
+TCK-80761,2026-09-21,Email,C1140,ORD-50040,"Hi, Kindly cancel ORD-50040 and refund the amount.",cancel_order,6.0
+TCK-80762,2026-10-13,Chat,C1164,,"Namaste, Forgot password, reset not working Waiting for your reply.",account_issue,6.7
+TCK-80763,2026-09-18,App,C1001,ORD-50564,"Hey, Still waiting for refund of Rs 699 for ORD-50564. Please check.",refund_status,7.8
+TCK-80764,2026-10-11,Email,C1008,ORD-50030,"Namaste, Want to return Denim Jacket, not happy with it. ORD-50030 This is the second time I'm writing!",return_request,8.6
+TCK-80765,2026-10-10,Chat,C1083,,my delivery is late by 6 days. order ord-50271. very disappointed.,delivery_delay,5.9
+TCK-80766,2026-09-21,WhatsApp,C1022,ORD-50207,"Hey, Product quality defect - Leather Wallet leaking/broken. ORD-50207",damaged_item,20.4
+TCK-80767,2026-10-04,Chat,C1066,,"the perfume oud 100ml is faulty, it does not switch on. ord-50170 regards.",damaged_item,13.2
+TCK-80768,2026-09-15,App,C1101,ORD-50322,"When will my package be delivered, order ORD-50322 Please help.",where_is_my_order,8.8
+TCK-80769,2026-10-01,Chat,C1178,ORD-50472,Can I return Smartwatch Active 2 I changed my mind Order ORD-50472 Waiting for your reply,return_request,6.4
+TCK-80770,2026-10-03,App,C1126,,why is it taking so long? ord-50544 was due 3 days ago,delivery_delay,8.7
+TCK-80771,2026-10-11,Email,C1040,ORD-50009,"Dear NovaMart, Initiate return pickup for ORD-50009",return_request,10.7
+TCK-80772,2026-09-19,Chat,C1094,,"hi, this is not my order, item mismatch for ord-50002 waiting for your reply.",wrong_item,10.1
+TCK-80773,2026-09-26,Chat,C1177,ORD-50269,"HELLO TEAM, PLEASE SHARE DELIVERY UPDATE FOR ORD-50269 REGARDS.",where_is_my_order,5.8
+TCK-80774,2026-09-21,Chat,C1113,,"hello team, late delivery again for ord-50429! it should have come on 2026-10-12 this is the second time i'm writing!",delivery_delay,10.3
+TCK-80775,2026-09-23,Chat,C1181,ORD-50019,Mera order ORD-50019 kahan hai? Thanks.,where_is_my_order,8.0
+TCK-80776,2026-10-08,Chat,C1024,,"Hi, Unable to login to my NovaMart account",account_issue,6.5
+TCK-80777,2026-10-02,Chat,C1235,ORD-50545,"Hello team, Payment failed but amount was debited via Debit Card. Order ORD-50545 This is the second time I'm writing!",payment_issue,5.7
+TCK-80778,2026-10-09,Email,C1245,ORD-50597,"Namaste, Extra money debited from account for ORD-50597 Please help.",payment_issue,10.0
+TCK-80779,2026-09-20,Email,C1132,ORD-50437,"Hello team, Hi, can you tell me the status of order ORD-50437? Please help.",where_is_my_order,4.2
+TCK-80780,2026-10-02,Chat,C1185,ORD-50126,"Namaste, Exchange Mechanical Keyboard for bigger size, order ORD-50126 Thanks.",return_request,5.9
+TCK-80781,2026-10-10,Chat,C1181,ORD-50019,"Hey, Mera order ORD-50019 kahan hai? Thanks.",where_is_my_order,6.2
+TCK-80782,2026-09-26,Chat,C1239,ORD-50193,"Hello team, Please cancel my ordr ORD-50193. Pls revert asap.",cancel_order,5.8
+TCK-80783,2026-09-22,WhatsApp,C1071,,"namaste, the courier keeps postponing delivery of ord-50169. i needed it urgently for a gift. pls revert asap.",delivery_delay,8.0
+TCK-80784,2026-10-06,Chat,C1149,ORD-50563,My Cricket Bat Kashmir Willow is dead on arrival. ORD-50563 Please help.,damaged_item,8.9
+TCK-80785,2026-10-13,Chat,C1060,,How do I change my delivery address saved in the account? Waiting for your reply.,account_issue,5.1
+TCK-80786,2026-09-26,Chat,C1053,ORD-50341,"Hi, I want to cancel ORD-50341, ordred Wireless Earbuds Pro by mistake Waiting for your reply",cancel_order,4.7
+TCK-80787,2026-10-13,Email,C1035,ORD-50421,"Namaste, Received wrong colour of LED Desk Lamp, I ordered another one. ORD-50421",wrong_item,11.4
+TCK-80788,2026-10-12,App,C1073,,"namaste, is the face serum vitamin c waterproof? thanks.",product_question,4.9
+TCK-80789,2026-10-04,Email,C1059,ORD-50083,"Order ORD-50083 is very late, no delivery yet This is the second time I'm writing!",delivery_delay,3.7
+TCK-80790,2026-09-27,Chat,C1002,ORD-50416,I'd like to exchange the Smartwatch Active 2 in order ORD-50416 for a different size. Waiting for your reply.,return_request,8.9
+TCK-80791,2026-10-09,Chat,C1125,ORD-50586,"Hi, Still waiting for refund of Rs 899 for ORD-50586. Please check.",refund_status,8.2
+TCK-80792,2026-09-21,Chat,C1048,ORD-50197,"Namaste, Can I get the tracking details for my Smart Fitness Band Order ORD-50197 Thanks",where_is_my_order,3.8
+TCK-80793,2026-09-27,WhatsApp,C1137,ORD-50338,My delivery is late by 4 days Order ORD-50338 Very disappointed,delivery_delay,5.7
+TCK-80794,2026-10-09,App,C1186,ORD-50117,Order ORD-50117 - shipping status?,where_is_my_order,5.3
+TCK-80795,2026-10-08,WhatsApp,C1190,ORD-50229,"Namaste, I'd like to exchange the Noise Cancelling Headphones in order ORD-50229 for a different size.",return_request,4.0
+TCK-80796,2026-09-18,Chat,C1044,ORD-50424,"Dear NovaMart, Can I get the tracking details for my Noise Cancelling Headphones? Order ORD-50424 Please help.",where_is_my_order,4.8
+TCK-80797,2026-10-11,WhatsApp,C1199,ORD-50589,"Want to return Smart Fitness Band, not happy with it. ORD-50589",return_request,9.1
+TCK-80798,2026-10-07,App,C1112,ORD-50252,"Received a damaged LED Desk Lamp, really upset. Please help, order ORD-50252 Pls revert asap.",damaged_item,14.4
+TCK-80799,2026-10-13,WhatsApp,C1016,ORD-50449,"When will my package be delivered, order ORD-50449 Please help.",where_is_my_order,4.5
+TCK-80800,2026-09-24,Email,C1169,ORD-50542,"AMOUNT DEDUCTED BUT ORDER NOT PLACED, ORD-50542 PLS REVERT ASAP.",payment_issue,9.8
+TCK-80801,2026-09-17,Email,C1221,ORD-50067,"I ordered Non-stick Cookware Set last week, order ORD-50067, when will it be delivered?",where_is_my_order,4.7
+TCK-80802,2026-09-27,Chat,C1230,ORD-50253,"Hi, When will my package be delivered, order ORD-50253 This is the second time I'm writing!",where_is_my_order,8.0
+TCK-80803,2026-09-24,Chat,C1071,,"Dear NovaMart, I want to delete my account and data Regards",account_issue,7.9
+TCK-80804,2026-09-18,App,C1234,ORD-50187,"Hello team, Is my Noise Cancelling Headphones out for delivery yet? ORD-50187 This is the second time I'm writing!",where_is_my_order,5.7
+TCK-80805,2026-09-16,WhatsApp,C1041,,"namaste, my mixer grinder 750w came with scratches and a cracked part order ord-50085",damaged_item,11.4
+TCK-80806,2026-09-19,App,C1239,ORD-50282,I returned order ORD-50282 but haven't got my refund yet Waiting for your reply,refund_status,8.2
+TCK-80807,2026-10-01,Chat,C1246,ORD-50297,"Hey, Where is my money for the returned USB-C Fast Charger 33W ORD-50297",refund_status,9.7
+TCK-80808,2026-09-17,Chat,C1108,ORD-50358,"Dear NovaMart, Received a damaged Noise Cancelling Headphones, really upset. Please help, order ORD-50358",damaged_item,12.7
+TCK-80809,2026-10-14,Chat,C1135,ORD-50554,"HELLO TEAM, CHARGED TWO TIMES ON MY NET BANKING FOR ORD-50554 PLS REVERT ASAP.",payment_issue,10.6
+TCK-80810,2026-09-28,Email,C1042,,"Namaste, How to change email id in my profile? Thanks.",account_issue,6.9
+TCK-80811,2026-10-01,Chat,C1136,ORD-50395,please share delivery update for ORD-50395 Pls revert asap.,where_is_my_order,6.9
+TCK-80812,2026-10-06,WhatsApp,C1105,ORD-50271,"Dear NovaMart, My Dumbbell Set 10kg has not reached yet, order id ORD-50271 Kab tak aayega Pls revert asap",where_is_my_order,8.0
+TCK-80813,2026-10-02,Chat,C1161,ORD-50488,"Dear NovaMart, My delivery is late by 4 days. Order ORD-50488. Very disappointed. Regards.",delivery_delay,6.0
+TCK-80814,2026-09-19,Chat,C1106,ORD-50154,"Hi, Received Noise Cancelling Headphones with missing parts and dents, order ORD-50154",damaged_item,4.4
+TCK-80815,2026-09-18,Chat,C1161,ORD-50326,"Non-stick Cookware Set is too small, I want to send it back. Order ORD-50326 Regards.",return_request,7.6
+TCK-80816,2026-10-05,Chat,C1081,ORD-50354,"Dear NovaMart, Can I still cancel order ORD-50354? I no longer need the Kids Story Book Set.",cancel_order,5.7
+TCK-80817,2026-10-11,Email,C1086,ORD-50092,"Dear NovaMart, Cancel the Yoga Mat 6mm I ordered today, ORD-50092",cancel_order,4.6
+TCK-80818,2026-10-12,Chat,C1118,,my money for ord-50410 has not come back. where is my refund?? pls revert asap.,refund_status,8.4
+TCK-80819,2026-09-28,Chat,C1219,ORD-50173,Sports T-Shirt Pack of 3 not working out of the box. Order ORD-50173,damaged_item,15.0
+TCK-80820,2026-09-19,App,C1042,,Please update my phone number on my account.,account_issue,6.1
+TCK-80821,2026-09-21,App,C1015,ORD-50283,"Hi, I'd like to exchange the Mechanical Keyboard in order ORD-50283 for a different size. Waiting for your reply.",return_request,9.8
+TCK-80822,2026-10-13,Chat,C1234,ORD-50408,"Hi, My Smart Fitness Band has not reached yet, order id ORD-50408. Kab tak aayega? Waiting for your reply.",where_is_my_order,3.8
+TCK-80823,2026-10-04,App,C1184,,Is Noise Cancelling Headphones available in other colours? Pls revert asap.,product_question,3.6
+TCK-80824,2026-09-30,Chat,C1161,ORD-50382,"Cancel the Wireless Earbuds Pro I ordred today, ORD-50382 Thanks.",cancel_order,4.7
+TCK-80825,2026-10-04,WhatsApp,C1045,ORD-50544,"Hey, Order ORD-50544 is very late, no delivery yet",delivery_delay,9.8
+TCK-80826,2026-10-13,Email,C1106,,Does the LED Desk Lamp come with a warranty?,product_question,5.9
+TCK-80827,2026-10-08,Chat,C1064,ORD-50502,"Hey, The Wireless Earbuds Pro is faulty, it does not switch on ORD-50502",damaged_item,10.1
+TCK-80828,2026-09-29,WhatsApp,C1152,ORD-50327,"I want to cancel ORD-50327, ordered Building Blocks 500pcs by mistake. Waiting for your reply.",cancel_order,3.6
+TCK-80829,2026-09-19,WhatsApp,C1181,,"hello team, does bluetooth speaker mini have bluetooth?",product_question,5.7
+TCK-80830,2026-09-21,Email,C1200,,mera order ord-50487 kahan hai? waiting for your reply.,where_is_my_order,5.2
+TCK-80831,2026-09-30,App,C1081,ORD-50447,Money not received after return of ORD-50447 Please help.,refund_status,6.1
+TCK-80832,2026-09-21,WhatsApp,C1119,ORD-50038,"Hey, Double charge on my card for ORD-50038! Need this fixed today. Please help.",payment_issue,12.6
+TCK-80833,2026-09-28,App,C1021,ORD-50013,"Hi, Tracking for ORD-50013 is not updating Where is my package",where_is_my_order,7.0
+TCK-80834,2026-10-05,WhatsApp,C1012,ORD-50405,"Hi, Pickup done 4 days ago but no money back for ORD-50405",refund_status,5.9
+TCK-80835,2026-09-16,WhatsApp,C1041,,"Namaste, Is Wireless Earbuds Pro available in other colours",product_question,5.9
+TCK-80836,2026-10-07,Chat,C1030,ORD-50593,"Hi, Kindly cancel ORD-50593 and refund the amount. Regards.",cancel_order,4.1
+TCK-80837,2026-09-22,App,C1167,ORD-50129,"Dear NovaMart, Hi, can you tell me the status of order ORD-50129 Waiting for your reply",where_is_my_order,4.4
+TCK-80838,2026-10-12,WhatsApp,C1199,ORD-50589,"Hey, Order ORD-50589: item received does not match the listing of Smart Fitness Band Regards",wrong_item,8.7
+TCK-80839,2026-09-20,App,C1082,,"namaste, pickup done 2 days ago but no money back for ord-50500 waiting for your reply.",refund_status,7.2
+TCK-80840,2026-09-20,App,C1203,ORD-50219,"Hi, Want to return Bedsheet Double King, not happy with it ORD-50219 Please help",return_request,7.4
+TCK-80841,2026-10-02,Email,C1202,,"hi, amount deducted but order not placed, ord-50196",payment_issue,15.3
+TCK-80842,2026-09-18,Email,C1022,ORD-50492,please share delivery update for ORD-50492,where_is_my_order,7.4
+TCK-80843,2026-09-20,App,C1076,ORD-50525,"Hello team, Where is my order ORD-50525? It still hasn't arrived.",where_is_my_order,5.5
+TCK-80844,2026-10-14,WhatsApp,C1221,ORD-50144,Can I get the tracking details for my Office Backpack 30L? Order ORD-50144,where_is_my_order,4.9
+TCK-80845,2026-09-27,WhatsApp,C1143,ORD-50587,"Hey, Can I get the tracking details for my Bedsheet Double King? Order ORD-50587 Waiting for your reply.",where_is_my_order,6.4
+TCK-80846,2026-09-20,Email,C1171,ORD-50565,Can I still cancel ordr ORD-50565? I no longer need the Perfume Oud 100ml.,cancel_order,3.8
+TCK-80847,2026-10-04,Chat,C1185,ORD-50126,"Hi, Initiate return pickup for ORD-50126 This is the second time I'm writing!",return_request,9.5
+TCK-80848,2026-09-16,Email,C1071,ORD-50376,"Namaste, please share delivery update for ORD-50376 Pls revert asap.",where_is_my_order,6.8
+TCK-80849,2026-10-02,Chat,C1219,ORD-50173,"Dear NovaMart, The Sports T-Shirt Pack of 3 arrived broken, box was crushed. Order ORD-50173. I want a replacement.",damaged_item,12.8
+TCK-80850,2026-10-13,WhatsApp,C1086,ORD-50092,"Hello team, Hi, can you tell me the status of order ORD-50092?",where_is_my_order,5.9
+TCK-80851,2026-10-02,App,C1239,ORD-50337,Payment debited but showing failed in app. ORD-50337 Thanks.,payment_issue,10.7
+TCK-80852,2026-09-16,App,C1219,,can i get the tracking details for my smart fitness band? order ord-50408,where_is_my_order,6.3
+TCK-80853,2026-09-20,Chat,C1076,ORD-50365,"Dear NovaMart, My Cotton Kurta Set has not reached yet, order id ORD-50365. Kab tak aayega? This is the second time I'm writing!",where_is_my_order,5.4
+TCK-80854,2026-10-07,WhatsApp,C1176,,Does Hair Dryer Compact have bluetooth? Pls revert asap.,product_question,7.2
+TCK-80855,2026-09-29,WhatsApp,C1139,ORD-50119,"Hey, Return request for ORD-50119, quality of Smartwatch Active 2 is not as expected.",return_request,8.5
+TCK-80856,2026-10-09,Chat,C1202,ORD-50025,"Dear NovaMart, Please take back the LED Desk Lamp, size does not fit ORD-50025",return_request,6.8
+TCK-80857,2026-10-02,Chat,C1015,ORD-50029,"Dear NovaMart, Tracking for ORD-50029 is not updating. Where is my package? Pls revert asap.",where_is_my_order,5.0
+TCK-80858,2026-10-13,App,C1149,ORD-50482,"I placed ORD-50482 by mistake, cancel it Regards.",cancel_order,3.2
+TCK-80859,2026-09-19,App,C1173,ORD-50136,EXPECTED DELIVERY DATE HAS PASSED FOR ORD-50136. NO UPDATE FROM YOUR SIDE AT ALL.,delivery_delay,8.3
+TCK-80860,2026-09-25,App,C1042,ORD-50256,"Hello team, Still waiting for refund of Rs 1299 for ORD-50256. Please check. Pls revert asap.",refund_status,5.2
+TCK-80861,2026-10-09,App,C1216,ORD-50125,"Namaste, I returned order ORD-50125 but haven't got my refund yet.",refund_status,7.8
+TCK-80862,2026-10-12,Email,C1203,ORD-50219,"Product in order ORD-50219 is defective, Bedsheet Double King is not turning on.",damaged_item,11.2
+TCK-80863,2026-09-28,Chat,C1035,ORD-50421,"HEY, ORDER ORD-50421: ITEM RECEIVED DOES NOT MATCH THE LISTING OF LED DESK LAMP. PLS REVERT ASAP.",wrong_item,7.0
+TCK-80864,2026-10-14,Chat,C1179,ORD-50127,"Namaste, Money got deducted twice for order ORD-50127. Please refund the extra amount.",payment_issue,8.2
+TCK-80865,2026-09-26,Email,C1240,ORD-50509,"Dear NovaMart, Product quality defect - Sports T-Shirt Pack of 3 leaking/broken. ORD-50509 Waiting for your reply.",damaged_item,7.2
+TCK-80866,2026-09-30,WhatsApp,C1126,ORD-50356,"Dear NovaMart, Where is my money for the returned Cricket Bat Kashmir Willow? ORD-50356 Regards.",refund_status,8.6
+TCK-80867,2026-09-18,Chat,C1113,ORD-50218,"Amount deducted but order not placed, ORD-50218 Pls revert asap.",payment_issue,12.2
+TCK-80868,2026-10-04,App,C1222,ORD-50049,"DEAR NOVAMART, I'D LIKE TO EXCHANGE THE POWER BANK 20000MAH IN ORDER ORD-50049 FOR A DIFFERENT SIZE WAITING FOR YOUR REPLY",return_request,8.2
+TCK-80869,2026-10-07,App,C1235,,Will Non-stick Cookware Set fit in a small kitchen? Dimensions?,product_question,3.0
+TCK-80870,2026-09-24,App,C1095,ORD-50199,"Don't ship ordr ORD-50199, pls cancel Pls revert asap.",cancel_order,4.9
+TCK-80871,2026-09-24,Email,C1160,ORD-50344,"Namaste, I was billed twice for ORD-50344 Please help.",payment_issue,12.5
+TCK-80872,2026-09-18,Chat,C1161,,What is the size/material of the Silk Saree? This is the second time I'm writing!,product_question,5.2
+TCK-80873,2026-10-04,Email,C1146,ORD-50561,"Hello team, Need the delivery ETA for my order ORD-50561",where_is_my_order,8.7
+TCK-80874,2026-09-19,WhatsApp,C1246,ORD-50584,"Hey, Tracking for ORD-50584 is not updating. Where is my package? This is the second time I'm writing!",where_is_my_order,6.3
+TCK-80875,2026-09-25,Email,C1191,,"hello team, how to change email id in my profile?",account_issue,6.6
+TCK-80876,2026-09-28,App,C1040,,can i return bedsheet double king? i changed my mind. order ord-50417 this is the second time i'm writing!,return_request,8.2
+TCK-80877,2026-10-01,App,C1192,,"Hey, Will Yoga Mat 6mm fit in a small kitchen? Dimensions?",product_question,3.7
+TCK-80878,2026-10-06,Chat,C1003,ORD-50275,"Namaste, Why is it taking so long? ORD-50275 was due 4 days ago Regards.",delivery_delay,8.7
+TCK-80879,2026-10-12,WhatsApp,C1057,ORD-50454,I RECEIVED MY CERAMIC DINNER SET TODAY BUT IT IS DAMAGED. ORDER ORD-50454. PLS REVERT ASAP.,damaged_item,8.9
+TCK-80880,2026-09-26,Chat,C1001,,HOW TO CHANGE EMAIL ID IN MY PROFILE?,account_issue,7.9
+TCK-80881,2026-09-28,WhatsApp,C1230,,"Dear NovaMart, Is the Smart Fitness Band waterproof?",product_question,4.8
+TCK-80882,2026-09-26,WhatsApp,C1103,ORD-50585,"Hello team, Don't ship order ORD-50585, please cancel Please help.",cancel_order,7.0
+TCK-80883,2026-09-21,Chat,C1058,ORD-50403,"Namaste, Pickup done 8 days ago but no money back for ORD-50403 This is the second time I'm writing!",refund_status,12.0
+TCK-80884,2026-09-18,App,C1030,ORD-50452,"Hello team, Received Steel Water Bottle 1L with missing parts and dents, order ORD-50452 Thanks",damaged_item,12.5
+TCK-80885,2026-09-25,Email,C1190,ORD-50229,"Hi, When will my package be delivered, order ORD-50229",where_is_my_order,5.3
+TCK-80886,2026-10-03,App,C1229,ORD-50021,"Hey, The Mixer Grinder 750W is faulty, it does not switch on. ORD-50021 Please help.",damaged_item,13.7
+TCK-80887,2026-09-21,App,C1144,ORD-50081,"Return request for ORD-50081, quality of Sports T-Shirt Pack of 3 is not as expected.",return_request,9.9
+TCK-80888,2026-09-20,WhatsApp,C1001,ORD-50564,When will refund for ORD-50564 reflect in my account?,refund_status,5.8
+TCK-80889,2026-09-30,Chat,C1123,ORD-50044,My delivery is late by 2 days. Order ORD-50044. Very disappointed. This is the second time I'm writing!,delivery_delay,11.2
+TCK-80890,2026-09-15,Chat,C1072,ORD-50268,Need the delivery ETA for my order ORD-50268 Regards.,where_is_my_order,5.8
+TCK-80891,2026-10-09,Chat,C1181,,"I can't log in to my account, OTP is not coming. Please help.",account_issue,3.4
+TCK-80892,2026-09-21,WhatsApp,C1238,,"Dear NovaMart, How do I change my delivery address saved in the account? Pls revert asap.",account_issue,6.9
+TCK-80893,2026-09-20,App,C1074,ORD-50343,"Hi, can you tell me the status of order ORD-50343? Regards.",where_is_my_order,4.3
+TCK-80894,2026-10-13,Chat,C1169,ORD-50542,"Namaste, When will refund for ORD-50542 reflect in my account?",refund_status,6.7
+TCK-80895,2026-09-27,Chat,C1056,ORD-50381,"Hi, Can I still cancel order ORD-50381? I no longer need the Perfume Oud 100ml. This is the second time I'm writing!",cancel_order,3.5
+TCK-80896,2026-10-08,Email,C1083,ORD-50459,"Dear NovaMart, What is the expected delivery date for ORD-50459? Waiting for your reply.",where_is_my_order,6.9
+TCK-80897,2026-09-16,App,C1189,ORD-50517,"Namaste, Return request for ORD-50517, quality of Office Backpack 30L is not as expected. Regards.",return_request,6.9
+TCK-80898,2026-09-15,Email,C1186,ORD-50537,The Bedsheet Double King stopped working after 2 days. Order ORD-50537. Need replacement asap.,damaged_item,14.3
+TCK-80899,2026-09-15,Email,C1186,ORD-50222,"Dear NovaMart, Please arrange a pickup for return of Cotton Kurta Set, order ORD-50222.",return_request,4.4
+TCK-80900,2026-09-21,Chat,C1058,ORD-50087,"I placed ORD-50087 by mistake, cancel it",cancel_order,7.2
+TCK-80901,2026-10-11,WhatsApp,C1081,,Does the Office Backpack 30L come with a warranty? Thanks.,product_question,5.8
+TCK-80902,2026-09-30,WhatsApp,C1066,,"hi, when will refund for ord-50571 reflect in my account?",refund_status,7.6
+TCK-80903,2026-10-13,App,C1009,ORD-50595,Still waiting for refund of Rs 1399 for ORD-50595 Please check,refund_status,7.4
+TCK-80904,2026-10-13,App,C1047,ORD-50114,"Namaste, I placed ORD-50114 by mistake, cancel it Thanks.",cancel_order,5.4
+TCK-80905,2026-10-11,Chat,C1072,,"hello team, order ord-50272 - shipping status? pls revert asap.",where_is_my_order,7.4
+TCK-80906,2026-09-25,WhatsApp,C1030,ORD-50593,"Dear NovaMart, Cancel order ORD-50593 immediately, found it cheaper elsewhere.",cancel_order,6.7
+TCK-80907,2026-09-15,App,C1166,ORD-50140,"Hey, I want to return the Mechanical Keyboard from ordr ORD-50140. It doesn't fit well.",return_request,10.8
+TCK-80908,2026-10-08,Chat,C1076,ORD-50365,I'd like to exchange the Cotton Kurta Set in order ORD-50365 for a different size.,return_request,5.6
+TCK-80909,2026-10-14,WhatsApp,C1146,ORD-50561,"Received Noise Cancelling Headphones with missing parts and dents, order ORD-50561 Please help.",damaged_item,10.9
+TCK-80910,2026-09-25,Email,C1214,,Is the Non-stick Cookware Set waterproof? This is the second time I'm writing!,product_question,4.4
+TCK-80911,2026-09-16,Chat,C1003,ORD-50529,"HI, DIFFERENT PRODUCT SHIPPED INSTEAD OF RUNNING SHOES AIR. ORD-50529",wrong_item,4.0
+TCK-80912,2026-10-03,WhatsApp,C1217,,"hi, why is it taking so long ord-50260 was due 2 days ago pls help",delivery_delay,11.8
+TCK-80913,2026-10-05,Chat,C1213,ORD-50024,"Dear NovaMart, Product quality defect - Office Backpack 30L leaking/broken. ORD-50024 This is the second time I'm writing!",damaged_item,9.8
+TCK-80914,2026-10-13,App,C1183,,Is the Noise Cancelling Headphones compatible with iPhone Please help,product_question,5.3
+TCK-80915,2026-10-09,App,C1097,,Does the Denim Jacket come with a warranty? This is the second time I'm writing!,product_question,5.1
+TCK-80916,2026-10-04,Email,C1138,ORD-50489,"NAMASTE, WANT TO RETURN HAIR DRYER COMPACT, NOT HAPPY WITH IT ORD-50489",return_request,6.7
+TCK-80917,2026-09-18,Chat,C1200,ORD-50340,What is the expected delivery date for ORD-50340? This is the second time I'm writing!,where_is_my_order,6.2
+TCK-80918,2026-09-26,Chat,C1211,,"Hi, Please update my phone number on my account. Waiting for your reply.",account_issue,4.9
+TCK-80919,2026-09-23,App,C1108,ORD-50579,"Namaste, The Dumbbell Set 10kg arrived broken, box was crushed. Order ORD-50579. I want a replacement.",damaged_item,11.3
+TCK-80920,2026-10-12,Chat,C1185,ORD-50077,"Hey, Product in order ORD-50077 is defective, Non-stick Cookware Set is not turning on Waiting for your reply",damaged_item,14.3
+TCK-80921,2026-09-26,Email,C1204,ORD-50366,"Hey, Different product shipped instead of USB-C Fast Charger 33W. ORD-50366 Waiting for your reply.",wrong_item,7.3
+TCK-80922,2026-10-06,Chat,C1034,ORD-50546,"Namaste, Can I still cancel order ORD-50546 I no longer need the Mechanical Keyboard",cancel_order,2.1
+TCK-80923,2026-10-09,Chat,C1087,ORD-50239,"Dear NovaMart, Where is my order ORD-50239? It still hasn't arrived. Thanks.",where_is_my_order,5.0
+TCK-80924,2026-10-07,Email,C1235,ORD-50041,"Namaste, Money not received after return of ORD-50041 Waiting for your reply.",refund_status,8.8
+TCK-80925,2026-10-08,Chat,C1185,ORD-50053,"Hello team, When will I get my refund for ORD-50053? It's been 8 days.",refund_status,10.5
+TCK-80926,2026-10-08,App,C1158,,"Hi, Please update my phone number on my account. Thanks.",account_issue,5.8
+TCK-80927,2026-10-01,Chat,C1168,ORD-50238,I'd like to exchange the Noise Cancelling Headphones in order ORD-50238 for a different size.,return_request,7.1
+TCK-80928,2026-09-23,Email,C1057,,any update on my shipment ord-50322,where_is_my_order,6.7
+TCK-80929,2026-09-30,Email,C1064,ORD-50427,"Dear NovaMart, When will my package be delivered, order ORD-50427 Pls revert asap.",where_is_my_order,4.0
+TCK-80930,2026-10-05,Chat,C1035,ORD-50316,Where is my parcel? Order ORD-50316,where_is_my_order,6.4
+TCK-80931,2026-10-13,Chat,C1106,,"Namaste, Will Cotton Kurta Set fit in a small kitchen? Dimensions? Pls revert asap.",product_question,5.5
+TCK-80932,2026-09-25,Email,C1171,ORD-50565,"I ordred Perfume Oud 100ml last week, ordr ORD-50565, when will it be delivered?",where_is_my_order,6.2
+TCK-80933,2026-09-20,App,C1122,,Is the Power Bank 20000mAh compatible with iPhone? Waiting for your reply.,product_question,3.2
+TCK-80934,2026-09-16,App,C1094,,"Hello team, Please update my phone number on my account.",account_issue,8.4
+TCK-80935,2026-09-27,Chat,C1128,ORD-50284,"Return request for ORD-50284, quality of Air Fryer 4L is not as expected. This is the second time I'm writing!",return_request,9.4
+TCK-80936,2026-10-01,Chat,C1097,ORD-50588,"Hey, Don't ship order ORD-50588, please cancel",cancel_order,5.6
+TCK-80937,2026-10-14,App,C1060,ORD-50379,"Exchange Hair Dryer Compact for bigger size, ordr ORD-50379 Please help.",return_request,6.3
+TCK-80938,2026-10-10,App,C1163,ORD-50518,"Dear NovaMart, Received Bluetooth Speaker Mini with missing parts and dents, order ORD-50518 Thanks.",damaged_item,19.5
+TCK-80939,2026-09-29,App,C1177,ORD-50269,"Hi, Kindly cancel ORD-50269 and refund the amount",cancel_order,4.4
+TCK-80940,2026-10-11,Chat,C1171,,"received wrong colour of cricket bat kashmir willow, i ordered another one ord-50524",wrong_item,6.7
+TCK-80941,2026-10-04,Chat,C1132,ORD-50574,Pickup done 8 days ago but no money back for ORD-50574 Thanks.,refund_status,3.0
+TCK-80942,2026-10-03,Chat,C1144,ORD-50248,"Hey, I ordered Bedsheet Double King last week, order ORD-50248, when will it be delivered? Regards.",where_is_my_order,4.8
+TCK-80943,2026-09-17,WhatsApp,C1012,ORD-50500,"Hi, I returned order ORD-50500 but haven't got my refund yet. Please help.",refund_status,8.0
+TCK-80944,2026-09-27,Email,C1103,ORD-50585,"Hello team, Don't ship ordr ORD-50585, pls cancel Pls revert asap.",cancel_order,5.9
+TCK-80945,2026-10-07,App,C1146,ORD-50225,"Namaste, Exchange LED Desk Lamp for bigger size, order ORD-50225 Please help.",return_request,6.3
+TCK-80946,2026-09-26,App,C1166,ORD-50591,"Hey, please share delivery update for ORD-50591 Pls revert asap.",where_is_my_order,4.8
+TCK-80947,2026-10-13,Email,C1014,ORD-50409,"Dear NovaMart, Exchange Steel Water Bottle 1L for bigger size, order ORD-50409 Regards.",return_request,7.5
+TCK-80948,2026-09-16,Email,C1063,ORD-50413,Refund status please for order ORD-50413. Paid via Credit Card. This is the second time I'm writing!,refund_status,7.5
+TCK-80949,2026-09-24,Email,C1053,ORD-50341,"Hey, Any update on my shipment ORD-50341? Thanks.",where_is_my_order,6.5
+TCK-80950,2026-09-24,Chat,C1064,ORD-50502,I want to return the Wireless Earbuds Pro from order ORD-50502 It doesn't fit well Waiting for your reply,return_request,8.6
+TCK-80951,2026-09-16,App,C1244,,"Hello team, How to change email id in my profile? Waiting for your reply.",account_issue,5.6
+TCK-80952,2026-10-05,WhatsApp,C1128,ORD-50048,"Dear NovaMart, You sent me the wrong size/colour for Yoga Mat 6mm, order ORD-50048 Waiting for your reply",wrong_item,13.1
+TCK-80953,2026-09-25,WhatsApp,C1002,ORD-50205,"Hello team, Different product shipped instead of Ceramic Dinner Set. ORD-50205 Regards.",wrong_item,8.6
+TCK-80954,2026-10-01,Chat,C1146,ORD-50225,"Hey, Tracking for ORD-50225 is not updating. Where is my package? Waiting for your reply.",where_is_my_order,7.4
+TCK-80955,2026-10-09,Chat,C1025,ORD-50046,I received my Kids Story Book Set today but it is damaged. Order ORD-50046.,damaged_item,13.0
+TCK-80956,2026-10-12,Email,C1037,ORD-50099,"Namaste, Can I get the tracking details for my Office Backpack 30L Order ORD-50099 This is the second time I'm writing!",where_is_my_order,6.7
+TCK-80957,2026-10-14,Email,C1221,ORD-50251,"Hello team, Refund still not credited to my bank for ORD-50251 Pls revert asap.",refund_status,8.8
+TCK-80958,2026-09-25,WhatsApp,C1200,ORD-50340,"NAMASTE, PLEASE SHARE DELIVERY UPDATE FOR ORD-50340 PLS REVERT ASAP.",where_is_my_order,8.9
+TCK-80959,2026-10-10,Email,C1042,,"Hey, Is the LED Desk Lamp compatible with iPhone? Please help.",product_question,3.9
+TCK-80960,2026-10-02,Email,C1098,ORD-50474,"Namaste, Where is my order ORD-50474? It still hasn't arrived. Regards.",where_is_my_order,4.6
+TCK-80961,2026-10-07,Chat,C1191,ORD-50410,MONEY GOT DEDUCTED TWICE FOR ORDER ORD-50410. PLEASE REFUND THE EXTRA AMOUNT. PLEASE HELP.,payment_issue,10.6
+TCK-80962,2026-09-30,Chat,C1042,,What material is Steel Water Bottle 1L made of? Waiting for your reply.,product_question,5.8
+TCK-80963,2026-09-29,App,C1023,ORD-50242,"Namaste, Need the delivery ETA for my order ORD-50242 Please help.",where_is_my_order,8.9
+TCK-80964,2026-09-21,WhatsApp,C1204,ORD-50486,"Hey, Can I still cancel order ORD-50486? I no longer need the Noise Cancelling Headphones. Thanks.",cancel_order,5.4
+TCK-80965,2026-09-19,App,C1112,ORD-50252,Payment failed but amount was debited via UPI Order ORD-50252 This is the second time I'm writing!,payment_issue,11.4
+TCK-80966,2026-10-07,App,C1220,,"dear novamart, stop my order ord-50130, i do not need it anymore thanks.",cancel_order,5.5
+TCK-80967,2026-09-21,App,C1054,,Does Face Serum Vitamin C have bluetooth?,product_question,4.1
+TCK-80968,2026-10-09,Chat,C1063,ORD-50088,"Hello team, Refund for cancelled order ORD-50088 not credited to my account. Pls revert asap.",refund_status,7.9
+TCK-80969,2026-09-25,WhatsApp,C1003,ORD-50529,"Hi, The Running Shoes Air arrived broken, box was crushed. Order ORD-50529. I want a replacement. Pls revert asap.",damaged_item,16.5
+TCK-80970,2026-09-28,Chat,C1012,ORD-50500,"Dear NovaMart, Refund still not credited to my bank for ORD-50500 Thanks",refund_status,10.3
+TCK-80971,2026-09-22,WhatsApp,C1230,ORD-50253,Double charge on my card for ORD-50253! Need this fixed today.,payment_issue,7.1
+TCK-80972,2026-09-25,WhatsApp,C1064,ORD-50502,"Hello team, Can I get the tracking details for my Wireless Earbuds Pro? Order ORD-50502 Waiting for your reply.",where_is_my_order,5.8
+TCK-80973,2026-10-11,App,C1234,ORD-50187,Mera order ORD-50187 kahan hai? Pls revert asap.,where_is_my_order,5.1
+TCK-80974,2026-09-27,Chat,C1036,ORD-50469,"Please take back the Power Bank 20000mAh, size does not fit. ORD-50469 Pls revert asap.",return_request,8.4
+TCK-80975,2026-10-02,Email,C1069,,mera order ord-50077 kahan hai?,where_is_my_order,6.4
+TCK-80976,2026-10-02,Chat,C1150,ORD-50123,Has my order ORD-50123 been shipped yet?,where_is_my_order,8.2
+TCK-80977,2026-09-19,Chat,C1242,,Will Non-stick Cookware Set fit in a small kitchen? Dimensions? Pls revert asap.,product_question,5.8
+TCK-80978,2026-09-30,Chat,C1042,,expected delivery date has passed for ord-50182. no update from your side at all.,delivery_delay,6.2
+TCK-80979,2026-10-01,WhatsApp,C1079,,"Namaste, Is the Bedsheet Double King original? Want to know before buying.",product_question,6.7
+TCK-80980,2026-09-16,Chat,C1017,ORD-50186,"Dear NovaMart, Delivery date missed for ORD-50186, still waiting Please help.",delivery_delay,11.4
+TCK-80981,2026-09-20,WhatsApp,C1132,ORD-50112,"Namaste, Received a damaged Wireless Earbuds Pro, really upset Please help, order ORD-50112",damaged_item,12.0
+TCK-80982,2026-10-02,WhatsApp,C1144,ORD-50081,"Hey, Product quality defect - Sports T-Shirt Pack of 3 leaking/broken. ORD-50081 Pls revert asap.",damaged_item,12.8
+TCK-80983,2026-09-25,Chat,C1034,ORD-50236,"Namaste, Can I return Hair Dryer Compact? I changed my mind. Order ORD-50236 Pls revert asap.",return_request,5.6
+TCK-80984,2026-10-14,App,C1245,ORD-50201,"Dear NovaMart, My Leather Wallet has not reached yet, order id ORD-50201. Kab tak aayega? This is the second time I'm writing!",where_is_my_order,6.0
+TCK-80985,2026-10-14,Chat,C1247,,tracking for ord-50341 is not updating. where is my package? waiting for your reply.,where_is_my_order,6.3
+TCK-80986,2026-09-30,Email,C1167,ORD-50129,"Dear NovaMart, Can I get the tracking details for my Face Serum Vitamin C? Order ORD-50129 Pls revert asap.",where_is_my_order,5.6
+TCK-80987,2026-10-06,App,C1214,ORD-50159,Why is it taking so long? ORD-50159 was due 3 days ago Pls revert asap.,delivery_delay,7.9
+TCK-80988,2026-09-28,Email,C1121,ORD-50314,"HELLO TEAM, WHEN WILL REFUND FOR ORD-50314 REFLECT IN MY ACCOUNT?",refund_status,4.5
+TCK-80989,2026-10-03,Email,C1018,,"hello team, what material is dumbbell set 10kg made of?",product_question,5.7
+TCK-80990,2026-09-22,Email,C1022,ORD-50207,"This is not my order, item mismatch for ORD-50207",wrong_item,11.8
+TCK-80991,2026-09-17,Chat,C1131,ORD-50385,"Hello team, I returned order ORD-50385 but haven't got my refund yet.",refund_status,7.8
+TCK-80992,2026-09-15,Chat,C1208,,"hello team, can i return perfume oud 100ml? i changed my mind. order ord-50513",return_request,6.8
+TCK-80993,2026-09-29,Email,C1119,ORD-50448,"Hey, My delivery is late by 3 days. Order ORD-50448. Very disappointed. Pls revert asap.",delivery_delay,5.7
+TCK-80994,2026-09-17,Email,C1110,ORD-50481,Kindly cancel ORD-50481 and refund the amount.,cancel_order,6.8
+TCK-80995,2026-09-18,Chat,C1008,ORD-50147,"Dear NovaMart, Late delivery again for ORD-50147! It should have come on 2026-10-10 Thanks.",delivery_delay,8.6
+TCK-80996,2026-09-16,Email,C1202,ORD-50478,"Hey, Can I get the tracking details for my Office Backpack 30L Order ORD-50478 Regards",where_is_my_order,7.4
+TCK-80997,2026-09-27,Chat,C1215,ORD-50407,"Hi, Order ORD-50407 was supposed to arrive on 2026-10-12 and it's still not here. This is ridiculous!",delivery_delay,7.0
+TCK-80998,2026-09-21,App,C1238,ORD-50139,"Hello team, Money got deducted twice for order ORD-50139. Please refund the extra amount. Please help.",payment_issue,10.8
+TCK-80999,2026-10-06,Email,C1083,ORD-50100,Need the delivery ETA for my ordr ORD-50100 Thanks.,where_is_my_order,4.3
+TCK-81000,2026-09-19,Chat,C1024,ORD-50398,please share delivery update for ORD-50398,where_is_my_order,4.3
+TCK-81001,2026-10-01,WhatsApp,C1055,,"hey, will perfume oud 100ml fit in a small kitchen? dimensions? pls revert asap.",product_question,5.6
+TCK-81002,2026-10-04,WhatsApp,C1151,ORD-50374,"Hello team, Mera order ORD-50374 kahan hai? Pls revert asap.",where_is_my_order,8.4
+TCK-81003,2026-09-30,Email,C1062,,where is my money for the returned dumbbell set 10kg? ord-50216 pls revert asap.,refund_status,6.3
+TCK-81004,2026-09-21,App,C1107,ORD-50189,I received my Power Bank 20000mAh today but it is damaged. Order ORD-50189. Regards.,damaged_item,18.9
+TCK-81005,2026-09-16,Email,C1148,,"Namaste, Is the Steel Water Bottle 1L waterproof? Please help.",product_question,5.6
+TCK-81006,2026-09-30,WhatsApp,C1200,ORD-50340,CAN I GET THE TRACKING DETAILS FOR MY SMARTWATCH ACTIVE 2? ORDER ORD-50340,where_is_my_order,8.2
+TCK-81007,2026-10-12,Chat,C1024,ORD-50026,"Hi, please share delivery update for ORD-50026 Regards.",where_is_my_order,6.8
+TCK-81008,2026-10-03,Email,C1208,,Unable to login to my NovaMart account This is the second time I'm writing!,account_issue,8.9
+TCK-81009,2026-09-16,App,C1217,ORD-50495,Refund still not credited to my bank for ORD-50495 Regards.,refund_status,5.4
+TCK-81010,2026-09-20,Chat,C1128,ORD-50572,Expected delivery date has passed for ORD-50572. No update from your side at all. This is the second time I'm writing!,delivery_delay,10.4
+TCK-81011,2026-10-02,App,C1058,ORD-50265,I want to return the Wireless Earbuds Pro from ordr ORD-50265. It doesn't fit well. Thanks.,return_request,6.1
+TCK-81012,2026-10-08,Email,C1185,ORD-50156,Where is my parcel Order ORD-50156,where_is_my_order,3.7
+TCK-81013,2026-09-16,App,C1152,ORD-50327,"Don't ship order ORD-50327, please cancel Thanks.",cancel_order,4.9
+TCK-81014,2026-10-01,App,C1022,,"dear novamart, my cotton kurta set is dead on arrival. ord-50026",damaged_item,8.2
+TCK-81015,2026-09-20,Chat,C1020,ORD-50513,My Perfume Oud 100ml came with scratches and a cracked part. Order ORD-50513 Pls revert asap.,damaged_item,10.0
+TCK-81016,2026-10-03,Email,C1215,,"Hi, Need to update my mobile number in profile Thanks.",account_issue,5.5
+TCK-81017,2026-10-12,Chat,C1207,ORD-50359,"Dear NovaMart, I placed ORD-50359 by mistake, cancel it",cancel_order,5.9
+TCK-81018,2026-09-26,Chat,C1023,,"Hey, Need to update my mobile number in profile",account_issue,9.6
+TCK-81019,2026-10-13,WhatsApp,C1178,,"dear novamart, mera ordr ord-50517 kahan hai?",where_is_my_order,5.2
+TCK-81020,2026-10-11,WhatsApp,C1092,ORD-50522,"Hey, Pickup done 2 days ago but no money back for ORD-50522 Pls revert asap",refund_status,6.9
+TCK-81021,2026-09-19,WhatsApp,C1124,ORD-50209,"Dear NovaMart, Where is my parcel? Order ORD-50209 This is the second time I'm writing!",where_is_my_order,6.7
+TCK-81022,2026-09-18,WhatsApp,C1086,ORD-50598,"Received Perfume Oud 100ml with missing parts and dents, order ORD-50598 Waiting for your reply.",damaged_item,9.0
+TCK-81023,2026-09-30,App,C1090,ORD-50428,"Dear NovaMart, I placed ORD-50428 by mistake, cancel it Regards",cancel_order,2.7
+TCK-81024,2026-10-14,Chat,C1064,ORD-50502,Can I get the tracking details for my Wireless Earbuds Pro? Order ORD-50502 Regards.,where_is_my_order,2.6
+TCK-81025,2026-09-21,Chat,C1105,ORD-50075,"Dear NovaMart, Order ORD-50075 - shipping status? Pls revert asap.",where_is_my_order,7.6
+TCK-81026,2026-09-21,Chat,C1176,ORD-50179,"Hey, Want to return Non-stick Cookware Set, not happy with it. ORD-50179 Thanks.",return_request,6.0
+TCK-81027,2026-09-20,Chat,C1035,,"Hey, I want to delete my account and data. Pls revert asap.",account_issue,6.2
+TCK-81028,2026-09-15,WhatsApp,C1181,ORD-50206,I'd like to exchange the Hair Dryer Compact in order ORD-50206 for a different size. Pls revert asap.,return_request,10.9
+TCK-81029,2026-10-14,Chat,C1196,ORD-50505,"ORDER ORD-50505 IS VERY LATE, NO DELIVERY YET PLS REVERT ASAP.",delivery_delay,6.6
+TCK-81030,2026-10-06,WhatsApp,C1014,ORD-50409,"Hi, Exchange Steel Water Bottle 1L for bigger size, order ORD-50409",return_request,10.9
+TCK-81031,2026-09-22,Email,C1185,ORD-50596,Kindly cancel ORD-50596 and refund the amount. Waiting for your reply.,cancel_order,4.9
+TCK-81032,2026-09-22,Chat,C1183,ORD-50496,Still waiting for refund of Rs 3897 for ORD-50496. Please check.,refund_status,8.2
+TCK-81033,2026-09-20,App,C1001,ORD-50564,I returned order ORD-50564 but haven't got my refund yet. Thanks.,refund_status,9.0
+TCK-81034,2026-10-03,App,C1077,ORD-50556,"Hello team, Any update on my shipment ORD-50556? Waiting for your reply.",where_is_my_order,6.3
+TCK-81035,2026-09-25,WhatsApp,C1056,ORD-50296,"Hi, You sent me the wrong size/colour for Perfume Oud 100ml, order ORD-50296.",wrong_item,16.1
+TCK-81036,2026-10-09,App,C1103,ORD-50339,"Namaste, Still waiting for refund of Rs 3998 for ORD-50339. Please check. Please help.",refund_status,9.0
+TCK-81037,2026-10-08,WhatsApp,C1236,ORD-50503,"HEY, WHERE IS MY ORDER ORD-50503? IT STILL HASN'T ARRIVED. WAITING FOR YOUR REPLY.",where_is_my_order,9.5
+TCK-81038,2026-09-15,WhatsApp,C1018,ORD-50539,"Hey, Mixer Grinder 750W is too small, I want to send it back. Order ORD-50539 Pls revert asap.",return_request,11.9
+TCK-81039,2026-09-26,Chat,C1010,ORD-50170,pls share delivery update for ORD-50170 Pls revert asap.,where_is_my_order,5.1
+TCK-81040,2026-10-07,WhatsApp,C1194,ORD-50005,"Hey, Why is my USB-C Fast Charger 33W delayed?? It was promised by 2026-10-13. Order ORD-50005 Thanks.",delivery_delay,7.9
+TCK-81041,2026-10-12,Chat,C1226,ORD-50562,Refund for cancelled order ORD-50562 not credited to my account.,refund_status,9.4
+TCK-81042,2026-09-23,App,C1236,ORD-50503,"Dear NovaMart, My delivery is late by 4 days. Order ORD-50503. Very disappointed. Pls revert asap.",delivery_delay,5.3
+TCK-81043,2026-09-22,App,C1136,ORD-50395,"Hey, I'd like to exchange the Bluetooth Speaker Mini in order ORD-50395 for a different size.",return_request,4.2
+TCK-81044,2026-10-05,Chat,C1166,ORD-50145,"Hi, Exchange Hair Dryer Compact for bigger size, order ORD-50145 Pls revert asap.",return_request,10.3
+TCK-81045,2026-10-12,Chat,C1213,ORD-50024,"Hello team, My Office Backpack 30L is dead on arrival ORD-50024 Thanks",damaged_item,9.1
+TCK-81046,2026-09-20,WhatsApp,C1077,ORD-50003,I was charged Rs 599 but order ORD-50003 shows payment pending. Regards.,payment_issue,12.8
+TCK-81047,2026-10-03,WhatsApp,C1201,ORD-50074,"Hello team, Why is my Silk Saree delayed?? It was promised by 2026-10-11. Order ORD-50074 Regards.",delivery_delay,7.5
+TCK-81048,2026-10-09,Chat,C1170,,"Hey, I can't log in to my account, OTP is not coming.",account_issue,9.7
+TCK-81049,2026-10-03,WhatsApp,C1193,ORD-50208,"Dear NovaMart, Hi, can you tell me the status of order ORD-50208?",where_is_my_order,6.3
+TCK-81050,2026-10-07,App,C1181,,"product in order ord-50085 is defective, mixer grinder 750w is not turning on. thanks.",damaged_item,11.7
+TCK-81051,2026-10-11,Chat,C1234,,"Hi, What are the specifications of Noise Cancelling Headphones? Thanks.",product_question,6.2
+TCK-81052,2026-09-15,Email,C1205,ORD-50583,"Hey, Delivery date missed for ORD-50583, still waiting Thanks.",delivery_delay,12.2
+TCK-81053,2026-09-30,App,C1058,ORD-50087,Kindly cancel ORD-50087 and refund the amount,cancel_order,5.3
+TCK-81054,2026-10-06,WhatsApp,C1243,ORD-50169,"Hello team, Your courier is too slow, ORD-50169 is overdue",delivery_delay,11.5
+TCK-81055,2026-09-30,WhatsApp,C1126,ORD-50036,"Hey, Still waiting for refund of Rs 799 for ORD-50036. Please check. Regards.",refund_status,8.7
+TCK-81056,2026-10-13,Email,C1190,ORD-50229,"Hey, please share delivery update for ORD-50229 Thanks",where_is_my_order,7.9
+TCK-81057,2026-10-13,Chat,C1108,ORD-50579,"Product in order ORD-50579 is defective, Dumbbell Set 10kg is not turning on. Regards.",damaged_item,10.1
+TCK-81058,2026-10-08,WhatsApp,C1196,ORD-50317,"Please take back the Kids Story Book Set, size does not fit. ORD-50317 Please help.",return_request,9.7
+TCK-81059,2026-10-09,Chat,C1061,,"Hey, Unable to login to my NovaMart account Pls revert asap.",account_issue,7.2
+TCK-81060,2026-09-25,Chat,C1178,ORD-50472,Tracking for ORD-50472 is not updating. Where is my package? Pls revert asap.,where_is_my_order,4.1
+TCK-81061,2026-09-15,Chat,C1176,ORD-50389,"Dear NovaMart, I want to return the Smart Fitness Band from order ORD-50389. It doesn't fit well. Regards.",return_request,6.7
+TCK-81062,2026-09-17,Chat,C1156,ORD-50383,"Hi, Can I get the tracking details for my Yoga Mat 6mm? Order ORD-50383 Pls revert asap.",where_is_my_order,6.2
+TCK-81063,2026-09-30,App,C1123,ORD-50044,Late delivery again for ORD-50044! It should have come on 2026-10-12 This is the second time I'm writing!,delivery_delay,7.4
+TCK-81064,2026-10-10,Email,C1022,ORD-50207,Has my order ORD-50207 been shipped yet Thanks,where_is_my_order,4.2
+TCK-81065,2026-09-22,App,C1120,ORD-50324,Extra money debited from account for ORD-50324 This is the second time I'm writing!,payment_issue,13.8
+TCK-81066,2026-10-08,Chat,C1236,ORD-50388,"Hi, Payment failed but amount was debited via Wallet. Order ORD-50388 Regards.",payment_issue,10.9
+TCK-81067,2026-09-17,App,C1117,ORD-50320,"Hello team, Still waiting for refund of Rs 899 for ORD-50320. Please check. Please help.",refund_status,8.9
+TCK-81068,2026-10-04,Chat,C1006,,"dear novamart, order ord-50130 - shipping status? waiting for your reply.",where_is_my_order,7.4
+TCK-81069,2026-09-29,Email,C1191,ORD-50410,I was charged Rs 3798 but order ORD-50410 shows payment pending.,payment_issue,10.8
+TCK-81070,2026-10-04,Email,C1077,ORD-50213,"Hi, I was charged Rs 1299 but order ORD-50213 shows payment pending. Pls revert asap.",payment_issue,10.7
+TCK-81071,2026-10-03,Email,C1074,ORD-50343,"Hello team, Cancel order ORD-50343 immediately, found it cheaper elsewhere. Waiting for your reply.",cancel_order,4.7
+TCK-81072,2026-09-24,Email,C1172,ORD-50157,"Dear NovaMart, Why is my Hair Dryer Compact delayed It was promised by 2026-10-11 Order ORD-50157 Regards",delivery_delay,7.4
+TCK-81073,2026-09-26,WhatsApp,C1205,ORD-50532,"Dear NovaMart, Don't ship order ORD-50532, please cancel Waiting for your reply.",cancel_order,6.0
+TCK-81074,2026-09-19,Chat,C1240,ORD-50509,"Namaste, I'd like to exchange the Sports T-Shirt Pack of 3 in ordr ORD-50509 for a different size. Pls revert asap.",return_request,9.2
+TCK-81075,2026-10-12,App,C1200,,"NAMASTE, OTP NOT RECEIVED WHILE SIGNING IN",account_issue,7.1
+TCK-81076,2026-10-12,WhatsApp,C1027,,"namaste, cancel order ord-50122 immediately, found it cheaper elsewhere. waiting for your reply.",cancel_order,5.7
+TCK-81077,2026-09-22,App,C1058,ORD-50087,"Namaste, I placed ORD-50087 by mistake, cancel it Waiting for your reply",cancel_order,4.4
+TCK-81078,2026-09-23,Chat,C1085,ORD-50414,"Dear NovaMart, Return request for ORD-50414, quality of Face Serum Vitamin C is not as expected. Thanks.",return_request,8.8
+TCK-81079,2026-09-24,Chat,C1096,ORD-50257,"Hi, I returned order ORD-50257 but haven't got my refund yet.",refund_status,10.6
+TCK-81080,2026-09-19,Chat,C1180,ORD-50467,"Delivery date missed for ORD-50467, still waiting",delivery_delay,11.9
+TCK-81081,2026-10-02,Chat,C1126,,i ordered yoga mat 6mm but received something completely different. order ord-50048,wrong_item,10.8
+TCK-81082,2026-10-12,Chat,C1124,ORD-50386,"Hello team, Refund for cancelled order ORD-50386 not credited to my account. This is the second time I'm writing!",refund_status,6.6
+TCK-81083,2026-09-29,Email,C1124,ORD-50215,Where is my money for the returned Power Bank 20000mAh? ORD-50215,refund_status,9.2
+TCK-81084,2026-09-24,Chat,C1053,ORD-50289,"Exchange Bluetooth Speaker Mini for bigger size, order ORD-50289 This is the second time I'm writing!",return_request,6.2
+TCK-81085,2026-09-30,Chat,C1186,ORD-50222,I received my Cotton Kurta Set today but it is damaged Order ORD-50222,damaged_item,10.8
+TCK-81086,2026-10-04,WhatsApp,C1167,ORD-50484,"Hello team, Received wrong colour of Bedsheet Double King, I ordered another one. ORD-50484 Pls revert asap.",wrong_item,9.7
+TCK-81087,2026-10-12,App,C1019,ORD-50192,"Hello team, Where is my money for the returned Air Fryer 4L? ORD-50192 Please help.",refund_status,9.3
+TCK-81088,2026-10-06,Chat,C1003,ORD-50275,"Hello team, Mera order ORD-50275 kahan hai? Please help.",where_is_my_order,8.5
+TCK-81089,2026-09-25,WhatsApp,C1120,,my net banking payment for ord-50022 went through but no order confirmation. thanks.,payment_issue,10.5
+TCK-81090,2026-09-20,WhatsApp,C1076,,CAN YOU TELL ME IF HAIR DRYER COMPACT SUPPORTS FAST CHARGING? THANKS.,product_question,5.7
+TCK-81091,2026-09-24,WhatsApp,C1081,ORD-50447,"Dear NovaMart, I was billed twice for ORD-50447 Please help.",payment_issue,10.6
+TCK-81092,2026-10-01,WhatsApp,C1031,ORD-50096,"Received a damaged Air Fryer 4L, really upset Please help, order ORD-50096",damaged_item,13.5
+TCK-81093,2026-09-17,Chat,C1127,,money not received after return of ord-50055 regards.,refund_status,7.5
+TCK-81094,2026-10-14,WhatsApp,C1057,ORD-50454,"Hi, My Ceramic Dinner Set came with scratches and a cracked part. Order ORD-50454 Regards.",damaged_item,13.2
+TCK-81095,2026-10-02,Email,C1077,ORD-50556,"Dear NovaMart, Want to return Smart Fitness Band, not happy with it. ORD-50556 Pls revert asap.",return_request,7.9
+TCK-81096,2026-09-15,Chat,C1136,ORD-50594,"Hi, Tracking for ORD-50594 is not updating. Where is my package? Please help.",where_is_my_order,7.1
+TCK-81097,2026-09-30,App,C1022,ORD-50528,"Hey, Why is it taking so long ORD-50528 was due 6 days ago Thanks",delivery_delay,9.4
+TCK-81098,2026-10-04,Chat,C1209,ORD-50084,The Perfume Oud 100ml stopped working after 2 days. Order ORD-50084. Need replacement asap.,damaged_item,9.8
+TCK-81099,2026-10-13,Chat,C1037,ORD-50190,"Namaste, I placed ORD-50190 by mistake, cancel it This is the second time I'm writing!",cancel_order,4.6
+TCK-81100,2026-10-06,WhatsApp,C1064,ORD-50427,"DEAR NOVAMART, AMOUNT DEDUCTED BUT ORDER NOT PLACED, ORD-50427",payment_issue,8.6
+TCK-81101,2026-10-14,Email,C1170,ORD-50244,"Hi, Received Bedsheet Double King with missing parts and dents, order ORD-50244",damaged_item,14.8
+TCK-81102,2026-09-30,Email,C1126,ORD-50353,"Hi, What is the expected delivery date for ORD-50353?",where_is_my_order,5.9
+TCK-81103,2026-09-25,Chat,C1220,,Is the Cotton Kurta Set compatible with iPhone This is the second time I'm writing!,product_question,4.4
+TCK-81104,2026-10-07,App,C1201,,"dear novamart, how long is the warranty on led desk lamp? thanks.",product_question,5.3
+TCK-81105,2026-09-19,Email,C1059,ORD-50083,NEED THE DELIVERY ETA FOR MY ORDER ORD-50083,where_is_my_order,3.3
+TCK-81106,2026-09-16,WhatsApp,C1128,,order ord-50472 - shipping status? please help.,where_is_my_order,7.1
+TCK-81107,2026-09-18,Chat,C1220,ORD-50233,"Namaste, Want to return Building Blocks 500pcs, not happy with it. ORD-50233 Regards.",return_request,5.4
+TCK-81108,2026-09-29,Chat,C1104,,"Hi, Does the Cricket Bat Kashmir Willow come with a warranty? Pls revert asap.",product_question,2.1
+TCK-81109,2026-09-28,Chat,C1136,ORD-50395,"Hey, Any update on my shipment ORD-50395? Waiting for your reply.",where_is_my_order,5.9
+TCK-81110,2026-10-13,App,C1159,,"Namaste, Does Non-stick Cookware Set have bluetooth",product_question,5.4
+TCK-81111,2026-10-05,Email,C1236,ORD-50411,My money for ORD-50411 has not come back Where is my refund,refund_status,7.9
+TCK-81112,2026-10-03,App,C1227,ORD-50321,"Dear NovaMart, Cancel the Power Bank 20000mAh I ordered today, ORD-50321",cancel_order,3.9
+TCK-81113,2026-10-07,App,C1114,ORD-50498,"Don't ship order ORD-50498, please cancel",cancel_order,7.4
+TCK-81114,2026-10-04,Chat,C1107,ORD-50189,"HELLO TEAM, DIFFERENT PRODUCT SHIPPED INSTEAD OF POWER BANK 20000MAH. ORD-50189",wrong_item,7.7
+TCK-81115,2026-09-16,Chat,C1235,ORD-50545,"Hi, Extra money debited from account for ORD-50545 Thanks.",payment_issue,8.0
+TCK-81116,2026-10-03,WhatsApp,C1146,ORD-50225,"Please arrange a pickup for return of LED Desk Lamp, ordr ORD-50225. Please help.",return_request,8.3
+TCK-81117,2026-10-01,Chat,C1205,ORD-50583,"Namaste, I ordered Air Fryer 4L last week, order ORD-50583, when will it be delivered? This is the second time I'm writing!",where_is_my_order,3.7
+TCK-81118,2026-09-19,Chat,C1124,ORD-50274,"Hi, I ordered Face Serum Vitamin C last week, order ORD-50274, when will it be delivered? Please help.",where_is_my_order,7.7
+TCK-81119,2026-09-26,Chat,C1072,ORD-50541,please share delivery update for ORD-50541,where_is_my_order,5.0
+TCK-81120,2026-09-20,App,C1120,ORD-50324,"Dear NovaMart, What is the expected delivery date for ORD-50324? Waiting for your reply.",where_is_my_order,4.7
+TCK-81121,2026-10-02,Chat,C1222,ORD-50049,"This is not my ordr, item mismatch for ORD-50049 Please help.",wrong_item,12.7
+TCK-81122,2026-09-27,Email,C1009,ORD-50178,"Dear NovaMart, My money for ORD-50178 has not come back. Where is my refund??",refund_status,7.6
+TCK-81123,2026-09-19,Chat,C1119,ORD-50429,"Amount deducted but order not placed, ORD-50429",payment_issue,13.1
+TCK-81124,2026-10-05,Email,C1117,ORD-50146,"Don't ship order ORD-50146, please cancel Waiting for your reply.",cancel_order,5.1
+TCK-81125,2026-09-23,Email,C1139,ORD-50119,"Hey, My Smartwatch Active 2 came with scratches and a cracked part. Order ORD-50119 Please help.",damaged_item,10.6
+TCK-81126,2026-09-20,WhatsApp,C1210,ORD-50079,"Namaste, Kindly cancel ORD-50079 and refund the amount. Pls revert asap.",cancel_order,4.3
+TCK-81127,2026-10-10,WhatsApp,C1154,,"Hey, What material is Smart Fitness Band made of?",product_question,4.2
+TCK-81128,2026-10-06,Chat,C1075,ORD-50132,Need the delivery ETA for my order ORD-50132 Please help,where_is_my_order,6.2
+TCK-81129,2026-10-01,App,C1186,ORD-50117,Kindly cancel ORD-50117 and refund the amount. This is the second time I'm writing!,cancel_order,4.4
+TCK-81130,2026-10-13,WhatsApp,C1207,ORD-50037,"Exchange Steel Water Bottle 1L for bigger size, order ORD-50037 Pls revert asap",return_request,7.6
+TCK-81131,2026-10-08,WhatsApp,C1175,ORD-50082,Money not received after return of ORD-50082 Regards.,refund_status,8.2
+TCK-81132,2026-09-16,App,C1002,ORD-50177,Where is my parcel? Order ORD-50177 Regards.,where_is_my_order,5.1
+TCK-81133,2026-09-18,WhatsApp,C1154,ORD-50183,How do I return order ORD-50183? I don't like the Noise Cancelling Headphones.,return_request,3.5
+TCK-81134,2026-10-08,WhatsApp,C1064,,"Hi, Does Sports T-Shirt Pack of 3 have bluetooth? Pls revert asap.",product_question,5.4
+TCK-81135,2026-09-20,Email,C1064,ORD-50502,The Wireless Earbuds Pro stopped working after 2 days. Order ORD-50502. Need replacement asap. Waiting for your reply.,damaged_item,11.3
+TCK-81136,2026-09-17,Chat,C1112,,"Hi, How to change email id in my profile? Thanks.",account_issue,8.6
+TCK-81137,2026-10-11,Email,C1132,ORD-50574,"Dear NovaMart, Refund still not credited to my bank for ORD-50574",refund_status,6.7
+TCK-81138,2026-10-07,App,C1170,ORD-50582,Wrong product delivered for order ORD-50582. This is not what I ordered. Pls revert asap.,wrong_item,13.6
+TCK-81139,2026-09-22,Chat,C1082,,"Dear NovaMart, Please update my phone number on my account. Waiting for your reply.",account_issue,8.7
+TCK-81140,2026-09-27,Chat,C1132,ORD-50112,"Return request for ORD-50112, quality of Wireless Earbuds Pro is not as expected. Waiting for your reply.",return_request,6.6
+TCK-81141,2026-10-09,Chat,C1124,ORD-50209,"Hi, Money got deducted twice for order ORD-50209. Please refund the extra amount. Please help.",payment_issue,8.5
+TCK-81142,2026-09-25,WhatsApp,C1161,ORD-50488,It's been 8 days past the promised date for ORD-50488. Fix this now. This is the second time I'm writing!,delivery_delay,8.7
+TCK-81143,2026-10-14,App,C1177,ORD-50269,"Cancel ordr ORD-50269 immediately, found it cheaper elsewhere. This is the second time I'm writing!",cancel_order,6.4
+TCK-81144,2026-09-19,App,C1044,ORD-50424,"Dear NovaMart, Got someone else's item in my package for ORD-50424 Where is my Noise Cancelling Headphones Please help",wrong_item,11.8
+TCK-81145,2026-10-02,App,C1211,ORD-50054,"Hi, Got someone else's item in my package for ORD-50054. Where is my Ceramic Dinner Set? Waiting for your reply.",wrong_item,9.9
+TCK-81146,2026-10-14,Chat,C1087,ORD-50239,"Exchange Cotton Kurta Set for bigger size, order ORD-50239",return_request,11.1
+TCK-81147,2026-10-14,Chat,C1081,ORD-50354,Is my Kids Story Book Set out for delivery yet? ORD-50354 Waiting for your reply.,where_is_my_order,8.1
+TCK-81148,2026-10-08,Email,C1147,,"order ord-50113 is very late, no delivery yet thanks.",delivery_delay,5.7
+TCK-81149,2026-10-14,WhatsApp,C1166,ORD-50145,"Hello team, I'd like to exchange the Hair Dryer Compact in order ORD-50145 for a different size.",return_request,8.3
+TCK-81150,2026-09-23,Email,C1226,,"stop my order ord-50193, i do not need it anymore thanks.",cancel_order,6.7
+TCK-81151,2026-09-18,App,C1067,,"hey, office backpack 30l not working out of the box. order ord-50029 please help.",damaged_item,8.6
+TCK-81152,2026-09-24,App,C1077,ORD-50003,Payment failed but amount was debited via Wallet. Order ORD-50003 Pls revert asap.,payment_issue,7.5
+TCK-81153,2026-10-06,Chat,C1153,ORD-50103,"Hi, Money not received after return of ORD-50103 Waiting for your reply.",refund_status,8.4
+TCK-81154,2026-09-16,Chat,C1187,,"Hey, How long is the warranty on Mixer Grinder 750W? This is the second time I'm writing!",product_question,4.9
+TCK-81155,2026-10-04,Chat,C1072,ORD-50268,"Dear NovaMart, Is my Cotton Kurta Set out for delivery yet? ORD-50268 Regards.",where_is_my_order,6.4
+TCK-81156,2026-10-05,Email,C1056,ORD-50296,Order ORD-50296 - shipping status? Regards.,where_is_my_order,5.9
+TCK-81157,2026-10-11,App,C1070,,"Dear NovaMart, What is the size/material of the Wireless Earbuds Pro? Regards.",product_question,6.1
+TCK-81158,2026-09-18,Email,C1156,ORD-50383,"Hello team, Late delivery again for ORD-50383! It should have come on 2026-10-11 Regards.",delivery_delay,10.7
+TCK-81159,2026-09-30,Chat,C1120,ORD-50521,"Namaste, When will my package be delivered, order ORD-50521 Thanks.",where_is_my_order,6.0
+TCK-81160,2026-10-09,App,C1190,ORD-50198,"Dear NovaMart, Order ORD-50198: item received does not match the listing of Steel Water Bottle 1L. Pls revert asap.",wrong_item,10.2
+TCK-81161,2026-10-12,Email,C1199,ORD-50056,"Hey, Money got deducted twice for order ORD-50056. Please refund the extra amount.",payment_issue,8.7
+TCK-81162,2026-10-06,Chat,C1161,ORD-50382,"Dear NovaMart, Any update on my shipment ORD-50382? Please help.",where_is_my_order,6.2
+TCK-81163,2026-09-26,App,C1136,ORD-50395,"Hello team, Product quality defect - Bluetooth Speaker Mini leaking/broken. ORD-50395",damaged_item,7.7
+TCK-81164,2026-10-08,App,C1206,ORD-50342,I ordred Dumbbell Set 10kg but received something completely different. Order ORD-50342 Regards.,wrong_item,11.2
+TCK-81165,2026-09-16,App,C1177,ORD-50269,"Cancel the Yoga Mat 6mm I ordered today, ORD-50269 Waiting for your reply.",cancel_order,5.5
+TCK-81166,2026-10-04,Email,C1144,,"namaste, order ord-50467 - shipping status? thanks.",where_is_my_order,6.7
+TCK-81167,2026-10-11,App,C1045,ORD-50544,"Dear NovaMart, It's been 5 days past the promised date for ORD-50544. Fix this now. Thanks.",delivery_delay,11.2
+TCK-81168,2026-09-29,WhatsApp,C1216,ORD-50125,"Hi, Payment failed but amount was debited via Wallet. Order ORD-50125 Please help.",payment_issue,13.1
+TCK-81169,2026-10-06,WhatsApp,C1206,ORD-50404,"Hi, The Cricket Bat Kashmir Willow is faulty, it does not switch on ORD-50404 Thanks",damaged_item,10.4
+TCK-81170,2026-09-29,App,C1130,,order ord-50083 was supposed to arrive on 2026-10-10 and it's still not here. this is ridiculous!,delivery_delay,7.4
+TCK-81171,2026-09-16,Chat,C1099,,Will Face Serum Vitamin C fit in a small kitchen? Dimensions?,product_question,4.8
+TCK-81172,2026-09-18,Chat,C1182,ORD-50174,"Namaste, The courier keeps postponing delivery of ORD-50174. I needed it urgently for a gift. Regards.",delivery_delay,7.1
+TCK-81173,2026-09-21,App,C1178,ORD-50130,KINDLY CANCEL ORD-50130 AND REFUND THE AMOUNT.,cancel_order,3.8
+TCK-81174,2026-09-17,Email,C1032,ORD-50347,Still waiting for refund of Rs 17997 for ORD-50347. Please check. Please help.,refund_status,3.6
+TCK-81175,2026-09-29,App,C1058,ORD-50250,"Dear NovaMart, Please cancel my order ORD-50250.",cancel_order,5.7
+TCK-81176,2026-09-20,App,C1105,,Unable to login to my NovaMart account Thanks.,account_issue,7.4
+TCK-81177,2026-09-19,App,C1088,ORD-50599,"Hello team, My money for ORD-50599 has not come back. Where is my refund?? Regards.",refund_status,5.4
+TCK-81178,2026-09-15,App,C1175,ORD-50082,"Namaste, Refund still not credited to my bank for ORD-50082",refund_status,9.0
+TCK-81179,2026-10-04,Chat,C1018,ORD-50539,The Mixer Grinder 750W stopped working after 2 days Order ORD-50539 Need replacement asap This is the second time I'm writing!,damaged_item,17.4
+TCK-81180,2026-09-17,WhatsApp,C1029,,"hi, refund still not credited to my bank for ord-50515",refund_status,10.7
+TCK-81181,2026-09-28,Email,C1206,ORD-50445,"The Yoga Mat 6mm arrived broken, box was crushed. Order ORD-50445. I want a replacement. Pls revert asap.",damaged_item,16.5
+TCK-81182,2026-10-04,App,C1186,ORD-50537,"Hello team, Any update on my shipment ORD-50537? Thanks.",where_is_my_order,4.5
+TCK-81183,2026-10-08,Chat,C1108,ORD-50358,"Hi, Product in order ORD-50358 is defective, Noise Cancelling Headphones is not turning on. Regards.",damaged_item,12.1
+TCK-81184,2026-09-23,Email,C1248,,"dear novamart, stop my order ord-50325, i do not need it anymore waiting for your reply.",cancel_order,4.4
+TCK-81185,2026-10-07,App,C1119,ORD-50038,"Dear NovaMart, Product in order ORD-50038 is defective, Face Serum Vitamin C is not turning on Regards",damaged_item,14.6
+TCK-81186,2026-10-01,WhatsApp,C1211,ORD-50054,"Namaste, Mera order ORD-50054 kahan hai?",where_is_my_order,4.8
+TCK-81187,2026-10-12,Email,C1152,ORD-50143,"Hey, The courier keeps postponing delivery of ORD-50143. I needed it urgently for a gift. Please help.",delivery_delay,10.1
+TCK-81188,2026-10-01,Email,C1012,ORD-50393,"Hi, Refund for cancelled order ORD-50393 not credited to my account. Regards.",refund_status,13.1
+TCK-81189,2026-10-01,App,C1039,,"namaste, where is my parcel order ord-50000 thanks",where_is_my_order,5.4
+TCK-81190,2026-09-19,Email,C1201,ORD-50349,"Namaste, Where is my order ORD-50349? It still hasn't arrived.",where_is_my_order,4.3
+TCK-81191,2026-09-25,WhatsApp,C1072,ORD-50541,please share delivery update for ORD-50541,where_is_my_order,5.1
+TCK-81192,2026-09-16,Chat,C1009,ORD-50279,"I want to cancel ORD-50279, ordered Power Bank 20000mAh by mistake. Thanks.",cancel_order,5.4
+TCK-81193,2026-09-20,Email,C1185,ORD-50156,"Delivery date missed for ORD-50156, still waiting",delivery_delay,8.0
+TCK-81194,2026-09-28,Chat,C1163,ORD-50518,"Namaste, Need the delivery ETA for my order ORD-50518 Thanks.",where_is_my_order,6.3
+TCK-81195,2026-10-03,App,C1057,ORD-50454,"Hi, I ordered Ceramic Dinner Set but received something completely different. Order ORD-50454",wrong_item,13.2
+TCK-81196,2026-10-09,Chat,C1219,ORD-50262,PAYMENT FAILED BUT AMOUNT WAS DEBITED VIA CASH ON DELIVERY ORDER ORD-50262 PLS REVERT ASAP,payment_issue,14.4
+TCK-81197,2026-10-12,Email,C1041,ORD-50012,"Dear NovaMart, Charged two times on my Cash on Delivery for ORD-50012 This is the second time I'm writing!",payment_issue,12.0
+TCK-81198,2026-09-18,Email,C1112,ORD-50240,REFUND STATUS PLEASE FOR ORDER ORD-50240. PAID VIA UPI. THANKS.,refund_status,10.1
+TCK-81199,2026-09-21,WhatsApp,C1101,ORD-50104,Still waiting for refund of Rs 899 for ORD-50104. Please check. Please help.,refund_status,8.8

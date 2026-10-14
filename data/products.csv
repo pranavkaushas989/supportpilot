@@ -1,0 +1,31 @@
+product_id,product_name,category,price,return_window_days,warranty_months
+P100,Wireless Earbuds Pro,Electronics,2499,7,12
+P101,Smart Fitness Band,Electronics,1999,7,12
+P102,Bluetooth Speaker Mini,Electronics,1499,7,12
+P103,Power Bank 20000mAh,Electronics,1299,7,12
+P104,USB-C Fast Charger 33W,Electronics,899,7,12
+P105,Mechanical Keyboard,Electronics,3499,7,12
+P106,Noise Cancelling Headphones,Electronics,5999,7,12
+P107,Smartwatch Active 2,Electronics,4499,7,12
+P108,Cotton Kurta Set,Fashion,1299,30,0
+P109,Running Shoes Air,Fashion,2799,30,0
+P110,Denim Jacket,Fashion,1899,30,0
+P111,Leather Wallet,Fashion,699,30,0
+P112,Silk Saree,Fashion,3999,30,0
+P113,Sports T-Shirt Pack of 3,Fashion,999,30,0
+P114,Non-stick Cookware Set,Home & Kitchen,2299,30,0
+P115,Air Fryer 4L,Home & Kitchen,4999,30,0
+P116,Steel Water Bottle 1L,Home & Kitchen,449,30,0
+P117,Ceramic Dinner Set,Home & Kitchen,2599,30,0
+P118,Mixer Grinder 750W,Home & Kitchen,3299,30,0
+P119,LED Desk Lamp,Home & Kitchen,1099,30,0
+P120,Bedsheet Double King,Home & Kitchen,1199,30,0
+P121,Face Serum Vitamin C,Beauty,599,0,0
+P122,Hair Dryer Compact,Beauty,1399,0,0
+P123,Perfume Oud 100ml,Beauty,1799,0,0
+P124,Yoga Mat 6mm,Sports,799,30,0
+P125,Dumbbell Set 10kg,Sports,1999,30,0
+P126,Cricket Bat Kashmir Willow,Sports,1599,30,0
+P127,Kids Story Book Set,Books & Toys,899,30,0
+P128,Building Blocks 500pcs,Books & Toys,1499,30,0
+P129,Office Backpack 30L,Fashion,1699,30,0

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "POL-01",
+    "title": "Order Tracking & Delivery Timelines",
+    "intents": [
+      "where_is_my_order"
+    ],
+    "text": "Orders are dispatched within 24-48 hours. Metro cities: 2-4 days, other cities: 4-7 days. Customers can track orders with the tracking ID on the courier partner's website. If tracking has not updated for 48 hours, agent should raise a courier trace request."
+  },
+  {
+    "id": "POL-02",
+    "title": "Late Delivery Compensation",
+    "intents": [
+      "delivery_delay"
+    ],
+    "text": "If an order is delayed beyond the promised delivery date, apologise, escalate to the courier with priority, and share a revised date. For delays of 3+ days, issue a Rs 100 store credit (Rs 250 for Gold members). Customer may cancel a delayed undelivered order for a full refund."
+  },
+  {
+    "id": "POL-03",
+    "title": "Damaged or Defective Items",
+    "intents": [
+      "damaged_item"
+    ],
+    "text": "Damaged/defective items reported within 7 days of delivery qualify for a free replacement or full refund. Ask the customer for 2 photos of the product and packaging. Electronics within warranty (12 months) after 7 days are handled via brand service centre."
+  },
+  {
+    "id": "POL-04",
+    "title": "Wrong Item Delivered",
+    "intents": [
+      "wrong_item"
+    ],
+    "text": "If a wrong item is delivered, schedule a free reverse pickup within 48 hours and ship the correct item on priority at no extra cost. Refund is offered if the correct item is out of stock."
+  },
+  {
+    "id": "POL-05",
+    "title": "Return & Exchange Policy",
+    "intents": [
+      "return_request"
+    ],
+    "text": "Fashion, Home and Sports items: 30-day return/exchange. Electronics: 7-day replacement only (no change-of-mind returns). Beauty and personal care items are non-returnable once opened. Items must be unused with original tags. Free pickup is arranged from the delivery address."
+  },
+  {
+    "id": "POL-06",
+    "title": "Refund Timelines",
+    "intents": [
+      "refund_status",
+      "cancel_order"
+    ],
+    "text": "Refunds are initiated once the returned item passes quality check (within 48 hours of pickup). UPI/Wallet: 1-2 business days. Cards/Net Banking: 5-7 business days. Cash on Delivery orders are refunded to NovaMart Wallet instantly or to bank account in 3-5 business days."
+  },
+  {
+    "id": "POL-07",
+    "title": "Order Cancellation",
+    "intents": [
+      "cancel_order"
+    ],
+    "text": "Orders can be cancelled free of charge before they are shipped. Once shipped, the customer can refuse delivery or raise a return after delivery as per return policy."
+  },
+  {
+    "id": "POL-08",
+    "title": "Payment Failures & Double Charges",
+    "intents": [
+      "payment_issue"
+    ],
+    "text": "If money is debited but the order is not confirmed, the amount auto-reverses within 5-7 business days. Duplicate charges are verified with the payment gateway and refunded within 48 hours. Agents must never ask for full card numbers, CVV or OTP."
+  },
+  {
+    "id": "POL-09",
+    "title": "Product Information & Warranty",
+    "intents": [
+      "product_question"
+    ],
+    "text": "All products are 100% genuine and sourced from brands or authorised sellers. Electronics carry a 12-month manufacturer warranty. Detailed specifications are on the product page."
+  },
+  {
+    "id": "POL-10",
+    "title": "Account & Login Help",
+    "intents": [
+      "account_issue"
+    ],
+    "text": "For OTP issues, verify the registered phone number and resend OTP after 60 seconds. Locked accounts unlock automatically after 30 minutes or via the 'Forgot Password' link. Account deletion requests are processed within 7 days under the privacy policy."
+  },
+  {
+    "id": "POL-11",
+    "title": "Escalation & Priority Handling",
+    "intents": [],
+    "text": "Escalate to a Tier-2 supervisor when: the customer is very angry, mentions legal/consumer forum, has contacted 2+ times, or the order value is above Rs 5,000. Gold members get priority queue."
+  }
+]

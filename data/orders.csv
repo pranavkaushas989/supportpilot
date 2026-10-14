@@ -1,0 +1,601 @@
+order_id,customer_id,product_id,product_name,category,quantity,amount,payment_method,order_date,promised_delivery,delivered_on,status,courier,tracking_id
+ORD-50000,C1039,P101,Smart Fitness Band,Electronics,1,1999,Wallet,2026-10-12,2026-10-19,,Shipped,Shadowfax,TRK622517939
+ORD-50001,C1249,P123,Perfume Oud 100ml,Beauty,3,5397,UPI,2026-10-08,2026-10-13,2026-10-13,Delivered,BlueDart,TRK319497661
+ORD-50002,C1212,P108,Cotton Kurta Set,Fashion,1,1299,UPI,2026-10-02,2026-10-08,2026-10-06,Delivered,XpressBees,TRK902100304
+ORD-50003,C1077,P121,Face Serum Vitamin C,Beauty,1,599,Wallet,2026-10-11,2026-10-16,,Out for Delivery,Ekart,TRK177390472
+ORD-50004,C1208,P106,Noise Cancelling Headphones,Electronics,1,5999,UPI,2026-10-11,2026-10-15,,Processing,Ekart,TRK718216692
+ORD-50005,C1194,P104,USB-C Fast Charger 33W,Electronics,1,899,Debit Card,2026-09-14,2026-10-13,,Delayed,Delhivery,TRK960413104
+ORD-50006,C1104,P123,Perfume Oud 100ml,Beauty,1,1799,UPI,2026-09-17,2026-09-21,,Cancelled,Delhivery,TRK567804106
+ORD-50007,C1097,P123,Perfume Oud 100ml,Beauty,2,3598,Credit Card,2026-10-05,2026-10-12,2026-10-09,Returned,Ekart,TRK936571442
+ORD-50008,C1023,P102,Bluetooth Speaker Mini,Electronics,1,1499,Wallet,2026-10-03,2026-10-08,2026-10-07,Returned,Delhivery,TRK353691745
+ORD-50009,C1040,P129,Office Backpack 30L,Fashion,1,1699,Wallet,2026-09-28,2026-10-03,2026-10-04,Delivered,BlueDart,TRK290209201
+ORD-50010,C1123,P106,Noise Cancelling Headphones,Electronics,2,11998,Net Banking,2026-09-11,2026-09-18,,Cancelled,Shadowfax,TRK447042200
+ORD-50011,C1062,P110,Denim Jacket,Fashion,1,1899,Wallet,2026-10-01,2026-10-08,2026-10-03,Delivered,Ekart,TRK955052486
+ORD-50012,C1041,P115,Air Fryer 4L,Home & Kitchen,1,4999,Cash on Delivery,2026-10-12,2026-10-16,,Processing,BlueDart,TRK161085229
+ORD-50013,C1021,P122,Hair Dryer Compact,Beauty,1,1399,Cash on Delivery,2026-10-06,2026-10-10,2026-10-12,Delivered,XpressBees,TRK723123952
+ORD-50014,C1213,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Cash on Delivery,2026-10-11,2026-10-16,,Processing,Shadowfax,TRK261985842
+ORD-50015,C1227,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Credit Card,2026-10-12,2026-10-16,,Shipped,BlueDart,TRK366012797
+ORD-50016,C1013,P101,Smart Fitness Band,Electronics,1,1999,Debit Card,2026-09-07,2026-09-12,,Cancelled,XpressBees,TRK538912794
+ORD-50017,C1052,P105,Mechanical Keyboard,Electronics,1,3499,Net Banking,2026-10-12,2026-10-16,,Processing,XpressBees,TRK405100495
+ORD-50018,C1234,P119,LED Desk Lamp,Home & Kitchen,1,1099,Credit Card,2026-10-12,2026-10-16,,Out for Delivery,Ekart,TRK433108786
+ORD-50019,C1181,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Wallet,2026-10-02,2026-10-11,,Delayed,Ekart,TRK973150512
+ORD-50020,C1193,P128,Building Blocks 500pcs,Books & Toys,1,1499,Debit Card,2026-10-05,2026-10-12,2026-10-11,Returned,Ekart,TRK293555835
+ORD-50021,C1229,P118,Mixer Grinder 750W,Home & Kitchen,3,9897,Credit Card,2026-09-09,2026-09-14,2026-09-12,Delivered,BlueDart,TRK417604347
+ORD-50022,C1113,P126,Cricket Bat Kashmir Willow,Sports,3,4797,Net Banking,2026-10-14,2026-10-20,,Shipped,Delhivery,TRK741288486
+ORD-50023,C1182,P108,Cotton Kurta Set,Fashion,2,2598,UPI,2026-10-13,2026-10-18,,Out for Delivery,XpressBees,TRK491163514
+ORD-50024,C1213,P129,Office Backpack 30L,Fashion,1,1699,Credit Card,2026-09-12,2026-09-18,2026-09-17,Delivered,Ekart,TRK968253265
+ORD-50025,C1202,P119,LED Desk Lamp,Home & Kitchen,2,2198,Cash on Delivery,2026-09-17,2026-09-24,2026-09-22,Delivered,Shadowfax,TRK666355637
+ORD-50026,C1024,P108,Cotton Kurta Set,Fashion,2,2598,Debit Card,2026-10-02,2026-10-08,2026-10-04,Delivered,Shadowfax,TRK210154881
+ORD-50027,C1047,P105,Mechanical Keyboard,Electronics,2,6998,Debit Card,2026-10-03,2026-10-09,2026-10-05,Returned,XpressBees,TRK651208305
+ORD-50028,C1065,P108,Cotton Kurta Set,Fashion,3,3897,UPI,2026-10-05,2026-10-10,,Delayed,XpressBees,TRK157184151
+ORD-50029,C1015,P129,Office Backpack 30L,Fashion,1,1699,UPI,2026-09-25,2026-10-02,2026-09-27,Delivered,Ekart,TRK206389694
+ORD-50030,C1008,P110,Denim Jacket,Fashion,1,1899,Cash on Delivery,2026-10-01,2026-10-06,2026-10-03,Delivered,Delhivery,TRK914799481
+ORD-50031,C1093,P129,Office Backpack 30L,Fashion,1,1699,Credit Card,2026-10-10,2026-10-14,,Cancelled,Delhivery,TRK689274064
+ORD-50032,C1064,P103,Power Bank 20000mAh,Electronics,1,1299,UPI,2026-09-13,2026-09-17,2026-09-17,Returned,BlueDart,TRK356022467
+ORD-50033,C1203,P109,Running Shoes Air,Fashion,3,8397,Cash on Delivery,2026-10-06,2026-10-10,,Cancelled,Shadowfax,TRK675583372
+ORD-50034,C1093,P105,Mechanical Keyboard,Electronics,1,3499,UPI,2026-09-04,2026-09-09,2026-09-07,Returned,Shadowfax,TRK478833337
+ORD-50035,C1041,P112,Silk Saree,Fashion,1,3999,Net Banking,2026-09-29,2026-10-11,,Delayed,Shadowfax,TRK644738967
+ORD-50036,C1126,P124,Yoga Mat 6mm,Sports,1,799,Cash on Delivery,2026-10-09,2026-10-16,2026-10-14,Returned,Ekart,TRK372354893
+ORD-50037,C1207,P116,Steel Water Bottle 1L,Home & Kitchen,2,898,Wallet,2026-10-06,2026-10-12,2026-10-09,Delivered,BlueDart,TRK928393291
+ORD-50038,C1119,P121,Face Serum Vitamin C,Beauty,1,599,Wallet,2026-10-02,2026-10-06,2026-10-06,Delivered,Delhivery,TRK991617660
+ORD-50039,C1055,P129,Office Backpack 30L,Fashion,3,5097,UPI,2026-09-10,2026-09-15,,Cancelled,XpressBees,TRK139711044
+ORD-50040,C1140,P106,Noise Cancelling Headphones,Electronics,1,5999,Debit Card,2026-10-13,2026-10-17,,Processing,Shadowfax,TRK527589822
+ORD-50041,C1235,P124,Yoga Mat 6mm,Sports,2,1598,Credit Card,2026-09-24,2026-09-28,,Cancelled,Ekart,TRK483298103
+ORD-50042,C1102,P127,Kids Story Book Set,Books & Toys,1,899,Debit Card,2026-10-12,2026-10-18,,Processing,XpressBees,TRK529520110
+ORD-50043,C1165,P125,Dumbbell Set 10kg,Sports,2,3998,Debit Card,2026-09-19,2026-10-10,,Delayed,Shadowfax,TRK386389162
+ORD-50044,C1123,P125,Dumbbell Set 10kg,Sports,1,1999,Debit Card,2026-10-05,2026-10-12,,Delayed,BlueDart,TRK185973340
+ORD-50045,C1002,P107,Smartwatch Active 2,Electronics,2,8998,Credit Card,2026-09-21,2026-09-28,2026-09-27,Delivered,XpressBees,TRK477470703
+ORD-50046,C1025,P127,Kids Story Book Set,Books & Toys,1,899,Wallet,2026-09-13,2026-09-19,2026-09-15,Delivered,XpressBees,TRK490102359
+ORD-50047,C1221,P115,Air Fryer 4L,Home & Kitchen,3,14997,Wallet,2026-10-14,2026-10-19,,Out for Delivery,XpressBees,TRK137365109
+ORD-50048,C1128,P124,Yoga Mat 6mm,Sports,3,2397,UPI,2026-09-17,2026-09-23,2026-09-22,Delivered,Shadowfax,TRK264752975
+ORD-50049,C1222,P103,Power Bank 20000mAh,Electronics,1,1299,Net Banking,2026-09-17,2026-09-24,2026-09-19,Delivered,Ekart,TRK527385805
+ORD-50050,C1246,P110,Denim Jacket,Fashion,2,3798,Cash on Delivery,2026-09-25,2026-09-29,2026-09-27,Delivered,Shadowfax,TRK515524530
+ORD-50051,C1230,P118,Mixer Grinder 750W,Home & Kitchen,2,6598,Credit Card,2026-10-12,2026-10-18,,Shipped,Shadowfax,TRK406635834
+ORD-50052,C1001,P129,Office Backpack 30L,Fashion,1,1699,UPI,2026-09-28,2026-10-02,,Cancelled,XpressBees,TRK285388355
+ORD-50053,C1185,P112,Silk Saree,Fashion,2,7998,Wallet,2026-10-05,2026-10-11,,Cancelled,BlueDart,TRK690554938
+ORD-50054,C1211,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,UPI,2026-09-30,2026-10-05,2026-10-04,Delivered,Delhivery,TRK950474042
+ORD-50055,C1063,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Debit Card,2026-10-09,2026-10-15,,Cancelled,XpressBees,TRK962925204
+ORD-50056,C1199,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Wallet,2026-10-14,2026-10-20,,Shipped,XpressBees,TRK664461415
+ORD-50057,C1015,P126,Cricket Bat Kashmir Willow,Sports,3,4797,Wallet,2026-09-04,2026-10-12,,Delayed,BlueDart,TRK583156434
+ORD-50058,C1199,P109,Running Shoes Air,Fashion,2,5598,Credit Card,2026-09-18,2026-09-23,2026-09-24,Returned,Delhivery,TRK564520346
+ORD-50059,C1195,P127,Kids Story Book Set,Books & Toys,1,899,Credit Card,2026-10-14,2026-10-19,,Processing,Ekart,TRK861639583
+ORD-50060,C1119,P110,Denim Jacket,Fashion,1,1899,Net Banking,2026-09-22,2026-09-26,2026-09-26,Returned,Ekart,TRK234400576
+ORD-50061,C1101,P120,Bedsheet Double King,Home & Kitchen,3,3597,Credit Card,2026-10-05,2026-10-10,2026-10-11,Returned,Delhivery,TRK807309035
+ORD-50062,C1222,P104,USB-C Fast Charger 33W,Electronics,1,899,Wallet,2026-09-04,2026-09-08,2026-09-06,Delivered,Shadowfax,TRK384172112
+ORD-50063,C1079,P121,Face Serum Vitamin C,Beauty,2,1198,Debit Card,2026-10-09,2026-10-11,,Delayed,XpressBees,TRK362935648
+ORD-50064,C1241,P108,Cotton Kurta Set,Fashion,2,2598,Credit Card,2026-09-21,2026-10-13,,Delayed,XpressBees,TRK546270451
+ORD-50065,C1214,P100,Wireless Earbuds Pro,Electronics,3,7497,Debit Card,2026-09-19,2026-09-24,2026-09-23,Delivered,Ekart,TRK528118701
+ORD-50066,C1137,P110,Denim Jacket,Fashion,1,1899,UPI,2026-09-08,2026-09-12,2026-09-12,Delivered,Ekart,TRK582750043
+ORD-50067,C1221,P114,Non-stick Cookware Set,Home & Kitchen,3,6897,Net Banking,2026-10-14,2026-10-20,,Shipped,XpressBees,TRK366578178
+ORD-50068,C1057,P112,Silk Saree,Fashion,1,3999,Credit Card,2026-10-12,2026-10-18,,Out for Delivery,XpressBees,TRK652681586
+ORD-50069,C1205,P110,Denim Jacket,Fashion,3,5697,Net Banking,2026-09-09,2026-09-13,2026-09-11,Delivered,XpressBees,TRK358480413
+ORD-50070,C1160,P119,LED Desk Lamp,Home & Kitchen,1,1099,Wallet,2026-10-07,2026-10-11,2026-10-11,Delivered,XpressBees,TRK406819991
+ORD-50071,C1085,P114,Non-stick Cookware Set,Home & Kitchen,3,6897,Wallet,2026-10-11,2026-10-16,,Shipped,Ekart,TRK920184955
+ORD-50072,C1212,P115,Air Fryer 4L,Home & Kitchen,1,4999,Credit Card,2026-10-11,2026-10-15,,Processing,Ekart,TRK694018597
+ORD-50073,C1247,P105,Mechanical Keyboard,Electronics,3,10497,Net Banking,2026-09-08,2026-10-11,,Delayed,Shadowfax,TRK227572362
+ORD-50074,C1201,P112,Silk Saree,Fashion,2,7998,Credit Card,2026-09-17,2026-10-11,,Delayed,Shadowfax,TRK646666136
+ORD-50075,C1105,P107,Smartwatch Active 2,Electronics,1,4499,Debit Card,2026-10-14,2026-10-18,,Processing,XpressBees,TRK657629251
+ORD-50076,C1141,P120,Bedsheet Double King,Home & Kitchen,1,1199,Cash on Delivery,2026-10-02,2026-10-08,2026-10-08,Returned,Shadowfax,TRK893838119
+ORD-50077,C1185,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,UPI,2026-09-08,2026-09-15,2026-09-14,Delivered,Ekart,TRK455665802
+ORD-50078,C1048,P111,Leather Wallet,Fashion,1,699,Wallet,2026-09-21,2026-10-10,,Delayed,Shadowfax,TRK720230209
+ORD-50079,C1210,P106,Noise Cancelling Headphones,Electronics,1,5999,Wallet,2026-10-11,2026-10-16,,Processing,Shadowfax,TRK931726993
+ORD-50080,C1210,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Wallet,2026-10-13,2026-10-17,,Out for Delivery,BlueDart,TRK304853117
+ORD-50081,C1144,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Cash on Delivery,2026-09-14,2026-09-19,2026-09-19,Delivered,Shadowfax,TRK932120169
+ORD-50082,C1175,P108,Cotton Kurta Set,Fashion,1,1299,Net Banking,2026-10-07,2026-10-12,,Cancelled,Ekart,TRK811060614
+ORD-50083,C1059,P103,Power Bank 20000mAh,Electronics,3,3897,Debit Card,2026-09-20,2026-10-10,,Delayed,Shadowfax,TRK480412754
+ORD-50084,C1209,P123,Perfume Oud 100ml,Beauty,1,1799,Debit Card,2026-09-10,2026-09-15,2026-09-13,Delivered,Delhivery,TRK419561201
+ORD-50085,C1117,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Wallet,2026-09-09,2026-09-15,2026-09-14,Delivered,Ekart,TRK409011489
+ORD-50086,C1135,P119,LED Desk Lamp,Home & Kitchen,3,3297,Credit Card,2026-09-16,2026-09-23,2026-09-20,Returned,Ekart,TRK145168545
+ORD-50087,C1058,P101,Smart Fitness Band,Electronics,2,3998,Wallet,2026-10-12,2026-10-19,,Shipped,XpressBees,TRK329766590
+ORD-50088,C1063,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Wallet,2026-09-23,2026-09-29,2026-09-26,Returned,Shadowfax,TRK356927167
+ORD-50089,C1001,P128,Building Blocks 500pcs,Books & Toys,1,1499,Debit Card,2026-09-26,2026-10-01,2026-09-28,Returned,XpressBees,TRK207959268
+ORD-50090,C1050,P129,Office Backpack 30L,Fashion,1,1699,Cash on Delivery,2026-10-14,2026-10-19,,Out for Delivery,XpressBees,TRK798510601
+ORD-50091,C1055,P122,Hair Dryer Compact,Beauty,3,4197,UPI,2026-09-20,2026-09-26,2026-09-22,Delivered,Shadowfax,TRK349344539
+ORD-50092,C1086,P124,Yoga Mat 6mm,Sports,3,2397,Credit Card,2026-10-13,2026-10-20,,Processing,BlueDart,TRK997866344
+ORD-50093,C1166,P115,Air Fryer 4L,Home & Kitchen,3,14997,UPI,2026-09-29,2026-10-05,,Cancelled,Ekart,TRK709844411
+ORD-50094,C1034,P102,Bluetooth Speaker Mini,Electronics,1,1499,Credit Card,2026-09-22,2026-09-29,2026-09-28,Delivered,Shadowfax,TRK602533479
+ORD-50095,C1013,P129,Office Backpack 30L,Fashion,2,3398,Wallet,2026-10-12,2026-10-17,,Shipped,Ekart,TRK871588919
+ORD-50096,C1031,P115,Air Fryer 4L,Home & Kitchen,2,9998,Wallet,2026-09-22,2026-09-27,2026-09-25,Delivered,XpressBees,TRK987973565
+ORD-50097,C1097,P124,Yoga Mat 6mm,Sports,1,799,Credit Card,2026-10-05,2026-10-12,2026-10-07,Delivered,XpressBees,TRK447464644
+ORD-50098,C1222,P106,Noise Cancelling Headphones,Electronics,1,5999,Debit Card,2026-10-12,2026-10-19,,Processing,Ekart,TRK424211872
+ORD-50099,C1037,P129,Office Backpack 30L,Fashion,2,3398,UPI,2026-10-12,2026-10-18,,Processing,BlueDart,TRK599714064
+ORD-50100,C1083,P105,Mechanical Keyboard,Electronics,2,6998,Debit Card,2026-09-08,2026-10-13,,Delayed,Ekart,TRK759949050
+ORD-50101,C1246,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Net Banking,2026-10-11,2026-10-16,,Out for Delivery,Ekart,TRK546510829
+ORD-50102,C1106,P127,Kids Story Book Set,Books & Toys,2,1798,Wallet,2026-09-06,2026-09-11,,Cancelled,Shadowfax,TRK945432844
+ORD-50103,C1153,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Net Banking,2026-09-07,2026-09-13,,Cancelled,BlueDart,TRK166312199
+ORD-50104,C1101,P104,USB-C Fast Charger 33W,Electronics,1,899,Net Banking,2026-09-28,2026-10-03,2026-10-01,Returned,XpressBees,TRK224811770
+ORD-50105,C1117,P108,Cotton Kurta Set,Fashion,3,3897,Cash on Delivery,2026-10-05,2026-10-12,,Cancelled,Delhivery,TRK651095672
+ORD-50106,C1135,P111,Leather Wallet,Fashion,2,1398,Cash on Delivery,2026-10-11,2026-10-17,,Processing,Ekart,TRK976659977
+ORD-50107,C1095,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,UPI,2026-10-06,2026-10-10,2026-10-11,Delivered,Shadowfax,TRK164698991
+ORD-50108,C1154,P122,Hair Dryer Compact,Beauty,1,1399,Credit Card,2026-10-11,2026-10-15,,Shipped,Delhivery,TRK922301213
+ORD-50109,C1016,P126,Cricket Bat Kashmir Willow,Sports,3,4797,Cash on Delivery,2026-09-17,2026-10-10,,Delayed,XpressBees,TRK186167773
+ORD-50110,C1113,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Net Banking,2026-10-02,2026-10-08,2026-10-04,Returned,XpressBees,TRK667840357
+ORD-50111,C1203,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Wallet,2026-10-10,2026-10-14,2026-10-14,Delivered,Shadowfax,TRK555404004
+ORD-50112,C1132,P100,Wireless Earbuds Pro,Electronics,1,2499,Credit Card,2026-09-25,2026-10-02,2026-09-29,Delivered,BlueDart,TRK134593072
+ORD-50113,C1097,P128,Building Blocks 500pcs,Books & Toys,1,1499,Net Banking,2026-10-09,2026-10-12,,Delayed,BlueDart,TRK579362443
+ORD-50114,C1047,P121,Face Serum Vitamin C,Beauty,1,599,Credit Card,2026-10-13,2026-10-17,,Processing,Shadowfax,TRK333291033
+ORD-50115,C1247,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-10-13,2026-10-19,,Processing,Shadowfax,TRK442420233
+ORD-50116,C1145,P124,Yoga Mat 6mm,Sports,3,2397,Net Banking,2026-09-25,2026-10-01,2026-09-28,Delivered,Delhivery,TRK544056890
+ORD-50117,C1186,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,UPI,2026-10-13,2026-10-20,,Processing,Ekart,TRK790755362
+ORD-50118,C1231,P109,Running Shoes Air,Fashion,1,2799,Cash on Delivery,2026-09-20,2026-09-27,2026-09-25,Returned,Delhivery,TRK910048118
+ORD-50119,C1139,P107,Smartwatch Active 2,Electronics,3,13497,UPI,2026-09-26,2026-10-02,2026-09-29,Delivered,Shadowfax,TRK543109075
+ORD-50120,C1215,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Debit Card,2026-10-02,2026-10-09,2026-10-05,Returned,BlueDart,TRK582954920
+ORD-50121,C1134,P109,Running Shoes Air,Fashion,1,2799,Wallet,2026-10-13,2026-10-17,,Shipped,Shadowfax,TRK747382621
+ORD-50122,C1060,P120,Bedsheet Double King,Home & Kitchen,1,1199,Debit Card,2026-10-13,2026-10-18,,Shipped,Ekart,TRK116464447
+ORD-50123,C1150,P121,Face Serum Vitamin C,Beauty,2,1198,Wallet,2026-10-03,2026-10-10,2026-10-06,Delivered,Delhivery,TRK525880424
+ORD-50124,C1049,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Wallet,2026-09-20,2026-09-26,2026-09-25,Returned,Ekart,TRK431165907
+ORD-50125,C1216,P124,Yoga Mat 6mm,Sports,3,2397,Wallet,2026-09-09,2026-09-16,2026-09-11,Returned,XpressBees,TRK917792874
+ORD-50126,C1185,P105,Mechanical Keyboard,Electronics,1,3499,Credit Card,2026-09-17,2026-09-23,2026-09-22,Delivered,Delhivery,TRK117415986
+ORD-50127,C1179,P127,Kids Story Book Set,Books & Toys,1,899,Cash on Delivery,2026-09-22,2026-10-12,,Delayed,Shadowfax,TRK994816400
+ORD-50128,C1088,P124,Yoga Mat 6mm,Sports,3,2397,Wallet,2026-09-19,2026-09-25,2026-09-24,Returned,XpressBees,TRK594811370
+ORD-50129,C1167,P121,Face Serum Vitamin C,Beauty,1,599,Net Banking,2026-09-30,2026-10-05,2026-10-06,Delivered,BlueDart,TRK662581035
+ORD-50130,C1178,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-10-14,2026-10-18,,Shipped,Delhivery,TRK172980019
+ORD-50131,C1082,P121,Face Serum Vitamin C,Beauty,1,599,Net Banking,2026-10-13,2026-10-20,,Processing,Shadowfax,TRK618836510
+ORD-50132,C1075,P108,Cotton Kurta Set,Fashion,1,1299,Net Banking,2026-10-14,2026-10-21,,Processing,Ekart,TRK675244407
+ORD-50133,C1107,P122,Hair Dryer Compact,Beauty,3,4197,Net Banking,2026-09-13,2026-09-18,2026-09-15,Returned,Delhivery,TRK358738317
+ORD-50134,C1128,P108,Cotton Kurta Set,Fashion,2,2598,UPI,2026-09-24,2026-09-30,2026-09-28,Returned,Ekart,TRK535968611
+ORD-50135,C1079,P121,Face Serum Vitamin C,Beauty,2,1198,Wallet,2026-09-26,2026-10-02,2026-09-28,Delivered,BlueDart,TRK200395400
+ORD-50136,C1173,P117,Ceramic Dinner Set,Home & Kitchen,2,5198,Wallet,2026-09-05,2026-10-13,,Delayed,Delhivery,TRK188783547
+ORD-50137,C1081,P111,Leather Wallet,Fashion,1,699,Wallet,2026-09-19,2026-10-13,,Delayed,Shadowfax,TRK610564546
+ORD-50138,C1173,P121,Face Serum Vitamin C,Beauty,1,599,Debit Card,2026-10-12,2026-10-16,,Shipped,BlueDart,TRK322434334
+ORD-50139,C1238,P112,Silk Saree,Fashion,1,3999,Net Banking,2026-10-06,2026-10-12,,Delayed,XpressBees,TRK826960759
+ORD-50140,C1166,P105,Mechanical Keyboard,Electronics,1,3499,Debit Card,2026-09-16,2026-09-21,2026-09-18,Delivered,BlueDart,TRK204889313
+ORD-50141,C1116,P108,Cotton Kurta Set,Fashion,3,3897,Debit Card,2026-10-12,2026-10-19,,Shipped,BlueDart,TRK780884334
+ORD-50142,C1127,P106,Noise Cancelling Headphones,Electronics,1,5999,Cash on Delivery,2026-09-09,2026-09-14,,Cancelled,XpressBees,TRK299434489
+ORD-50143,C1152,P115,Air Fryer 4L,Home & Kitchen,2,9998,UPI,2026-10-05,2026-10-12,,Delayed,Ekart,TRK265593497
+ORD-50144,C1221,P129,Office Backpack 30L,Fashion,1,1699,UPI,2026-10-11,2026-10-17,,Out for Delivery,BlueDart,TRK430999662
+ORD-50145,C1166,P122,Hair Dryer Compact,Beauty,1,1399,Cash on Delivery,2026-10-04,2026-10-09,2026-10-06,Delivered,Shadowfax,TRK695647539
+ORD-50146,C1117,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,UPI,2026-10-14,2026-10-18,,Shipped,Shadowfax,TRK742144634
+ORD-50147,C1008,P123,Perfume Oud 100ml,Beauty,1,1799,UPI,2026-10-10,2026-10-10,,Delayed,Shadowfax,TRK360642799
+ORD-50148,C1133,P123,Perfume Oud 100ml,Beauty,1,1799,Debit Card,2026-10-11,2026-10-16,,Out for Delivery,Ekart,TRK629487801
+ORD-50149,C1114,P122,Hair Dryer Compact,Beauty,1,1399,Cash on Delivery,2026-10-11,2026-10-17,,Out for Delivery,BlueDart,TRK487754927
+ORD-50150,C1222,P122,Hair Dryer Compact,Beauty,1,1399,Debit Card,2026-09-09,2026-09-14,2026-09-14,Delivered,BlueDart,TRK524871030
+ORD-50151,C1185,P110,Denim Jacket,Fashion,1,1899,Wallet,2026-09-19,2026-10-11,,Delayed,Shadowfax,TRK246162540
+ORD-50152,C1217,P111,Leather Wallet,Fashion,3,2097,Debit Card,2026-09-10,2026-09-16,2026-09-13,Delivered,Ekart,TRK889065340
+ORD-50153,C1089,P100,Wireless Earbuds Pro,Electronics,1,2499,Debit Card,2026-09-04,2026-09-09,,Cancelled,XpressBees,TRK491932454
+ORD-50154,C1106,P106,Noise Cancelling Headphones,Electronics,1,5999,Wallet,2026-09-06,2026-09-11,2026-09-12,Delivered,XpressBees,TRK860603328
+ORD-50155,C1195,P107,Smartwatch Active 2,Electronics,1,4499,Debit Card,2026-10-06,2026-10-13,2026-10-11,Delivered,Delhivery,TRK371314895
+ORD-50156,C1185,P113,Sports T-Shirt Pack of 3,Fashion,3,2997,Cash on Delivery,2026-09-16,2026-10-10,,Delayed,Shadowfax,TRK530361198
+ORD-50157,C1172,P122,Hair Dryer Compact,Beauty,2,2798,Net Banking,2026-09-06,2026-10-11,,Delayed,Shadowfax,TRK785240944
+ORD-50158,C1069,P129,Office Backpack 30L,Fashion,1,1699,Net Banking,2026-10-13,2026-10-19,,Shipped,BlueDart,TRK704753177
+ORD-50159,C1214,P129,Office Backpack 30L,Fashion,1,1699,Debit Card,2026-09-19,2026-10-13,,Delayed,Delhivery,TRK648334433
+ORD-50160,C1232,P119,LED Desk Lamp,Home & Kitchen,1,1099,Cash on Delivery,2026-09-04,2026-09-09,2026-09-09,Returned,Shadowfax,TRK841351411
+ORD-50161,C1186,P113,Sports T-Shirt Pack of 3,Fashion,1,999,UPI,2026-10-09,2026-10-16,2026-10-11,Delivered,BlueDart,TRK992620629
+ORD-50162,C1232,P111,Leather Wallet,Fashion,1,699,Credit Card,2026-10-12,2026-10-18,,Out for Delivery,Shadowfax,TRK618537844
+ORD-50163,C1125,P107,Smartwatch Active 2,Electronics,1,4499,Debit Card,2026-10-11,2026-10-18,,Shipped,BlueDart,TRK969930526
+ORD-50164,C1166,P123,Perfume Oud 100ml,Beauty,2,3598,Credit Card,2026-10-12,2026-10-16,,Processing,Delhivery,TRK654044237
+ORD-50165,C1088,P128,Building Blocks 500pcs,Books & Toys,3,4497,Credit Card,2026-10-12,2026-10-19,,Out for Delivery,XpressBees,TRK776199993
+ORD-50166,C1002,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Cash on Delivery,2026-09-15,2026-10-12,,Delayed,XpressBees,TRK104778194
+ORD-50167,C1183,P103,Power Bank 20000mAh,Electronics,1,1299,Net Banking,2026-09-23,2026-09-27,2026-09-29,Delivered,Delhivery,TRK492767278
+ORD-50168,C1148,P110,Denim Jacket,Fashion,2,3798,Cash on Delivery,2026-10-03,2026-10-09,,Cancelled,Shadowfax,TRK786237617
+ORD-50169,C1243,P105,Mechanical Keyboard,Electronics,1,3499,Cash on Delivery,2026-09-15,2026-10-11,,Delayed,Shadowfax,TRK285250002
+ORD-50170,C1010,P123,Perfume Oud 100ml,Beauty,1,1799,Debit Card,2026-10-05,2026-10-10,2026-10-09,Delivered,BlueDart,TRK296542559
+ORD-50171,C1128,P106,Noise Cancelling Headphones,Electronics,1,5999,Net Banking,2026-10-11,2026-10-18,,Out for Delivery,XpressBees,TRK554234434
+ORD-50172,C1015,P102,Bluetooth Speaker Mini,Electronics,1,1499,Credit Card,2026-09-29,2026-10-04,2026-10-04,Returned,Ekart,TRK584258607
+ORD-50173,C1219,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Cash on Delivery,2026-10-10,2026-10-17,2026-10-13,Delivered,Shadowfax,TRK642709938
+ORD-50174,C1182,P105,Mechanical Keyboard,Electronics,1,3499,UPI,2026-09-09,2026-10-10,,Delayed,Shadowfax,TRK133136428
+ORD-50175,C1014,P102,Bluetooth Speaker Mini,Electronics,1,1499,Debit Card,2026-09-22,2026-09-26,2026-09-26,Delivered,Delhivery,TRK938313402
+ORD-50176,C1184,P124,Yoga Mat 6mm,Sports,1,799,Debit Card,2026-09-05,2026-09-09,,Cancelled,Shadowfax,TRK983993176
+ORD-50177,C1002,P122,Hair Dryer Compact,Beauty,3,4197,UPI,2026-10-11,2026-10-16,,Processing,Delhivery,TRK419662531
+ORD-50178,C1009,P122,Hair Dryer Compact,Beauty,3,4197,UPI,2026-09-24,2026-09-30,,Cancelled,XpressBees,TRK226042285
+ORD-50179,C1176,P114,Non-stick Cookware Set,Home & Kitchen,2,4598,Credit Card,2026-09-27,2026-10-03,2026-10-03,Delivered,Shadowfax,TRK249502403
+ORD-50180,C1175,P110,Denim Jacket,Fashion,1,1899,Net Banking,2026-10-07,2026-10-13,2026-10-13,Delivered,Delhivery,TRK447520416
+ORD-50181,C1032,P106,Noise Cancelling Headphones,Electronics,3,17997,Wallet,2026-09-04,2026-09-10,2026-09-10,Delivered,BlueDart,TRK245587477
+ORD-50182,C1092,P112,Silk Saree,Fashion,2,7998,Credit Card,2026-10-07,2026-10-12,,Delayed,Delhivery,TRK257027702
+ORD-50183,C1154,P106,Noise Cancelling Headphones,Electronics,1,5999,Debit Card,2026-09-15,2026-09-22,2026-09-18,Delivered,XpressBees,TRK502838221
+ORD-50184,C1037,P105,Mechanical Keyboard,Electronics,2,6998,Debit Card,2026-10-11,2026-10-17,,Shipped,XpressBees,TRK624033772
+ORD-50185,C1195,P122,Hair Dryer Compact,Beauty,2,2798,Wallet,2026-10-14,2026-10-21,,Processing,Ekart,TRK168000803
+ORD-50186,C1017,P125,Dumbbell Set 10kg,Sports,1,1999,Debit Card,2026-09-27,2026-10-12,,Delayed,Ekart,TRK462661837
+ORD-50187,C1234,P106,Noise Cancelling Headphones,Electronics,3,17997,UPI,2026-10-11,2026-10-17,,Out for Delivery,BlueDart,TRK206917560
+ORD-50188,C1186,P119,LED Desk Lamp,Home & Kitchen,3,3297,Credit Card,2026-10-09,2026-10-13,,Cancelled,XpressBees,TRK590182620
+ORD-50189,C1107,P103,Power Bank 20000mAh,Electronics,3,3897,Debit Card,2026-10-02,2026-10-08,2026-10-05,Delivered,BlueDart,TRK802858478
+ORD-50190,C1037,P105,Mechanical Keyboard,Electronics,1,3499,Wallet,2026-10-12,2026-10-17,,Shipped,Ekart,TRK879524067
+ORD-50191,C1094,P128,Building Blocks 500pcs,Books & Toys,1,1499,Cash on Delivery,2026-09-13,2026-09-17,2026-09-15,Delivered,BlueDart,TRK242485313
+ORD-50192,C1019,P115,Air Fryer 4L,Home & Kitchen,2,9998,UPI,2026-09-12,2026-09-16,2026-09-14,Returned,XpressBees,TRK845210115
+ORD-50193,C1239,P126,Cricket Bat Kashmir Willow,Sports,1,1599,UPI,2026-10-13,2026-10-20,,Shipped,BlueDart,TRK436458586
+ORD-50194,C1215,P102,Bluetooth Speaker Mini,Electronics,2,2998,Wallet,2026-10-02,2026-10-09,2026-10-05,Delivered,Delhivery,TRK173456403
+ORD-50195,C1129,P112,Silk Saree,Fashion,1,3999,Credit Card,2026-10-13,2026-10-20,,Processing,Delhivery,TRK542070132
+ORD-50196,C1027,P112,Silk Saree,Fashion,3,11997,Credit Card,2026-09-27,2026-10-01,,Cancelled,BlueDart,TRK733050169
+ORD-50197,C1048,P101,Smart Fitness Band,Electronics,1,1999,Wallet,2026-09-13,2026-09-19,2026-09-16,Delivered,BlueDart,TRK366467312
+ORD-50198,C1190,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Net Banking,2026-10-09,2026-10-15,2026-10-12,Delivered,Delhivery,TRK902990996
+ORD-50199,C1095,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Credit Card,2026-10-13,2026-10-20,,Processing,XpressBees,TRK785135687
+ORD-50200,C1125,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Net Banking,2026-10-10,2026-10-16,2026-10-14,Returned,XpressBees,TRK492358645
+ORD-50201,C1245,P111,Leather Wallet,Fashion,1,699,UPI,2026-10-11,2026-10-15,,Out for Delivery,BlueDart,TRK381519299
+ORD-50202,C1194,P118,Mixer Grinder 750W,Home & Kitchen,2,6598,Net Banking,2026-10-11,2026-10-17,,Processing,XpressBees,TRK554810443
+ORD-50203,C1134,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,UPI,2026-10-13,2026-10-19,,Shipped,Shadowfax,TRK318181642
+ORD-50204,C1122,P110,Denim Jacket,Fashion,2,3798,Wallet,2026-09-20,2026-09-27,2026-09-26,Returned,BlueDart,TRK433041955
+ORD-50205,C1002,P117,Ceramic Dinner Set,Home & Kitchen,3,7797,UPI,2026-10-07,2026-10-12,2026-10-09,Delivered,XpressBees,TRK757448675
+ORD-50206,C1181,P122,Hair Dryer Compact,Beauty,2,2798,Wallet,2026-09-29,2026-10-03,2026-10-01,Delivered,BlueDart,TRK275913951
+ORD-50207,C1022,P111,Leather Wallet,Fashion,1,699,Wallet,2026-09-07,2026-09-13,2026-09-10,Delivered,Ekart,TRK886983862
+ORD-50208,C1193,P104,USB-C Fast Charger 33W,Electronics,1,899,UPI,2026-10-12,2026-10-19,,Processing,Ekart,TRK864851260
+ORD-50209,C1124,P111,Leather Wallet,Fashion,1,699,UPI,2026-10-11,2026-10-18,,Shipped,XpressBees,TRK708689346
+ORD-50210,C1070,P122,Hair Dryer Compact,Beauty,3,4197,Wallet,2026-10-12,2026-10-16,,Out for Delivery,BlueDart,TRK345247378
+ORD-50211,C1152,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Cash on Delivery,2026-10-14,2026-10-18,,Processing,Ekart,TRK511221078
+ORD-50212,C1139,P127,Kids Story Book Set,Books & Toys,1,899,Credit Card,2026-10-14,2026-10-21,,Out for Delivery,XpressBees,TRK873403266
+ORD-50213,C1077,P108,Cotton Kurta Set,Fashion,1,1299,UPI,2026-10-12,2026-10-16,,Shipped,Delhivery,TRK339643129
+ORD-50214,C1043,P123,Perfume Oud 100ml,Beauty,3,5397,Debit Card,2026-10-11,2026-10-15,,Processing,Ekart,TRK451436694
+ORD-50215,C1124,P103,Power Bank 20000mAh,Electronics,1,1299,Net Banking,2026-10-10,2026-10-16,,Cancelled,Ekart,TRK894113665
+ORD-50216,C1138,P125,Dumbbell Set 10kg,Sports,3,5997,Credit Card,2026-09-17,2026-09-24,,Cancelled,Shadowfax,TRK916561565
+ORD-50217,C1096,P108,Cotton Kurta Set,Fashion,1,1299,Net Banking,2026-10-14,2026-10-21,,Out for Delivery,Ekart,TRK782837348
+ORD-50218,C1113,P128,Building Blocks 500pcs,Books & Toys,2,2998,Cash on Delivery,2026-10-12,2026-10-16,,Processing,Ekart,TRK211614410
+ORD-50219,C1203,P120,Bedsheet Double King,Home & Kitchen,3,3597,Credit Card,2026-09-14,2026-09-21,2026-09-16,Delivered,Ekart,TRK199886596
+ORD-50220,C1103,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Wallet,2026-09-07,2026-09-14,2026-09-11,Delivered,BlueDart,TRK723597716
+ORD-50221,C1044,P101,Smart Fitness Band,Electronics,1,1999,UPI,2026-10-11,2026-10-15,,Out for Delivery,XpressBees,TRK811293744
+ORD-50222,C1186,P108,Cotton Kurta Set,Fashion,2,2598,Wallet,2026-09-24,2026-09-30,2026-09-29,Delivered,Ekart,TRK441511874
+ORD-50223,C1185,P107,Smartwatch Active 2,Electronics,2,8998,Net Banking,2026-10-06,2026-10-11,2026-10-09,Delivered,BlueDart,TRK266870811
+ORD-50224,C1092,P125,Dumbbell Set 10kg,Sports,1,1999,Net Banking,2026-09-11,2026-09-17,,Cancelled,Ekart,TRK927142786
+ORD-50225,C1146,P119,LED Desk Lamp,Home & Kitchen,1,1099,Wallet,2026-09-11,2026-09-17,2026-09-13,Delivered,Ekart,TRK987325945
+ORD-50226,C1024,P120,Bedsheet Double King,Home & Kitchen,1,1199,Wallet,2026-10-13,2026-10-19,,Processing,Delhivery,TRK481975879
+ORD-50227,C1093,P121,Face Serum Vitamin C,Beauty,3,1797,Credit Card,2026-10-12,2026-10-18,,Processing,BlueDart,TRK534212844
+ORD-50228,C1021,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Credit Card,2026-09-05,2026-09-10,2026-09-07,Returned,BlueDart,TRK112838650
+ORD-50229,C1190,P106,Noise Cancelling Headphones,Electronics,1,5999,Wallet,2026-10-02,2026-10-07,2026-10-07,Delivered,BlueDart,TRK725265416
+ORD-50230,C1095,P125,Dumbbell Set 10kg,Sports,1,1999,Wallet,2026-10-14,2026-10-18,,Shipped,XpressBees,TRK968977829
+ORD-50231,C1053,P125,Dumbbell Set 10kg,Sports,1,1999,Net Banking,2026-10-03,2026-10-07,2026-10-08,Delivered,XpressBees,TRK982277976
+ORD-50232,C1200,P104,USB-C Fast Charger 33W,Electronics,2,1798,Credit Card,2026-10-09,2026-10-16,,Cancelled,Ekart,TRK330549659
+ORD-50233,C1220,P128,Building Blocks 500pcs,Books & Toys,1,1499,Net Banking,2026-09-23,2026-09-30,2026-09-26,Delivered,Shadowfax,TRK363909394
+ORD-50234,C1208,P110,Denim Jacket,Fashion,1,1899,Debit Card,2026-09-14,2026-09-21,,Cancelled,XpressBees,TRK247356051
+ORD-50235,C1226,P116,Steel Water Bottle 1L,Home & Kitchen,2,898,Debit Card,2026-09-25,2026-09-29,2026-09-30,Returned,XpressBees,TRK684671539
+ORD-50236,C1034,P122,Hair Dryer Compact,Beauty,1,1399,UPI,2026-09-04,2026-09-10,2026-09-09,Delivered,Ekart,TRK741148802
+ORD-50237,C1112,P129,Office Backpack 30L,Fashion,1,1699,Net Banking,2026-10-07,2026-10-14,2026-10-13,Delivered,Delhivery,TRK271395839
+ORD-50238,C1168,P106,Noise Cancelling Headphones,Electronics,1,5999,Cash on Delivery,2026-09-23,2026-09-27,2026-09-26,Delivered,Ekart,TRK286521875
+ORD-50239,C1087,P108,Cotton Kurta Set,Fashion,3,3897,Net Banking,2026-09-18,2026-09-22,2026-09-22,Delivered,Delhivery,TRK704633564
+ORD-50240,C1112,P115,Air Fryer 4L,Home & Kitchen,1,4999,UPI,2026-09-06,2026-09-12,,Cancelled,BlueDart,TRK160309911
+ORD-50241,C1225,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Net Banking,2026-10-09,2026-10-16,2026-10-11,Delivered,Delhivery,TRK965914172
+ORD-50242,C1023,P123,Perfume Oud 100ml,Beauty,1,1799,Net Banking,2026-10-12,2026-10-16,,Out for Delivery,Delhivery,TRK931469703
+ORD-50243,C1028,P119,LED Desk Lamp,Home & Kitchen,2,2198,Wallet,2026-09-17,2026-09-21,2026-09-21,Returned,XpressBees,TRK729230605
+ORD-50244,C1170,P120,Bedsheet Double King,Home & Kitchen,2,2398,Cash on Delivery,2026-09-20,2026-09-25,2026-09-23,Delivered,XpressBees,TRK797052007
+ORD-50245,C1216,P105,Mechanical Keyboard,Electronics,3,10497,Cash on Delivery,2026-09-18,2026-09-23,2026-09-24,Returned,Ekart,TRK888121101
+ORD-50246,C1098,P125,Dumbbell Set 10kg,Sports,3,5997,Net Banking,2026-10-13,2026-10-17,,Out for Delivery,XpressBees,TRK927672827
+ORD-50247,C1097,P124,Yoga Mat 6mm,Sports,2,1598,UPI,2026-10-12,2026-10-17,,Out for Delivery,XpressBees,TRK251014666
+ORD-50248,C1144,P120,Bedsheet Double King,Home & Kitchen,3,3597,Credit Card,2026-10-13,2026-10-19,,Shipped,BlueDart,TRK982252644
+ORD-50249,C1134,P102,Bluetooth Speaker Mini,Electronics,1,1499,Wallet,2026-09-12,2026-09-16,2026-09-16,Delivered,BlueDart,TRK476326283
+ORD-50250,C1058,P124,Yoga Mat 6mm,Sports,1,799,Wallet,2026-10-14,2026-10-18,,Shipped,XpressBees,TRK278604541
+ORD-50251,C1221,P125,Dumbbell Set 10kg,Sports,1,1999,UPI,2026-09-16,2026-09-22,,Cancelled,XpressBees,TRK946892378
+ORD-50252,C1112,P119,LED Desk Lamp,Home & Kitchen,2,2198,UPI,2026-09-30,2026-10-07,2026-10-02,Delivered,Ekart,TRK121558591
+ORD-50253,C1230,P102,Bluetooth Speaker Mini,Electronics,1,1499,Cash on Delivery,2026-10-14,2026-10-20,,Shipped,Delhivery,TRK885963005
+ORD-50254,C1156,P106,Noise Cancelling Headphones,Electronics,2,11998,Cash on Delivery,2026-10-12,2026-10-19,,Shipped,Delhivery,TRK752102334
+ORD-50255,C1076,P120,Bedsheet Double King,Home & Kitchen,1,1199,Credit Card,2026-10-14,2026-10-18,,Out for Delivery,XpressBees,TRK848609261
+ORD-50256,C1042,P108,Cotton Kurta Set,Fashion,1,1299,UPI,2026-09-24,2026-09-30,2026-09-28,Returned,XpressBees,TRK713933158
+ORD-50257,C1096,P111,Leather Wallet,Fashion,1,699,Cash on Delivery,2026-10-01,2026-10-05,,Cancelled,BlueDart,TRK416270056
+ORD-50258,C1165,P120,Bedsheet Double King,Home & Kitchen,1,1199,Credit Card,2026-09-28,2026-10-02,,Cancelled,Ekart,TRK187978213
+ORD-50259,C1106,P128,Building Blocks 500pcs,Books & Toys,1,1499,Wallet,2026-10-12,2026-10-19,,Shipped,Ekart,TRK197857474
+ORD-50260,C1043,P102,Bluetooth Speaker Mini,Electronics,1,1499,Cash on Delivery,2026-09-29,2026-10-10,,Delayed,BlueDart,TRK382711894
+ORD-50261,C1095,P107,Smartwatch Active 2,Electronics,1,4499,Wallet,2026-09-26,2026-10-02,2026-10-02,Delivered,BlueDart,TRK192027526
+ORD-50262,C1219,P121,Face Serum Vitamin C,Beauty,1,599,Cash on Delivery,2026-09-14,2026-09-19,2026-09-20,Returned,Shadowfax,TRK549502766
+ORD-50263,C1011,P121,Face Serum Vitamin C,Beauty,1,599,UPI,2026-09-04,2026-09-09,,Cancelled,XpressBees,TRK866979905
+ORD-50264,C1177,P100,Wireless Earbuds Pro,Electronics,3,7497,Cash on Delivery,2026-09-04,2026-09-09,2026-09-06,Returned,Delhivery,TRK279491823
+ORD-50265,C1058,P100,Wireless Earbuds Pro,Electronics,1,2499,Wallet,2026-10-02,2026-10-06,2026-10-07,Delivered,XpressBees,TRK316809172
+ORD-50266,C1046,P103,Power Bank 20000mAh,Electronics,3,3897,UPI,2026-10-12,2026-10-18,,Out for Delivery,BlueDart,TRK516718295
+ORD-50267,C1090,P112,Silk Saree,Fashion,1,3999,UPI,2026-09-20,2026-09-26,2026-09-26,Returned,Shadowfax,TRK730905018
+ORD-50268,C1072,P108,Cotton Kurta Set,Fashion,1,1299,Net Banking,2026-10-03,2026-10-12,,Delayed,Shadowfax,TRK914301516
+ORD-50269,C1177,P124,Yoga Mat 6mm,Sports,3,2397,Debit Card,2026-10-14,2026-10-20,,Shipped,XpressBees,TRK383614547
+ORD-50270,C1141,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Debit Card,2026-09-04,2026-09-11,,Cancelled,XpressBees,TRK254460628
+ORD-50271,C1105,P125,Dumbbell Set 10kg,Sports,2,3998,UPI,2026-10-08,2026-10-11,,Delayed,XpressBees,TRK388390253
+ORD-50272,C1036,P110,Denim Jacket,Fashion,1,1899,Cash on Delivery,2026-10-12,2026-10-18,,Processing,BlueDart,TRK344767409
+ORD-50273,C1208,P103,Power Bank 20000mAh,Electronics,2,2598,Net Banking,2026-09-20,2026-09-26,,Cancelled,BlueDart,TRK301794412
+ORD-50274,C1124,P121,Face Serum Vitamin C,Beauty,1,599,Credit Card,2026-09-09,2026-10-13,,Delayed,BlueDart,TRK434065879
+ORD-50275,C1003,P119,LED Desk Lamp,Home & Kitchen,1,1099,Credit Card,2026-10-02,2026-10-12,,Delayed,BlueDart,TRK367888133
+ORD-50276,C1177,P103,Power Bank 20000mAh,Electronics,1,1299,Cash on Delivery,2026-10-12,2026-10-17,,Processing,Shadowfax,TRK526213526
+ORD-50277,C1095,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Net Banking,2026-10-14,2026-10-19,,Shipped,XpressBees,TRK290679038
+ORD-50278,C1122,P109,Running Shoes Air,Fashion,3,8397,Debit Card,2026-09-18,2026-09-24,2026-09-21,Returned,BlueDart,TRK406090918
+ORD-50279,C1009,P103,Power Bank 20000mAh,Electronics,3,3897,Wallet,2026-10-13,2026-10-18,,Processing,Delhivery,TRK827669728
+ORD-50280,C1007,P120,Bedsheet Double King,Home & Kitchen,1,1199,Credit Card,2026-09-08,2026-10-13,,Delayed,Delhivery,TRK745471251
+ORD-50281,C1244,P106,Noise Cancelling Headphones,Electronics,1,5999,Cash on Delivery,2026-09-24,2026-09-30,2026-09-28,Delivered,Ekart,TRK592845370
+ORD-50282,C1239,P113,Sports T-Shirt Pack of 3,Fashion,1,999,UPI,2026-09-21,2026-09-28,,Cancelled,Shadowfax,TRK811198748
+ORD-50283,C1015,P105,Mechanical Keyboard,Electronics,2,6998,Cash on Delivery,2026-09-05,2026-09-11,2026-09-09,Delivered,BlueDart,TRK461081823
+ORD-50284,C1128,P115,Air Fryer 4L,Home & Kitchen,1,4999,Net Banking,2026-09-23,2026-09-29,2026-09-27,Delivered,Delhivery,TRK160961339
+ORD-50285,C1155,P118,Mixer Grinder 750W,Home & Kitchen,2,6598,Debit Card,2026-09-20,2026-10-13,,Delayed,Ekart,TRK549431487
+ORD-50286,C1191,P125,Dumbbell Set 10kg,Sports,2,3998,Credit Card,2026-10-13,2026-10-19,,Processing,Shadowfax,TRK785383997
+ORD-50287,C1161,P121,Face Serum Vitamin C,Beauty,3,1797,Net Banking,2026-09-08,2026-09-14,2026-09-11,Delivered,Delhivery,TRK415448230
+ORD-50288,C1040,P103,Power Bank 20000mAh,Electronics,3,3897,Debit Card,2026-10-12,2026-10-17,,Out for Delivery,BlueDart,TRK338642889
+ORD-50289,C1053,P102,Bluetooth Speaker Mini,Electronics,1,1499,Debit Card,2026-09-14,2026-09-20,2026-09-18,Delivered,XpressBees,TRK226466892
+ORD-50290,C1191,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Wallet,2026-10-11,2026-10-16,,Shipped,XpressBees,TRK668909764
+ORD-50291,C1219,P102,Bluetooth Speaker Mini,Electronics,3,4497,Debit Card,2026-10-13,2026-10-18,,Processing,XpressBees,TRK711392447
+ORD-50292,C1086,P110,Denim Jacket,Fashion,3,5697,Credit Card,2026-10-01,2026-10-07,,Cancelled,BlueDart,TRK623535947
+ORD-50293,C1104,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Debit Card,2026-10-12,2026-10-16,,Out for Delivery,Delhivery,TRK917325063
+ORD-50294,C1050,P115,Air Fryer 4L,Home & Kitchen,1,4999,Cash on Delivery,2026-10-11,2026-10-15,,Out for Delivery,XpressBees,TRK533140455
+ORD-50295,C1072,P107,Smartwatch Active 2,Electronics,2,8998,UPI,2026-10-10,2026-10-12,,Delayed,Ekart,TRK912659064
+ORD-50296,C1056,P123,Perfume Oud 100ml,Beauty,1,1799,Debit Card,2026-10-09,2026-10-13,2026-10-12,Delivered,Ekart,TRK238438399
+ORD-50297,C1246,P104,USB-C Fast Charger 33W,Electronics,3,2697,Debit Card,2026-09-21,2026-09-26,2026-09-23,Returned,Ekart,TRK589547144
+ORD-50298,C1050,P103,Power Bank 20000mAh,Electronics,1,1299,Cash on Delivery,2026-09-19,2026-09-26,2026-09-22,Returned,Ekart,TRK905430477
+ORD-50299,C1072,P127,Kids Story Book Set,Books & Toys,2,1798,Credit Card,2026-10-09,2026-10-12,,Delayed,Delhivery,TRK888208775
+ORD-50300,C1127,P129,Office Backpack 30L,Fashion,2,3398,UPI,2026-09-30,2026-10-04,2026-10-04,Returned,XpressBees,TRK787539531
+ORD-50301,C1013,P114,Non-stick Cookware Set,Home & Kitchen,2,4598,UPI,2026-10-07,2026-10-11,2026-10-09,Returned,BlueDart,TRK840613153
+ORD-50302,C1124,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Cash on Delivery,2026-09-16,2026-09-20,,Cancelled,Delhivery,TRK320648482
+ORD-50303,C1136,P108,Cotton Kurta Set,Fashion,2,2598,Wallet,2026-10-12,2026-10-19,,Processing,Shadowfax,TRK389885759
+ORD-50304,C1082,P102,Bluetooth Speaker Mini,Electronics,1,1499,Net Banking,2026-10-11,2026-10-15,,Out for Delivery,BlueDart,TRK403554082
+ORD-50305,C1165,P123,Perfume Oud 100ml,Beauty,2,3598,Debit Card,2026-10-11,2026-10-16,,Shipped,Shadowfax,TRK316544937
+ORD-50306,C1080,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Credit Card,2026-09-22,2026-10-13,,Delayed,XpressBees,TRK454982932
+ORD-50307,C1058,P129,Office Backpack 30L,Fashion,3,5097,Wallet,2026-10-14,2026-10-18,,Processing,XpressBees,TRK260142678
+ORD-50308,C1211,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Cash on Delivery,2026-10-06,2026-10-10,2026-10-10,Returned,Ekart,TRK383602087
+ORD-50309,C1010,P116,Steel Water Bottle 1L,Home & Kitchen,3,1347,Debit Card,2026-10-13,2026-10-17,,Shipped,Ekart,TRK557408869
+ORD-50310,C1206,P122,Hair Dryer Compact,Beauty,3,4197,Wallet,2026-10-14,2026-10-18,,Shipped,Delhivery,TRK452896879
+ORD-50311,C1014,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Debit Card,2026-09-23,2026-09-27,,Cancelled,Delhivery,TRK222226183
+ORD-50312,C1156,P106,Noise Cancelling Headphones,Electronics,2,11998,Cash on Delivery,2026-09-23,2026-09-30,,Cancelled,XpressBees,TRK796693603
+ORD-50313,C1043,P121,Face Serum Vitamin C,Beauty,2,1198,UPI,2026-10-14,2026-10-19,,Out for Delivery,Delhivery,TRK211361103
+ORD-50314,C1121,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Cash on Delivery,2026-09-04,2026-09-11,,Cancelled,Ekart,TRK756441105
+ORD-50315,C1201,P129,Office Backpack 30L,Fashion,1,1699,Cash on Delivery,2026-10-11,2026-10-18,,Out for Delivery,XpressBees,TRK149362414
+ORD-50316,C1035,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Wallet,2026-10-10,2026-10-15,2026-10-14,Delivered,Shadowfax,TRK202265468
+ORD-50317,C1196,P127,Kids Story Book Set,Books & Toys,1,899,Net Banking,2026-09-10,2026-09-16,2026-09-15,Delivered,Shadowfax,TRK158589922
+ORD-50318,C1239,P116,Steel Water Bottle 1L,Home & Kitchen,3,1347,UPI,2026-10-11,2026-10-18,,Out for Delivery,XpressBees,TRK444277942
+ORD-50319,C1214,P101,Smart Fitness Band,Electronics,2,3998,Cash on Delivery,2026-10-07,2026-10-12,2026-10-13,Delivered,Delhivery,TRK184643708
+ORD-50320,C1117,P127,Kids Story Book Set,Books & Toys,1,899,UPI,2026-10-05,2026-10-12,,Cancelled,XpressBees,TRK900194244
+ORD-50321,C1227,P103,Power Bank 20000mAh,Electronics,1,1299,Net Banking,2026-10-11,2026-10-18,,Shipped,BlueDart,TRK986812783
+ORD-50322,C1101,P109,Running Shoes Air,Fashion,3,8397,Debit Card,2026-09-08,2026-09-13,2026-09-13,Delivered,BlueDart,TRK976805431
+ORD-50323,C1122,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Debit Card,2026-09-19,2026-09-26,,Cancelled,XpressBees,TRK222431652
+ORD-50324,C1120,P104,USB-C Fast Charger 33W,Electronics,3,2697,Debit Card,2026-10-10,2026-10-16,2026-10-14,Delivered,Shadowfax,TRK660477218
+ORD-50325,C1031,P124,Yoga Mat 6mm,Sports,1,799,Wallet,2026-10-14,2026-10-19,,Shipped,XpressBees,TRK214849044
+ORD-50326,C1161,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Credit Card,2026-09-28,2026-10-02,2026-10-03,Delivered,Ekart,TRK215712585
+ORD-50327,C1152,P128,Building Blocks 500pcs,Books & Toys,1,1499,Net Banking,2026-10-14,2026-10-21,,Processing,Shadowfax,TRK244564312
+ORD-50328,C1181,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Net Banking,2026-10-07,2026-10-14,2026-10-13,Returned,Delhivery,TRK842833609
+ORD-50329,C1128,P124,Yoga Mat 6mm,Sports,2,1598,Net Banking,2026-10-14,2026-10-21,,Out for Delivery,Ekart,TRK641284117
+ORD-50330,C1000,P117,Ceramic Dinner Set,Home & Kitchen,3,7797,Debit Card,2026-09-25,2026-10-10,,Delayed,XpressBees,TRK964144020
+ORD-50331,C1116,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Net Banking,2026-09-08,2026-10-11,,Delayed,Delhivery,TRK315703009
+ORD-50332,C1150,P102,Bluetooth Speaker Mini,Electronics,1,1499,Wallet,2026-09-18,2026-09-23,2026-09-21,Delivered,Ekart,TRK862735437
+ORD-50333,C1129,P123,Perfume Oud 100ml,Beauty,1,1799,Wallet,2026-09-05,2026-09-12,2026-09-11,Delivered,XpressBees,TRK823963430
+ORD-50334,C1177,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,UPI,2026-09-22,2026-09-29,2026-09-24,Returned,XpressBees,TRK256043375
+ORD-50335,C1116,P121,Face Serum Vitamin C,Beauty,2,1198,Credit Card,2026-10-13,2026-10-19,,Processing,Ekart,TRK833784779
+ORD-50336,C1001,P123,Perfume Oud 100ml,Beauty,2,3598,UPI,2026-10-12,2026-10-17,,Processing,Ekart,TRK974053994
+ORD-50337,C1239,P109,Running Shoes Air,Fashion,1,2799,Wallet,2026-09-26,2026-10-03,2026-09-29,Returned,Ekart,TRK844034445
+ORD-50338,C1137,P126,Cricket Bat Kashmir Willow,Sports,3,4797,UPI,2026-09-16,2026-10-11,,Delayed,BlueDart,TRK898509546
+ORD-50339,C1103,P101,Smart Fitness Band,Electronics,2,3998,Net Banking,2026-09-26,2026-10-02,,Cancelled,Shadowfax,TRK310957071
+ORD-50340,C1200,P107,Smartwatch Active 2,Electronics,3,13497,UPI,2026-09-22,2026-09-29,2026-09-25,Delivered,Delhivery,TRK286611097
+ORD-50341,C1053,P100,Wireless Earbuds Pro,Electronics,1,2499,Net Banking,2026-10-11,2026-10-15,,Shipped,Ekart,TRK239657875
+ORD-50342,C1206,P125,Dumbbell Set 10kg,Sports,2,3998,Credit Card,2026-10-10,2026-10-16,2026-10-14,Delivered,BlueDart,TRK265037749
+ORD-50343,C1074,P100,Wireless Earbuds Pro,Electronics,2,4998,Net Banking,2026-10-12,2026-10-19,,Processing,Ekart,TRK178255153
+ORD-50344,C1160,P125,Dumbbell Set 10kg,Sports,1,1999,Net Banking,2026-09-07,2026-09-12,2026-09-10,Delivered,Delhivery,TRK546602768
+ORD-50345,C1201,P123,Perfume Oud 100ml,Beauty,3,5397,Wallet,2026-10-05,2026-10-12,,Delayed,Ekart,TRK455479984
+ORD-50346,C1023,P121,Face Serum Vitamin C,Beauty,3,1797,Wallet,2026-09-07,2026-09-14,2026-09-13,Delivered,BlueDart,TRK223181755
+ORD-50347,C1032,P106,Noise Cancelling Headphones,Electronics,3,17997,Wallet,2026-09-25,2026-09-30,,Cancelled,Ekart,TRK509495719
+ORD-50348,C1239,P102,Bluetooth Speaker Mini,Electronics,1,1499,Debit Card,2026-10-11,2026-10-17,,Shipped,BlueDart,TRK654982592
+ORD-50349,C1201,P109,Running Shoes Air,Fashion,1,2799,Wallet,2026-09-08,2026-09-15,2026-09-13,Delivered,Delhivery,TRK443933202
+ORD-50350,C1066,P119,LED Desk Lamp,Home & Kitchen,2,2198,Credit Card,2026-10-13,2026-10-17,,Shipped,Delhivery,TRK835948208
+ORD-50351,C1187,P114,Non-stick Cookware Set,Home & Kitchen,2,4598,UPI,2026-10-13,2026-10-20,,Shipped,Delhivery,TRK125504528
+ORD-50352,C1107,P108,Cotton Kurta Set,Fashion,1,1299,Debit Card,2026-10-08,2026-10-12,2026-10-10,Delivered,Shadowfax,TRK175636616
+ORD-50353,C1126,P103,Power Bank 20000mAh,Electronics,1,1299,Cash on Delivery,2026-09-24,2026-10-01,2026-09-29,Delivered,XpressBees,TRK439736473
+ORD-50354,C1081,P127,Kids Story Book Set,Books & Toys,2,1798,Net Banking,2026-10-14,2026-10-18,,Shipped,BlueDart,TRK852566344
+ORD-50355,C1246,P105,Mechanical Keyboard,Electronics,2,6998,Debit Card,2026-09-08,2026-09-12,2026-09-12,Delivered,Shadowfax,TRK192884274
+ORD-50356,C1126,P126,Cricket Bat Kashmir Willow,Sports,3,4797,UPI,2026-09-16,2026-09-23,,Cancelled,XpressBees,TRK267851051
+ORD-50357,C1051,P114,Non-stick Cookware Set,Home & Kitchen,3,6897,Credit Card,2026-10-11,2026-10-17,,Out for Delivery,Ekart,TRK827233573
+ORD-50358,C1108,P106,Noise Cancelling Headphones,Electronics,1,5999,Net Banking,2026-10-10,2026-10-15,2026-10-12,Delivered,Shadowfax,TRK523142000
+ORD-50359,C1207,P128,Building Blocks 500pcs,Books & Toys,2,2998,Wallet,2026-10-12,2026-10-17,,Shipped,Ekart,TRK327350811
+ORD-50360,C1162,P103,Power Bank 20000mAh,Electronics,1,1299,Debit Card,2026-10-01,2026-10-06,2026-10-04,Returned,Delhivery,TRK223075021
+ORD-50361,C1179,P100,Wireless Earbuds Pro,Electronics,1,2499,UPI,2026-10-11,2026-10-15,,Processing,Ekart,TRK205444031
+ORD-50362,C1007,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-09-19,2026-09-25,,Cancelled,Delhivery,TRK207422565
+ORD-50363,C1189,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Debit Card,2026-10-13,2026-10-19,,Shipped,Shadowfax,TRK808049250
+ORD-50364,C1034,P120,Bedsheet Double King,Home & Kitchen,3,3597,Credit Card,2026-10-12,2026-10-18,,Out for Delivery,BlueDart,TRK436311814
+ORD-50365,C1076,P108,Cotton Kurta Set,Fashion,1,1299,Wallet,2026-09-13,2026-09-19,2026-09-17,Delivered,Ekart,TRK615346649
+ORD-50366,C1204,P104,USB-C Fast Charger 33W,Electronics,1,899,Wallet,2026-09-21,2026-09-28,2026-09-27,Delivered,Shadowfax,TRK188018583
+ORD-50367,C1148,P109,Running Shoes Air,Fashion,2,5598,Wallet,2026-10-13,2026-10-19,,Out for Delivery,BlueDart,TRK881067043
+ORD-50368,C1131,P128,Building Blocks 500pcs,Books & Toys,2,2998,Credit Card,2026-10-14,2026-10-21,,Processing,BlueDart,TRK692269551
+ORD-50369,C1055,P121,Face Serum Vitamin C,Beauty,1,599,Net Banking,2026-09-10,2026-09-15,2026-09-14,Returned,Ekart,TRK243753906
+ORD-50370,C1005,P108,Cotton Kurta Set,Fashion,1,1299,Wallet,2026-10-05,2026-10-12,2026-10-09,Returned,Delhivery,TRK966015789
+ORD-50371,C1129,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Net Banking,2026-10-13,2026-10-20,,Out for Delivery,Shadowfax,TRK808039640
+ORD-50372,C1005,P115,Air Fryer 4L,Home & Kitchen,1,4999,Cash on Delivery,2026-09-18,2026-09-22,,Cancelled,Delhivery,TRK167496657
+ORD-50373,C1215,P102,Bluetooth Speaker Mini,Electronics,3,4497,Debit Card,2026-10-08,2026-10-13,2026-10-14,Delivered,XpressBees,TRK604308858
+ORD-50374,C1151,P106,Noise Cancelling Headphones,Electronics,1,5999,Net Banking,2026-10-14,2026-10-20,,Processing,Ekart,TRK996437267
+ORD-50375,C1119,P105,Mechanical Keyboard,Electronics,2,6998,Debit Card,2026-09-04,2026-09-09,2026-09-09,Returned,Shadowfax,TRK801514770
+ORD-50376,C1071,P103,Power Bank 20000mAh,Electronics,3,3897,Credit Card,2026-10-12,2026-10-19,,Shipped,Shadowfax,TRK535769745
+ORD-50377,C1027,P105,Mechanical Keyboard,Electronics,1,3499,Credit Card,2026-09-09,2026-09-16,2026-09-15,Delivered,XpressBees,TRK277817899
+ORD-50378,C1066,P122,Hair Dryer Compact,Beauty,1,1399,Debit Card,2026-09-23,2026-09-28,2026-09-26,Returned,Shadowfax,TRK870197919
+ORD-50379,C1060,P122,Hair Dryer Compact,Beauty,1,1399,Cash on Delivery,2026-09-14,2026-09-20,2026-09-16,Delivered,XpressBees,TRK326241647
+ORD-50380,C1236,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Net Banking,2026-10-09,2026-10-13,,Delayed,Delhivery,TRK244658840
+ORD-50381,C1056,P123,Perfume Oud 100ml,Beauty,1,1799,Credit Card,2026-10-13,2026-10-17,,Processing,Shadowfax,TRK535355406
+ORD-50382,C1161,P100,Wireless Earbuds Pro,Electronics,1,2499,Net Banking,2026-10-12,2026-10-16,,Processing,XpressBees,TRK617187507
+ORD-50383,C1156,P124,Yoga Mat 6mm,Sports,1,799,Wallet,2026-10-01,2026-10-11,,Delayed,Ekart,TRK586909856
+ORD-50384,C1236,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,UPI,2026-10-13,2026-10-20,,Shipped,BlueDart,TRK317270101
+ORD-50385,C1131,P115,Air Fryer 4L,Home & Kitchen,1,4999,Cash on Delivery,2026-09-14,2026-09-19,2026-09-20,Returned,Shadowfax,TRK744045166
+ORD-50386,C1124,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Credit Card,2026-09-08,2026-09-12,2026-09-10,Returned,Shadowfax,TRK679053918
+ORD-50387,C1152,P129,Office Backpack 30L,Fashion,3,5097,Wallet,2026-09-07,2026-10-11,,Delayed,Shadowfax,TRK560588284
+ORD-50388,C1236,P129,Office Backpack 30L,Fashion,1,1699,Wallet,2026-09-16,2026-09-22,,Cancelled,Shadowfax,TRK204922732
+ORD-50389,C1176,P101,Smart Fitness Band,Electronics,1,1999,Net Banking,2026-09-10,2026-09-15,2026-09-12,Delivered,XpressBees,TRK376815988
+ORD-50390,C1201,P104,USB-C Fast Charger 33W,Electronics,1,899,Credit Card,2026-10-14,2026-10-18,,Processing,Ekart,TRK538994061
+ORD-50391,C1139,P111,Leather Wallet,Fashion,1,699,Net Banking,2026-10-11,2026-10-17,,Out for Delivery,XpressBees,TRK706310053
+ORD-50392,C1112,P122,Hair Dryer Compact,Beauty,1,1399,Net Banking,2026-09-15,2026-09-20,2026-09-20,Delivered,XpressBees,TRK291898710
+ORD-50393,C1012,P104,USB-C Fast Charger 33W,Electronics,1,899,Wallet,2026-09-10,2026-09-16,2026-09-14,Returned,XpressBees,TRK890040374
+ORD-50394,C1035,P120,Bedsheet Double King,Home & Kitchen,2,2398,Credit Card,2026-10-13,2026-10-20,,Shipped,BlueDart,TRK330272673
+ORD-50395,C1136,P102,Bluetooth Speaker Mini,Electronics,1,1499,Wallet,2026-09-05,2026-09-09,2026-09-08,Delivered,BlueDart,TRK963685029
+ORD-50396,C1226,P127,Kids Story Book Set,Books & Toys,1,899,Debit Card,2026-10-11,2026-10-18,,Out for Delivery,Delhivery,TRK498181191
+ORD-50397,C1081,P105,Mechanical Keyboard,Electronics,2,6998,Net Banking,2026-10-11,2026-10-18,,Processing,Ekart,TRK864080940
+ORD-50398,C1024,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Wallet,2026-10-11,2026-10-18,,Out for Delivery,Shadowfax,TRK407097155
+ORD-50399,C1042,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,UPI,2026-09-07,2026-09-12,2026-09-13,Returned,Ekart,TRK356899846
+ORD-50400,C1110,P118,Mixer Grinder 750W,Home & Kitchen,2,6598,Debit Card,2026-10-14,2026-10-20,,Out for Delivery,XpressBees,TRK535349662
+ORD-50401,C1127,P115,Air Fryer 4L,Home & Kitchen,1,4999,Wallet,2026-10-10,2026-10-14,2026-10-12,Returned,Shadowfax,TRK725918919
+ORD-50402,C1045,P121,Face Serum Vitamin C,Beauty,3,1797,Net Banking,2026-09-26,2026-10-01,2026-10-01,Delivered,BlueDart,TRK380362052
+ORD-50403,C1058,P124,Yoga Mat 6mm,Sports,1,799,UPI,2026-10-04,2026-10-08,2026-10-10,Returned,Shadowfax,TRK376696166
+ORD-50404,C1206,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Credit Card,2026-09-12,2026-09-19,2026-09-18,Delivered,Ekart,TRK932792876
+ORD-50405,C1012,P112,Silk Saree,Fashion,1,3999,UPI,2026-10-09,2026-10-16,,Cancelled,XpressBees,TRK780389168
+ORD-50406,C1164,P104,USB-C Fast Charger 33W,Electronics,1,899,UPI,2026-09-20,2026-09-27,2026-09-24,Delivered,Ekart,TRK366564581
+ORD-50407,C1215,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Debit Card,2026-09-19,2026-10-12,,Delayed,Delhivery,TRK716019237
+ORD-50408,C1234,P101,Smart Fitness Band,Electronics,2,3998,Debit Card,2026-09-09,2026-09-14,2026-09-12,Delivered,Delhivery,TRK346109712
+ORD-50409,C1014,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,UPI,2026-09-18,2026-09-23,2026-09-20,Delivered,XpressBees,TRK759091699
+ORD-50410,C1191,P110,Denim Jacket,Fashion,2,3798,Cash on Delivery,2026-10-08,2026-10-15,2026-10-12,Returned,Shadowfax,TRK394992351
+ORD-50411,C1236,P126,Cricket Bat Kashmir Willow,Sports,2,3198,Credit Card,2026-09-23,2026-09-30,2026-09-26,Returned,BlueDart,TRK664504128
+ORD-50412,C1031,P124,Yoga Mat 6mm,Sports,1,799,Cash on Delivery,2026-09-06,2026-09-10,,Cancelled,Delhivery,TRK590910502
+ORD-50413,C1063,P102,Bluetooth Speaker Mini,Electronics,1,1499,Credit Card,2026-09-11,2026-09-17,2026-09-13,Returned,XpressBees,TRK723852830
+ORD-50414,C1085,P121,Face Serum Vitamin C,Beauty,1,599,Debit Card,2026-09-24,2026-09-29,2026-09-30,Delivered,XpressBees,TRK758293983
+ORD-50415,C1074,P125,Dumbbell Set 10kg,Sports,1,1999,Wallet,2026-10-11,2026-10-18,,Out for Delivery,Ekart,TRK491999503
+ORD-50416,C1002,P107,Smartwatch Active 2,Electronics,1,4499,Net Banking,2026-09-12,2026-09-17,2026-09-18,Delivered,Delhivery,TRK974230575
+ORD-50417,C1103,P120,Bedsheet Double King,Home & Kitchen,1,1199,Wallet,2026-09-25,2026-10-02,2026-09-30,Delivered,Delhivery,TRK607865951
+ORD-50418,C1018,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Wallet,2026-10-11,2026-10-18,,Out for Delivery,Shadowfax,TRK673359435
+ORD-50419,C1092,P123,Perfume Oud 100ml,Beauty,1,1799,Net Banking,2026-09-21,2026-09-27,,Cancelled,BlueDart,TRK527780790
+ORD-50420,C1158,P119,LED Desk Lamp,Home & Kitchen,3,3297,Cash on Delivery,2026-10-14,2026-10-19,,Out for Delivery,BlueDart,TRK583027931
+ORD-50421,C1035,P119,LED Desk Lamp,Home & Kitchen,1,1099,Debit Card,2026-09-17,2026-09-23,2026-09-23,Delivered,Ekart,TRK121298026
+ORD-50422,C1137,P100,Wireless Earbuds Pro,Electronics,1,2499,Wallet,2026-09-28,2026-10-03,2026-10-02,Delivered,Shadowfax,TRK623442423
+ORD-50423,C1238,P129,Office Backpack 30L,Fashion,2,3398,Cash on Delivery,2026-10-05,2026-10-12,,Cancelled,Delhivery,TRK279932861
+ORD-50424,C1044,P106,Noise Cancelling Headphones,Electronics,1,5999,Debit Card,2026-09-14,2026-09-21,2026-09-16,Delivered,Delhivery,TRK436598800
+ORD-50425,C1039,P116,Steel Water Bottle 1L,Home & Kitchen,3,1347,Debit Card,2026-09-23,2026-09-30,2026-09-27,Delivered,Shadowfax,TRK659350437
+ORD-50426,C1143,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Credit Card,2026-10-13,2026-10-17,,Out for Delivery,Ekart,TRK898730065
+ORD-50427,C1064,P110,Denim Jacket,Fashion,1,1899,UPI,2026-10-13,2026-10-18,,Shipped,BlueDart,TRK608079376
+ORD-50428,C1090,P119,LED Desk Lamp,Home & Kitchen,1,1099,Net Banking,2026-10-11,2026-10-15,,Processing,Delhivery,TRK190528528
+ORD-50429,C1119,P116,Steel Water Bottle 1L,Home & Kitchen,2,898,Cash on Delivery,2026-09-21,2026-10-12,,Delayed,Delhivery,TRK240957723
+ORD-50430,C1147,P119,LED Desk Lamp,Home & Kitchen,2,2198,Debit Card,2026-10-14,2026-10-18,,Out for Delivery,XpressBees,TRK601645174
+ORD-50431,C1122,P126,Cricket Bat Kashmir Willow,Sports,3,4797,Wallet,2026-09-05,2026-09-12,2026-09-08,Delivered,Shadowfax,TRK290091645
+ORD-50432,C1172,P111,Leather Wallet,Fashion,1,699,Wallet,2026-09-04,2026-09-11,,Cancelled,Shadowfax,TRK432496317
+ORD-50433,C1037,P113,Sports T-Shirt Pack of 3,Fashion,3,2997,Cash on Delivery,2026-09-06,2026-09-11,,Cancelled,Ekart,TRK492756851
+ORD-50434,C1119,P124,Yoga Mat 6mm,Sports,1,799,Credit Card,2026-10-12,2026-10-16,,Out for Delivery,Ekart,TRK407908620
+ORD-50435,C1243,P120,Bedsheet Double King,Home & Kitchen,1,1199,Cash on Delivery,2026-10-11,2026-10-18,,Processing,Ekart,TRK741027901
+ORD-50436,C1049,P124,Yoga Mat 6mm,Sports,1,799,Net Banking,2026-10-12,2026-10-17,,Processing,XpressBees,TRK523861817
+ORD-50437,C1132,P104,USB-C Fast Charger 33W,Electronics,1,899,Wallet,2026-09-16,2026-10-11,,Delayed,Delhivery,TRK654705830
+ORD-50438,C1170,P125,Dumbbell Set 10kg,Sports,1,1999,UPI,2026-09-22,2026-09-28,2026-09-27,Delivered,Delhivery,TRK246698943
+ORD-50439,C1064,P106,Noise Cancelling Headphones,Electronics,2,11998,Cash on Delivery,2026-09-12,2026-09-18,,Cancelled,Delhivery,TRK444288576
+ORD-50440,C1239,P103,Power Bank 20000mAh,Electronics,3,3897,Debit Card,2026-10-14,2026-10-19,,Processing,Ekart,TRK234259822
+ORD-50441,C1019,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Cash on Delivery,2026-10-13,2026-10-17,,Processing,Delhivery,TRK467126134
+ORD-50442,C1240,P126,Cricket Bat Kashmir Willow,Sports,2,3198,UPI,2026-09-17,2026-09-24,,Cancelled,Ekart,TRK186138889
+ORD-50443,C1224,P124,Yoga Mat 6mm,Sports,2,1598,UPI,2026-10-14,2026-10-20,,Out for Delivery,Shadowfax,TRK604816257
+ORD-50444,C1236,P106,Noise Cancelling Headphones,Electronics,3,17997,Wallet,2026-09-16,2026-09-20,2026-09-18,Delivered,Delhivery,TRK513173592
+ORD-50445,C1206,P124,Yoga Mat 6mm,Sports,2,1598,UPI,2026-10-08,2026-10-13,2026-10-13,Delivered,Shadowfax,TRK815120513
+ORD-50446,C1181,P125,Dumbbell Set 10kg,Sports,2,3998,UPI,2026-09-21,2026-10-12,,Delayed,Shadowfax,TRK659340310
+ORD-50447,C1081,P112,Silk Saree,Fashion,1,3999,UPI,2026-09-21,2026-09-26,,Cancelled,Delhivery,TRK221256011
+ORD-50448,C1119,P111,Leather Wallet,Fashion,2,1398,Net Banking,2026-09-20,2026-10-12,,Delayed,BlueDart,TRK524995927
+ORD-50449,C1016,P109,Running Shoes Air,Fashion,2,5598,Credit Card,2026-10-14,2026-10-21,,Processing,Ekart,TRK927636977
+ORD-50450,C1097,P109,Running Shoes Air,Fashion,2,5598,Debit Card,2026-10-11,2026-10-15,,Out for Delivery,BlueDart,TRK164183056
+ORD-50451,C1125,P105,Mechanical Keyboard,Electronics,1,3499,Debit Card,2026-10-14,2026-10-19,,Out for Delivery,Shadowfax,TRK946711815
+ORD-50452,C1030,P116,Steel Water Bottle 1L,Home & Kitchen,2,898,Debit Card,2026-09-12,2026-09-17,2026-09-14,Delivered,Delhivery,TRK369183038
+ORD-50453,C1039,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,Cash on Delivery,2026-09-12,2026-09-18,,Cancelled,Delhivery,TRK708491359
+ORD-50454,C1057,P117,Ceramic Dinner Set,Home & Kitchen,3,7797,Net Banking,2026-09-20,2026-09-27,2026-09-24,Delivered,Shadowfax,TRK272167429
+ORD-50455,C1221,P123,Perfume Oud 100ml,Beauty,3,5397,Net Banking,2026-10-11,2026-10-17,,Out for Delivery,Ekart,TRK587563596
+ORD-50456,C1045,P117,Ceramic Dinner Set,Home & Kitchen,2,5198,Debit Card,2026-09-16,2026-09-21,2026-09-18,Returned,Shadowfax,TRK356395115
+ORD-50457,C1128,P109,Running Shoes Air,Fashion,1,2799,Cash on Delivery,2026-10-11,2026-10-16,,Shipped,Shadowfax,TRK265497448
+ORD-50458,C1028,P110,Denim Jacket,Fashion,1,1899,Wallet,2026-09-14,2026-09-20,2026-09-16,Delivered,BlueDart,TRK147005473
+ORD-50459,C1083,P103,Power Bank 20000mAh,Electronics,1,1299,Cash on Delivery,2026-10-13,2026-10-17,,Out for Delivery,Delhivery,TRK206035856
+ORD-50460,C1081,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,Net Banking,2026-09-09,2026-10-13,,Delayed,BlueDart,TRK114051099
+ORD-50461,C1161,P121,Face Serum Vitamin C,Beauty,3,1797,UPI,2026-09-09,2026-09-13,2026-09-14,Delivered,Ekart,TRK699169292
+ORD-50462,C1117,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-09-17,2026-10-11,,Delayed,BlueDart,TRK995990847
+ORD-50463,C1184,P115,Air Fryer 4L,Home & Kitchen,2,9998,Net Banking,2026-09-07,2026-09-11,2026-09-09,Delivered,XpressBees,TRK303431575
+ORD-50464,C1233,P129,Office Backpack 30L,Fashion,2,3398,Cash on Delivery,2026-09-04,2026-09-09,2026-09-10,Delivered,BlueDart,TRK922790554
+ORD-50465,C1136,P111,Leather Wallet,Fashion,1,699,Credit Card,2026-09-11,2026-09-18,2026-09-13,Delivered,Shadowfax,TRK531168733
+ORD-50466,C1095,P123,Perfume Oud 100ml,Beauty,3,5397,Net Banking,2026-10-11,2026-10-17,,Out for Delivery,Ekart,TRK499130788
+ORD-50467,C1180,P123,Perfume Oud 100ml,Beauty,1,1799,Net Banking,2026-09-20,2026-10-12,,Delayed,Ekart,TRK486556226
+ORD-50468,C1105,P128,Building Blocks 500pcs,Books & Toys,1,1499,Net Banking,2026-10-10,2026-10-11,,Delayed,Delhivery,TRK424100009
+ORD-50469,C1036,P103,Power Bank 20000mAh,Electronics,2,2598,Wallet,2026-09-27,2026-10-03,2026-09-29,Delivered,Ekart,TRK694491286
+ORD-50470,C1184,P122,Hair Dryer Compact,Beauty,1,1399,Credit Card,2026-10-14,2026-10-18,,Out for Delivery,Delhivery,TRK384528891
+ORD-50471,C1214,P106,Noise Cancelling Headphones,Electronics,1,5999,Cash on Delivery,2026-09-26,2026-10-02,2026-09-30,Delivered,Shadowfax,TRK333471497
+ORD-50472,C1178,P107,Smartwatch Active 2,Electronics,3,13497,Wallet,2026-09-10,2026-09-15,2026-09-15,Delivered,Shadowfax,TRK979947812
+ORD-50473,C1161,P128,Building Blocks 500pcs,Books & Toys,2,2998,Debit Card,2026-10-08,2026-10-15,2026-10-10,Delivered,Ekart,TRK977399222
+ORD-50474,C1098,P123,Perfume Oud 100ml,Beauty,2,3598,Wallet,2026-10-13,2026-10-17,,Shipped,XpressBees,TRK158119446
+ORD-50475,C1132,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Wallet,2026-10-12,2026-10-17,,Processing,Delhivery,TRK264494545
+ORD-50476,C1187,P106,Noise Cancelling Headphones,Electronics,1,5999,Cash on Delivery,2026-09-12,2026-10-12,,Delayed,Delhivery,TRK241936908
+ORD-50477,C1165,P103,Power Bank 20000mAh,Electronics,1,1299,Debit Card,2026-09-04,2026-09-08,,Cancelled,BlueDart,TRK527915151
+ORD-50478,C1202,P129,Office Backpack 30L,Fashion,1,1699,Cash on Delivery,2026-10-13,2026-10-20,,Out for Delivery,XpressBees,TRK800346424
+ORD-50479,C1055,P120,Bedsheet Double King,Home & Kitchen,1,1199,Cash on Delivery,2026-09-07,2026-09-12,2026-09-10,Returned,Ekart,TRK835231799
+ORD-50480,C1037,P111,Leather Wallet,Fashion,1,699,Debit Card,2026-10-14,2026-10-21,,Shipped,Delhivery,TRK444390192
+ORD-50481,C1110,P119,LED Desk Lamp,Home & Kitchen,3,3297,Net Banking,2026-10-12,2026-10-17,,Processing,XpressBees,TRK769136744
+ORD-50482,C1149,P125,Dumbbell Set 10kg,Sports,2,3998,Credit Card,2026-10-13,2026-10-18,,Processing,BlueDart,TRK220658235
+ORD-50483,C1029,P121,Face Serum Vitamin C,Beauty,1,599,UPI,2026-10-01,2026-10-07,2026-10-03,Delivered,Ekart,TRK583249931
+ORD-50484,C1167,P120,Bedsheet Double King,Home & Kitchen,1,1199,Debit Card,2026-09-27,2026-10-02,2026-09-30,Delivered,Shadowfax,TRK618645569
+ORD-50485,C1143,P124,Yoga Mat 6mm,Sports,1,799,Wallet,2026-10-14,2026-10-21,,Out for Delivery,Shadowfax,TRK146688450
+ORD-50486,C1204,P106,Noise Cancelling Headphones,Electronics,2,11998,Net Banking,2026-10-12,2026-10-17,,Processing,Ekart,TRK156999852
+ORD-50487,C1148,P100,Wireless Earbuds Pro,Electronics,2,4998,Wallet,2026-10-14,2026-10-21,,Processing,Ekart,TRK215847550
+ORD-50488,C1161,P127,Kids Story Book Set,Books & Toys,3,2697,Cash on Delivery,2026-09-26,2026-10-13,,Delayed,Shadowfax,TRK670758903
+ORD-50489,C1138,P122,Hair Dryer Compact,Beauty,3,4197,UPI,2026-09-08,2026-09-15,2026-09-14,Delivered,BlueDart,TRK365635280
+ORD-50490,C1106,P128,Building Blocks 500pcs,Books & Toys,2,2998,UPI,2026-09-19,2026-09-26,2026-09-24,Delivered,Ekart,TRK834773724
+ORD-50491,C1142,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Cash on Delivery,2026-09-25,2026-10-01,2026-09-27,Delivered,BlueDart,TRK695861587
+ORD-50492,C1022,P100,Wireless Earbuds Pro,Electronics,2,4998,UPI,2026-10-01,2026-10-07,2026-10-06,Delivered,XpressBees,TRK659116527
+ORD-50493,C1138,P115,Air Fryer 4L,Home & Kitchen,1,4999,Debit Card,2026-09-14,2026-09-19,2026-09-20,Delivered,Shadowfax,TRK453566796
+ORD-50494,C1032,P119,LED Desk Lamp,Home & Kitchen,1,1099,Wallet,2026-10-13,2026-10-18,,Out for Delivery,Delhivery,TRK248294102
+ORD-50495,C1217,P115,Air Fryer 4L,Home & Kitchen,2,9998,Net Banking,2026-10-02,2026-10-09,2026-10-05,Returned,Delhivery,TRK440908961
+ORD-50496,C1183,P108,Cotton Kurta Set,Fashion,3,3897,Credit Card,2026-10-03,2026-10-08,2026-10-07,Returned,BlueDart,TRK921879587
+ORD-50497,C1199,P113,Sports T-Shirt Pack of 3,Fashion,2,1998,Wallet,2026-09-14,2026-10-10,,Delayed,Ekart,TRK263162642
+ORD-50498,C1114,P123,Perfume Oud 100ml,Beauty,1,1799,Net Banking,2026-10-13,2026-10-18,,Shipped,Shadowfax,TRK386541544
+ORD-50499,C1174,P125,Dumbbell Set 10kg,Sports,1,1999,Wallet,2026-09-26,2026-10-01,2026-09-28,Delivered,XpressBees,TRK243974416
+ORD-50500,C1012,P118,Mixer Grinder 750W,Home & Kitchen,3,9897,Cash on Delivery,2026-09-17,2026-09-22,,Cancelled,XpressBees,TRK247653166
+ORD-50501,C1111,P122,Hair Dryer Compact,Beauty,3,4197,Cash on Delivery,2026-10-08,2026-10-15,2026-10-10,Delivered,Delhivery,TRK897110135
+ORD-50502,C1064,P100,Wireless Earbuds Pro,Electronics,3,7497,Cash on Delivery,2026-10-06,2026-10-11,2026-10-11,Delivered,Ekart,TRK591285126
+ORD-50503,C1236,P109,Running Shoes Air,Fashion,2,5598,Cash on Delivery,2026-09-15,2026-10-10,,Delayed,Shadowfax,TRK897218787
+ORD-50504,C1083,P127,Kids Story Book Set,Books & Toys,1,899,Cash on Delivery,2026-09-07,2026-09-11,2026-09-13,Returned,BlueDart,TRK363841612
+ORD-50505,C1196,P104,USB-C Fast Charger 33W,Electronics,1,899,Cash on Delivery,2026-10-08,2026-10-13,,Delayed,XpressBees,TRK427012523
+ORD-50506,C1240,P108,Cotton Kurta Set,Fashion,1,1299,UPI,2026-09-11,2026-09-16,2026-09-16,Delivered,Shadowfax,TRK252728624
+ORD-50507,C1057,P115,Air Fryer 4L,Home & Kitchen,1,4999,Net Banking,2026-10-05,2026-10-09,,Cancelled,Shadowfax,TRK245284437
+ORD-50508,C1230,P102,Bluetooth Speaker Mini,Electronics,1,1499,Wallet,2026-09-12,2026-09-16,2026-09-15,Delivered,Delhivery,TRK588212379
+ORD-50509,C1240,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Cash on Delivery,2026-09-30,2026-10-04,2026-10-02,Delivered,Ekart,TRK191597206
+ORD-50510,C1058,P114,Non-stick Cookware Set,Home & Kitchen,1,2299,UPI,2026-09-08,2026-10-10,,Delayed,Delhivery,TRK459910894
+ORD-50511,C1191,P106,Noise Cancelling Headphones,Electronics,1,5999,Wallet,2026-10-13,2026-10-18,,Out for Delivery,BlueDart,TRK550522411
+ORD-50512,C1105,P108,Cotton Kurta Set,Fashion,1,1299,Credit Card,2026-09-22,2026-09-27,,Cancelled,Delhivery,TRK103793417
+ORD-50513,C1020,P123,Perfume Oud 100ml,Beauty,3,5397,Net Banking,2026-10-10,2026-10-17,2026-10-14,Delivered,BlueDart,TRK752817769
+ORD-50514,C1017,P119,LED Desk Lamp,Home & Kitchen,1,1099,UPI,2026-09-27,2026-10-04,2026-10-02,Delivered,Shadowfax,TRK744354734
+ORD-50515,C1006,P113,Sports T-Shirt Pack of 3,Fashion,1,999,UPI,2026-09-23,2026-09-28,2026-09-25,Returned,Ekart,TRK139428930
+ORD-50516,C1131,P109,Running Shoes Air,Fashion,3,8397,UPI,2026-10-12,2026-10-18,,Processing,BlueDart,TRK547704086
+ORD-50517,C1189,P129,Office Backpack 30L,Fashion,2,3398,Debit Card,2026-09-04,2026-09-09,2026-09-09,Delivered,BlueDart,TRK199993584
+ORD-50518,C1163,P102,Bluetooth Speaker Mini,Electronics,2,2998,Net Banking,2026-09-17,2026-09-24,2026-09-19,Delivered,BlueDart,TRK414426733
+ORD-50519,C1233,P123,Perfume Oud 100ml,Beauty,1,1799,Net Banking,2026-10-12,2026-10-18,,Shipped,Delhivery,TRK847141233
+ORD-50520,C1184,P128,Building Blocks 500pcs,Books & Toys,1,1499,Wallet,2026-10-14,2026-10-18,,Processing,Shadowfax,TRK946307028
+ORD-50521,C1120,P129,Office Backpack 30L,Fashion,3,5097,Net Banking,2026-09-20,2026-10-11,,Delayed,Shadowfax,TRK633002137
+ORD-50522,C1092,P105,Mechanical Keyboard,Electronics,3,10497,Credit Card,2026-09-09,2026-09-14,,Cancelled,Ekart,TRK307828574
+ORD-50523,C1046,P126,Cricket Bat Kashmir Willow,Sports,2,3198,Credit Card,2026-10-11,2026-10-15,,Processing,Shadowfax,TRK545207819
+ORD-50524,C1026,P126,Cricket Bat Kashmir Willow,Sports,2,3198,Wallet,2026-09-18,2026-09-23,2026-09-20,Delivered,Ekart,TRK373178728
+ORD-50525,C1076,P125,Dumbbell Set 10kg,Sports,1,1999,Debit Card,2026-09-21,2026-09-27,2026-09-23,Delivered,Ekart,TRK525254727
+ORD-50526,C1067,P125,Dumbbell Set 10kg,Sports,1,1999,Debit Card,2026-10-13,2026-10-18,,Processing,XpressBees,TRK609490977
+ORD-50527,C1093,P125,Dumbbell Set 10kg,Sports,2,3998,Net Banking,2026-10-11,2026-10-16,,Out for Delivery,Ekart,TRK596573456
+ORD-50528,C1022,P117,Ceramic Dinner Set,Home & Kitchen,1,2599,UPI,2026-10-07,2026-10-11,,Delayed,Delhivery,TRK719975993
+ORD-50529,C1003,P109,Running Shoes Air,Fashion,3,8397,Debit Card,2026-10-06,2026-10-11,2026-10-10,Delivered,XpressBees,TRK772710898
+ORD-50530,C1179,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Debit Card,2026-10-11,2026-10-16,,Out for Delivery,Ekart,TRK862184916
+ORD-50531,C1170,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Debit Card,2026-10-05,2026-10-12,,Delayed,Delhivery,TRK663822282
+ORD-50532,C1205,P114,Non-stick Cookware Set,Home & Kitchen,2,4598,UPI,2026-10-12,2026-10-16,,Shipped,XpressBees,TRK643307666
+ORD-50533,C1217,P100,Wireless Earbuds Pro,Electronics,1,2499,Cash on Delivery,2026-09-08,2026-09-13,,Cancelled,Shadowfax,TRK433245127
+ORD-50534,C1051,P103,Power Bank 20000mAh,Electronics,1,1299,UPI,2026-10-14,2026-10-19,,Out for Delivery,XpressBees,TRK516169674
+ORD-50535,C1052,P108,Cotton Kurta Set,Fashion,3,3897,Wallet,2026-10-03,2026-10-07,2026-10-07,Returned,Shadowfax,TRK193497030
+ORD-50536,C1020,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Debit Card,2026-10-14,2026-10-20,,Processing,Delhivery,TRK444542674
+ORD-50537,C1186,P120,Bedsheet Double King,Home & Kitchen,2,2398,Debit Card,2026-09-23,2026-09-29,2026-09-28,Delivered,Delhivery,TRK269110063
+ORD-50538,C1170,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Net Banking,2026-10-14,2026-10-19,,Processing,Ekart,TRK391039983
+ORD-50539,C1018,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Net Banking,2026-09-04,2026-09-09,2026-09-07,Delivered,Ekart,TRK680440242
+ORD-50540,C1241,P116,Steel Water Bottle 1L,Home & Kitchen,3,1347,UPI,2026-10-14,2026-10-21,,Out for Delivery,BlueDart,TRK511886978
+ORD-50541,C1072,P107,Smartwatch Active 2,Electronics,2,8998,Debit Card,2026-09-15,2026-10-10,,Delayed,Ekart,TRK977721640
+ORD-50542,C1169,P128,Building Blocks 500pcs,Books & Toys,1,1499,Wallet,2026-10-05,2026-10-12,2026-10-11,Returned,XpressBees,TRK204435349
+ORD-50543,C1180,P105,Mechanical Keyboard,Electronics,3,10497,Credit Card,2026-09-10,2026-09-15,,Cancelled,Shadowfax,TRK377082043
+ORD-50544,C1045,P128,Building Blocks 500pcs,Books & Toys,1,1499,UPI,2026-09-29,2026-10-11,,Delayed,BlueDart,TRK610386386
+ORD-50545,C1235,P120,Bedsheet Double King,Home & Kitchen,1,1199,Debit Card,2026-09-11,2026-09-16,,Cancelled,Shadowfax,TRK717056083
+ORD-50546,C1034,P105,Mechanical Keyboard,Electronics,1,3499,Wallet,2026-10-11,2026-10-15,,Shipped,BlueDart,TRK950866243
+ORD-50547,C1064,P111,Leather Wallet,Fashion,1,699,Credit Card,2026-09-15,2026-09-22,,Cancelled,Shadowfax,TRK270746733
+ORD-50548,C1003,P103,Power Bank 20000mAh,Electronics,3,3897,Net Banking,2026-10-12,2026-10-17,,Shipped,XpressBees,TRK942150718
+ORD-50549,C1234,P121,Face Serum Vitamin C,Beauty,2,1198,UPI,2026-09-06,2026-09-11,2026-09-09,Delivered,Shadowfax,TRK998451531
+ORD-50550,C1215,P106,Noise Cancelling Headphones,Electronics,3,17997,Credit Card,2026-09-20,2026-09-24,,Cancelled,Ekart,TRK535717670
+ORD-50551,C1062,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Wallet,2026-10-11,2026-10-17,,Shipped,BlueDart,TRK197209076
+ORD-50552,C1212,P119,LED Desk Lamp,Home & Kitchen,2,2198,Cash on Delivery,2026-10-14,2026-10-19,,Out for Delivery,Shadowfax,TRK412999235
+ORD-50553,C1108,P104,USB-C Fast Charger 33W,Electronics,2,1798,Debit Card,2026-09-28,2026-10-03,,Cancelled,Ekart,TRK712329631
+ORD-50554,C1135,P125,Dumbbell Set 10kg,Sports,1,1999,Net Banking,2026-09-13,2026-09-19,2026-09-15,Delivered,Shadowfax,TRK534003670
+ORD-50555,C1210,P122,Hair Dryer Compact,Beauty,3,4197,UPI,2026-10-07,2026-10-13,2026-10-13,Delivered,Shadowfax,TRK981277125
+ORD-50556,C1077,P101,Smart Fitness Band,Electronics,2,3998,Cash on Delivery,2026-10-09,2026-10-14,2026-10-14,Delivered,Ekart,TRK864261139
+ORD-50557,C1001,P123,Perfume Oud 100ml,Beauty,1,1799,Credit Card,2026-09-13,2026-10-12,,Delayed,Shadowfax,TRK512955792
+ORD-50558,C1154,P101,Smart Fitness Band,Electronics,3,5997,Wallet,2026-09-14,2026-09-19,2026-09-18,Delivered,Delhivery,TRK244179313
+ORD-50559,C1069,P123,Perfume Oud 100ml,Beauty,2,3598,Credit Card,2026-10-13,2026-10-20,,Processing,BlueDart,TRK247339141
+ORD-50560,C1182,P124,Yoga Mat 6mm,Sports,1,799,Cash on Delivery,2026-09-11,2026-10-12,,Delayed,Shadowfax,TRK980544989
+ORD-50561,C1146,P106,Noise Cancelling Headphones,Electronics,2,11998,Net Banking,2026-09-26,2026-10-01,2026-10-01,Delivered,XpressBees,TRK884812266
+ORD-50562,C1226,P126,Cricket Bat Kashmir Willow,Sports,1,1599,UPI,2026-09-23,2026-09-30,2026-09-29,Returned,BlueDart,TRK710045960
+ORD-50563,C1149,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-10-03,2026-10-10,2026-10-05,Delivered,Shadowfax,TRK905931508
+ORD-50564,C1001,P111,Leather Wallet,Fashion,1,699,Net Banking,2026-09-07,2026-09-11,,Cancelled,BlueDart,TRK363315107
+ORD-50565,C1171,P123,Perfume Oud 100ml,Beauty,3,5397,Net Banking,2026-10-12,2026-10-16,,Shipped,BlueDart,TRK603444049
+ORD-50566,C1061,P103,Power Bank 20000mAh,Electronics,1,1299,Debit Card,2026-09-04,2026-09-10,,Cancelled,Ekart,TRK279860527
+ORD-50567,C1002,P117,Ceramic Dinner Set,Home & Kitchen,2,5198,Net Banking,2026-09-04,2026-09-10,2026-09-06,Delivered,Delhivery,TRK715103737
+ORD-50568,C1087,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Net Banking,2026-10-09,2026-10-15,2026-10-14,Delivered,BlueDart,TRK941558920
+ORD-50569,C1228,P101,Smart Fitness Band,Electronics,3,5997,UPI,2026-10-12,2026-10-18,,Out for Delivery,BlueDart,TRK748348443
+ORD-50570,C1102,P103,Power Bank 20000mAh,Electronics,3,3897,Debit Card,2026-10-11,2026-10-17,,Out for Delivery,Delhivery,TRK620677295
+ORD-50571,C1134,P120,Bedsheet Double King,Home & Kitchen,3,3597,Net Banking,2026-10-08,2026-10-14,2026-10-10,Returned,Delhivery,TRK999381416
+ORD-50572,C1128,P123,Perfume Oud 100ml,Beauty,2,3598,Credit Card,2026-09-16,2026-10-10,,Delayed,Delhivery,TRK720362276
+ORD-50573,C1105,P101,Smart Fitness Band,Electronics,1,1999,Cash on Delivery,2026-10-07,2026-10-13,2026-10-09,Delivered,XpressBees,TRK611350152
+ORD-50574,C1132,P100,Wireless Earbuds Pro,Electronics,1,2499,Credit Card,2026-09-26,2026-10-03,2026-10-01,Returned,Shadowfax,TRK566792435
+ORD-50575,C1038,P112,Silk Saree,Fashion,3,11997,Wallet,2026-09-16,2026-09-22,,Cancelled,BlueDart,TRK204544138
+ORD-50576,C1070,P126,Cricket Bat Kashmir Willow,Sports,1,1599,UPI,2026-09-13,2026-09-19,2026-09-17,Delivered,Ekart,TRK802595747
+ORD-50577,C1122,P113,Sports T-Shirt Pack of 3,Fashion,1,999,Wallet,2026-09-25,2026-09-30,,Cancelled,Delhivery,TRK436370919
+ORD-50578,C1232,P118,Mixer Grinder 750W,Home & Kitchen,1,3299,Net Banking,2026-10-14,2026-10-18,,Processing,BlueDart,TRK836049538
+ORD-50579,C1108,P125,Dumbbell Set 10kg,Sports,1,1999,Net Banking,2026-09-22,2026-09-28,2026-09-25,Delivered,BlueDart,TRK161076482
+ORD-50580,C1173,P110,Denim Jacket,Fashion,3,5697,Credit Card,2026-10-03,2026-10-07,2026-10-05,Delivered,XpressBees,TRK804798365
+ORD-50581,C1039,P121,Face Serum Vitamin C,Beauty,1,599,Cash on Delivery,2026-10-14,2026-10-19,,Out for Delivery,BlueDart,TRK785885348
+ORD-50582,C1170,P126,Cricket Bat Kashmir Willow,Sports,1,1599,UPI,2026-09-13,2026-09-19,2026-09-17,Delivered,Ekart,TRK934411164
+ORD-50583,C1205,P115,Air Fryer 4L,Home & Kitchen,3,14997,Debit Card,2026-09-19,2026-10-11,,Delayed,Delhivery,TRK573063629
+ORD-50584,C1246,P109,Running Shoes Air,Fashion,1,2799,Net Banking,2026-09-15,2026-09-20,2026-09-20,Delivered,XpressBees,TRK334490716
+ORD-50585,C1103,P125,Dumbbell Set 10kg,Sports,1,1999,UPI,2026-10-11,2026-10-17,,Shipped,BlueDart,TRK713476544
+ORD-50586,C1125,P127,Kids Story Book Set,Books & Toys,1,899,Wallet,2026-10-09,2026-10-16,,Cancelled,BlueDart,TRK140625696
+ORD-50587,C1143,P120,Bedsheet Double King,Home & Kitchen,1,1199,Net Banking,2026-10-01,2026-10-07,2026-10-06,Delivered,XpressBees,TRK613398300
+ORD-50588,C1097,P112,Silk Saree,Fashion,1,3999,Wallet,2026-10-13,2026-10-17,,Shipped,XpressBees,TRK230141431
+ORD-50589,C1199,P101,Smart Fitness Band,Electronics,1,1999,Wallet,2026-09-19,2026-09-25,2026-09-24,Delivered,BlueDart,TRK492297332
+ORD-50590,C1106,P121,Face Serum Vitamin C,Beauty,2,1198,Credit Card,2026-10-05,2026-10-12,2026-10-09,Delivered,Shadowfax,TRK142231531
+ORD-50591,C1166,P118,Mixer Grinder 750W,Home & Kitchen,2,6598,Debit Card,2026-09-21,2026-09-28,2026-09-23,Delivered,XpressBees,TRK191120392
+ORD-50592,C1012,P119,LED Desk Lamp,Home & Kitchen,1,1099,UPI,2026-09-28,2026-10-03,,Cancelled,Shadowfax,TRK356071459
+ORD-50593,C1030,P111,Leather Wallet,Fashion,1,699,Cash on Delivery,2026-10-12,2026-10-19,,Shipped,BlueDart,TRK139774278
+ORD-50594,C1136,P116,Steel Water Bottle 1L,Home & Kitchen,1,449,Wallet,2026-10-08,2026-10-15,2026-10-10,Delivered,Shadowfax,TRK592171427
+ORD-50595,C1009,P122,Hair Dryer Compact,Beauty,1,1399,Credit Card,2026-10-01,2026-10-06,2026-10-03,Returned,XpressBees,TRK802046257
+ORD-50596,C1185,P126,Cricket Bat Kashmir Willow,Sports,1,1599,Wallet,2026-10-13,2026-10-18,,Processing,BlueDart,TRK430000948
+ORD-50597,C1245,P119,LED Desk Lamp,Home & Kitchen,3,3297,UPI,2026-10-11,2026-10-16,,Shipped,BlueDart,TRK222599500
+ORD-50598,C1086,P123,Perfume Oud 100ml,Beauty,1,1799,Wallet,2026-10-06,2026-10-11,2026-10-11,Delivered,XpressBees,TRK448144622
+ORD-50599,C1088,P116,Steel Water Bottle 1L,Home & Kitchen,2,898,Net Banking,2026-10-02,2026-10-08,2026-10-05,Returned,Delhivery,TRK460244389
